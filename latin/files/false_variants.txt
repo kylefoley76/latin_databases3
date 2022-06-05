@@ -1,0 +1,717 @@
+;acesis	  f.   [Greek ἄκεσις] A form of malachite.
+;ampliter	  adv.   [amplus + -ter2] For comparative see amplius, for superlative amplē
+anarrinon	  neut.   [Greek ἀνάρρινον] = antirrīnum.
+antidhac	  adv.   [old form of antehāc] Heretofore, up till now.
+;arcuatim	  adv.   [arcuātus1 + -im] In the form of an arch or bow.
+ast	  conj.   [amplified form of at1] Orthography: astv (=   ast tu  )   CIL   6.2068.19, 2074.1.35, etc. Position (in sense 3): postponed to second place in   V. Fl.   5.548, 6.197, 8.255 Note: in sense 3 it is commonly followed by a word beginning with a vowel; but by a word beginning with a consonant in   Verg.     A.   10.743,   Ov.     Met.   7.241,   Stat.     Theb.   2.668,   Sil.   11.190, etc.
+attat	  interj.   [shortened form of attatae] (expr. sudden enlightenment, surprise, etc.) Ah!
+attatae	  interj.   [Greek ἀτταταῖ] = attat.
+blanditer	     adv.   [blandus + -ter2] = blandē.
+blando	     adv.   [blandus + -ō2] = blandē.
+castellatim	     adv.   [castellum + -im] At intervals in the manner or form of   castella  .
+certe	   see certō2). [certus + -ē]
+*chalcan	     (accusative) f.   [cf. Greek χαλκάς ( -άδος )] A plant probably of the chrysanthemum family = buphthalmus.
+*chondris	     f.   [Greek] = pseudodictamnum, (perhaps) Bastard dittany.
+cogitatim	     adv.   [cōgitō + -im] = cōgitātē.
+commodulum	     adv.   [commodus1 + -ulus] = commodulē.
+;concluse	     adv.   [conclūsus + -ē] (rhet.) In the form of a period, in a rounded manner.
+cruenter	     adv.   [cruentus + -ter2 with syncope] = cruentē.
+dapsiliter	     adv.   [dapsilis + -ter2] = dapsile.
+des	     m.   [duo + as] Old form of bēs.
+dispersim	     adv.   [dispersus1 + -im] = dispersē.
+edi	     interj.   [according to Charisius, =   edius fidius   (apparently a by-form of   medius   Fidius with   e-   as in   ecastor  )] An oath used by men.
+efflicte	     adv.   [as efflictim + -ē] = efflictim.
+em2	     interj.   [probably abbreviated form of imperative of emō (originally = take)] NB: there is some manuscript variation between   em   and hem. Constructions: see the subsections; often also followed by ethic dative (  tibi, uobis  ). (in offering some object, fact, situation, etc., to a person's attention) Here (there) you are! look at this (that)!
+endo	     prep.   [= indu] Archaic equivalent of in, in various senses.
+;enim	     particle  [ Oscan inim (and), Umbrian enem, enom (then); = pronominal stem *  (e)no-   (cf.   nam, nunc  ) + -im] NB: see at1, immō, neque, quia, quis1, quod, sed1, uel, uerum1 for special combinations of   enim  ; see also enimuērō, etenim. Position: normally second word (or element) in sentence, but sometimes postponed, especially for metrical reasons; in first position condemned as a solecism by Quintilian (  Inst.   1.5.39), but frequent in Plautus and Terence (in sense 1), and also found in   Calp.     Decl.   20,   Apul.     Apol.   18, 98,   Soc.   8, etc.
+enixim	     adv.   [ēnixus1 + -im] = ēnixē.
+;epichysis	     f.   [Greek ἐπίχυσις] (probably) A form of wine ladle.
+;erctum	   [cf. erciscor] (with forms of   cieo  , in phrases ref. to the partition of an inheritance, see quotations; the precise grammatical analysis of these phrases is disputed).
+*erithales	     neut.   [Greek ἐριθαλής] A succulent plant, = sedum.
+erysithales	     neut.   [Greek] A succulent plant, = sedum; (apparently also) an unknown yellow-flowered plant.
+etymologice	     f.   [Greek ἐτυμολογική] = etymologia.
+faciliter	     adv.   [facilis + -ter2] = facile; (cited as example of pedantry in   Quint.     Inst.   1.6.17).
+;fero	     ~rre, tulī, lātum     tr.     (intr.)   [Umbrian fertu, Greek φέρω, Sanskrit bhárati, Old Irish biru, Old High German beran; for perfect forms see tollō] Forms: Present indicative and imperative:   ~rs, ~rt, ~rtis, ~r  , and   ~rte   regularly for   ~ris  , etc., gerundive   ~rendus, ~rundus  . Reduplicated perfect forms   tetul-     Pl.     Am.   716,   Cist.   650, etc.;   Ter.     An.   808, etc.;   Enn.     Ann.   55;   Caecil.     com.   75;   Lucr.   6.672;   Catul.   63.47, 52; 66.35.   tol-   (for   tul-  )   CIL   1.596.11; 1.1215b.
+fidele	     adv.   [neut. of fidēlis] = fidēliter.
+;fortasse	     adv.   [fors1; etymology of termination dub., perhaps =   forte an sit  ] It may be, perhaps, possibly (sometimes ironic):
+;frugi	     indeclinable adj.   (for comparative and superlative see frūgālis). [originally pred. dative of frux]
+galeobdolon	     neut.   [Greek γαλεa2 βδολον] See galēopsis.
+galion	     neut.   [Greek γάλιον] = galēopsis.
+;gigno	     ~ere, genuī, genitum     tr.   [Greek γίγνομαι, Sanskrit jána-ti] Forms: for unreduplicated forms see genō.
+grauatim	     adv.   [as grauātē + -im] = grauātē.
+;hidros	   (dub.)   noun   [apparently Greek ἱδρa4 ς] A form of purulent discharge.
+hippagogos	     f.   [Greek ἱππαγωγa2 ς] = hippāgō.
+*hippopheos	     m.   [Greek ἱππa2 φεως] = epithymum (according to Pliny).
+historicos	     adv.   [Greek ἱστορικῶς] = historicē2.
+hoc	     adv.   [probably instrumental form of hic1] (NB frequently confused in codd. with hūc which is identical in meaning)
+hydrophobas	     m.   [Greek ὑδροφa2 βας] = hydrophobus.
+*hypoglottion	     neut.   [Greek ὑπογλa4 ττιος] = laurus   Alexandrina  .
+;igitur	     conj.   [apparently weakened form of   agitur   (agō), originally in phrase   quid igitur   and similar] Position: see quots; discussed   Quint.     Inst.   1.5.39.
+ignauiter	     adv.   [ignāuus + -ter2] = ignāuē.
+illi	     adv.   [locative sg. m. of ille] At that place, there (= illīc2).
+incerto1	     adv.   [incertus + -ō2] = incertē.
+incisim	     adv.   [as incīsē + -im] = incīsiō.
+inconcinniter	     adv.   [inconcinnus + -ter2] = inconcinnē.
+inconsulto	     adv.   [inconsultus1 + -ō2] = inconsultē; also, without design, inadvertently.
+indu	     prep.     (adv.)   [= endo; cf. Hittite   anda(n)   'in', Greek ἔνδινα 'entrails'] (as preposition) Archaic equivalent of in (in quotations, with ablative).
+indubitanter	     adv.   [in-2 + participle of dubitō + -ter2] = indubitātē.
+industriose	   [industria + -ōsus + -ē] = industriē.
+infra1	     adv.   [contracted form of ablative f. sg. of inferus] Forms:   infera     CIL   1.1529; for comparative see inferius1.
+inimiciter	     adv.   [inimīcus + -ter2] = inimīcē.
+inopinato	     adv.   [inopīnātus + -ō2] = inopīnanter.
+insaniter	     adv.   [insānus + -ter2] = insānē.
+;insisto	     ~ere, institī     tr.     intr.   [in-1 + sistō] NB: The forms of the perfect tenses are not distinguishable from those of instō.
+intempestiuiter	     adv.   [intempestīuus + -ter2] = intempestīuē.
+;laecasin	   [= Greek λαικάζειν 'fellare']   ~ dicere   (as a vulgar imprecation) To tell to go to hell; (written in Greek   Mart.   11.58.12).
+largitus	     adv.   [largus + -itus1] = largē.
+lasciuiter	     adv.   [lascīuus + -ter2] = lascīuē.
+;lex	     lēgis     f.   [cf. Oscan ligud (=   lege  ); Vedic rājáni] Orthography:   lexs     CIL   14.2112.1.19;   leegei   (dative sg.) 1.582.26;   leege   (ablative sg.) 1.1439;   leigibus   (ablative pl.) 1.62 (= 14.2892).
+;longum	     adv.   [neut. of longus] For comparative see longē.
+luculenter	     adv.   [lūculentus + -ter2] = lūculentē.
+maestiter	     adv.   [maestus + -ter2] = maestē.
+Maurice	     adv.   [Mauricus + -ē] = Mauricātim.
+;melius1	     comparative adv.   For positive see bene. [melior]
+;miltites	     m.   [Greek] A form of haematite which, when burnt, resembles red ochre.
+;muger	     m.   [perhaps cf. Old Irish formūigthe 'hidden', English miche, mouch (originally = play truant)] A person who cheats at dice.
+;multum2	     adv.   [multus] For comparative and superlative see plūs1 3, plūrimum.
+mutuiter	     adv.   [as mūtuē + -ter2] = mūtuē.
+;noue	     adv.   For superlative see nouissimē. [nouus + -ē]
+;nouissimum	     adv.   [neut. of nouissimus] = nouissimē 3.
+numnam	     interrogative particle   [num + nam] (Emphatic form of num, used to introduce questions where the possibility of a negative answer is present in the speaker's mind.).
+o2	     interj.   [cf. Greek ὠ̑, ὤ] NB: for absolute uses see ōh.
+;ohe	     interj.   [perhaps = Greek ὠή] Prosody: first syllable can be short or long. An exclamation used in calling on someone to stop   (often followed by iam, etc.)  .
+opulenter	     adv.   [opulens + -ter2] = opulentē.
+;par1	     paris     adj.     parissimus.   [dub.: Umbrian parsest = par est] Forms: ablative sg.   ~ri  ; genitive pl.   ~rium  ;   ~ris   (nominative sg.)   Atta     com.   14; for comparative   magis ~r   is used, e.g.   Pl.     Bac.   620,   Cur.   110b,   Per.   801, etc.; superlative   CIL   1.7 (  ~risuma  ),   Pl.     Cur.   506,   Gel.   20.1.34.
+pello	     ~ere, pepulī, pulsum     tr.   [cf. Umbrian ařpeltu (=   appellito  )] Forms:   polsi   (=   pepuli  )   Titin.     com.   182.
+perplexim	     adv.   [perplexus + -im] = perplexē.
+plerum	     adv.   [neut. of plērus] = plērumque.
+postid	     adv.   [apparently old form of post1, but perhaps understood as   post id  ] Afterwards, then.
+postillac	     adv.   [post1 + illāc] = postillā.
+postmodum	     adv.   [perhaps false rationalization of postmodo] = postmodo.
+postriduo	     adv.   [as postrīdiē; for termination cf. bīduum] = postrīdiē.
+prognare	     adv.   [pro- + gnārus + -ē] (See quotation; but probably= prōgnāriter).
+;prognariter	     adv.   [pro- + gnārus + -ter2] (probably) With full knowledge, with clear insight (according to Nonius = boldly, unhesitatingly).
+;proin	     adv.   [abbreviated form of pro͡inde] Prosody: disyllabic in   Priap.   85.16. So then, accordingly (introducing appeals, exhortations, or similar; also in other contexts).
+promiscam	     adv.   [accusative f. sg. of prōmiscuus] = prōmiscuē.
+propemodo	     adv.   [var. of propemodum, perhaps on analogy of   postmodo  ] = propemodum.
+proreus	     m.   [Greek πρῳρεa3 ς] = prōrēta.
+proteruiter	     adv.   [proteruus + -ter2] = proteruē.
+puriter	     adv.   [pūrus + -ter2] NB: for comparative and superlative see pūrē.
+quadrifariter	     adv.   [as quadrifāriam + -ter2] = quadrifāriam.
+quis2	     qua or quae, quid     indefinite pron.     (adj.)   [unaccented form of quis1, cf. Greek τις] Forms,   etc.  : except in nominative sg. declined like quī1, but nominative and accusative neut. pl.   qua   as well as, and commoner than,   quae  ; archaic nominative pl. m.   quēs   in   CIL   1.581.3 and 24,   Cato     hist.   1.   ne quis  ,   num quis  , and (especially)   si quis   are sometimes written as single words.
+quotiensque	     relative adv.   [quotiens + -que2] = quotienscumque.
+;res	     reī     f.   [Umbrian re-per (=   pro re  ), cf. Sanskrit rā́ḥ, Avestan raēvant-] Forms:   re   (for   rei  , genitive or dative)   Elog.   13 (  CIL   1.p.193);   Lucil.   237;   Rhet. Her.   3.3 (twice, s.vv.ll.). Prosody:   rēī   (genitive or dative)   Pl.     Mil.   103,   Mos.   88;   Lucr.   1.688, 2.112, 236, 548, 6.918   rei   (genitive or dative) scanned as monosyllabic   Pl.     As.   182,   Per.   65,   Trin.   38;   Ter.     An.   458,   Ph.   616;   Lucr.   3.918, 4.885.
+;rhox	     f.   [Greek ῥa4 ξ (= ῥάξ), literally 'grape'] A kind of spider, so called from its shape.
+rite	     adv.   [apparently by-form of ablative of rītus]
+;robus2	     m.   [probably= rōbus3] A kind of wheat.
+;salue1	     interj.   [either = saluē2 (treated as imperative) or from original   salueo   (saluus + -eō)] Forms: other imperative forms   ~ete   (frequent) and   ~eto     Pl.     Rud.   416,   Pompon.     com.   49; infinitive   ~ere   frequent in phrase   ~ere iubere   and similar;   ~eo     Pl.     Truc.   259 and   ~ebis     Cic.     Att.   6.2.10 apparently nonce uses.
+scauripeda	   [scaurus1 + pēs] = scaurus1.
+;serratim	     adv.   [serrātus + -im] In the form of a saw.
+;sibones	     pl.   [dub., perhaps a form of sybina] (See quotation).
+sodes	   [colloquial contraction of   si audes   (audeō), cf.   Cic.     Orat.   154,   Fest.   p.297M] (used to soften a command, usu. placed after imperative) If you do not mind, please; (especially   dic ~  ).
+sollemnitus	     adv.   [sollemnis + -itus1] = sollemniter.
+solummodo	     adv.   [sōlum2, modo1] = sōlum2.
+sopia	     neut. pl.   [unknown] (apparently) =   sedīlia   (sedīle).
+sublime	     adv.   [neut. of sublīmis] Forms: for comparative see sublīmiter. 
+;sus2	     sa, sum     adj.   [< Indo-European *swo-, cf. Sanskrit svás, Greek ὅς (=   σa2 ς  )] NB: several examples attributed to the old demonstrative pronoun sum2 might conceivably belong here. (reflexive possessive) His, her, its (  = suus  ).
+tamendem	     adv.   [apparently strengthened form of tamen] All the same, none the less.
+tempestiuo	     adv.   [tempestīuus + -ō2] = tempestīuē.
+;thiasitas	     (? ~ātis     f.  ) [apparently thiasus + -tās] (See quotation; but perhaps really belonging to a m. first-declension noun = Greek θιασίτης).
+trifarie	     adv.   [tri- + -fārius + -ē] = trifāriam.
+turbulenter	     adv.   [as turbulentē + -ter2] = turbulentē (main sense).
+ualde	   [contracted form of ualidē]
+unorsum	     adv.   [syncopated form of   uniuorsum   (neut. of ūniuersus)] All at once.
+unose	     adv.   [perhaps syncopated form of   uniuorse   (ūniuersē)] All together.
+*abiga	  f.   [abigō] = chamaepitys. Chamaepitys Latine ~a uocatur propter abortus   Plin.     Nat.   24.29.
+acerbitudo	  f.   [acerbus + -tūdō] = acerbitās. nihil quicquam interest, 'suauitudo' dicas an 'suauitas' ‥ '~o' an 'acerbitas'   Gel.   13.3.2.
+aduentorius	  adj.   [adueniō + -tōrius] = aduentīcius 5.
+adulo	  tr.   [active form of adūlor]
+aeruca	  f.   [var. of aerūgō] Verdigris.
+;aessomus	  adj.   [? = Greek ἔξωμος] sleeveless.
+albaris	  adj.   [albus + -āris = albārius1]   ar  am ..  opere ~i exornavit   CIL   8.73; 8.1310.
+albicerus	  adj.   [as albicēris + -us] = albicēris.
+alisma	  neut.   [Greek ἄλισμα] See alcima.
+;alopecia	  f.   [Greek ἀλωπεκία] A bald patch on the head (apparently caused by a form of mange).
+altitonus	  adj.   [altus + tonō + -us] = altitonans.
+altiuolus	  adj.   [altus + uolō2] = altiuolans.
+alueolatus	  adj.   [alueolus + -ātus2] = alueātus.
+;anclo	  tr.   [Greek ἀντλῶ] (NB: The forms of this word and anculō are confused and examples of both are quoted here.) To serve (wine).
+;anculo	  tr.   [anculus + -ō3] To serve: see anclō.
+andronitis	  f.   [Greek ἀνδρωνῖτις] = andrōn 1.
+;animatio	  f.   [animō + -tiō] A form of life.
+anthyllis	  f.   [Greek ἀνθυλλίς] = anthyllium.
+antideo	  tr. intr.   [old form of anteeō] To surpass, excel, outdo.
+apothesis	  f.   [Greek ἀπa2 θεσις] = apophysis.
+apua	  f.   [Greek ἀφa3 η] A small or young fish, 'whitebait' (= aphyē).
+arbitro	  tr. intr.   [var. of arbitror]
+arcifinalis	  adj.   [as arcifīnius + -ālis] = arcifīnius.
+*argemonion	  neut.   [Greek ἀργεμa4 νιον] = inguinālis.
+arietillus	  adj.   [arietīnus + -lus] like a ram, (in quotation perhaps) shameless; (as the name of a variety of chickpea, = arietīnus).
+arra	  f.   [shortened form of arrabō] A token payment on account, earnest money, deposit.
+articularius	  adj.   [as articulāris + -ārius] = articulāris.
+;diu3	   [probably = diū1 in transf. sense, cf. diurnō] with   tam   sometimes spelled as one word; for   quam ~u  , see quamdiū. Prosody: the 2nd syllable is usu. long except in the early dramatists.
+isoetes	     neut.   [Greek] A succulent plant, = sedum.
+;medi1	     interj.   [perhaps reduced form of   medius   Fidius; cf. edi] an quia 'pol edepol' fabulare, 'edi ~' meministi?   Titin.     com.   111 (  s.v.l.  ).
+necessum	     indeclinable adj.     indeclinable noun   [var. of necesse] Forms: (see quotations);   necesus     CIL   1.581.4. Construction: as adjective used only in pred. position.
+obnoxiose	     adv.   [obnoxiōsus + -ē] = obnoxiē (apparently sense 1).
+;hercle	     hercule     interj.   [apparently vocative from Greek *Ἥρακλος (= Ήρακλῆς)] (Interjection in the form of an appeal to Hercules used for emphasis, or to express strong feeling; it was used normally by the male sex only, though Plautus gives it to a hetaera in   Cist.   52).   a   non ~ apluda est hodie quam tu nequior   Naev.     com.   117; ne formida: saluom ~ erit   Pl.     As.   463; ~ te uerberibus multum caedi oportere arbitror   Cist.   245; dic mihi, opsecro ~   Ps.   340; perii ~, nomen perdidi   Ter.     Ph.   386; ipsum ~ Lanuuium ..  cum Calibus ‥ comparabunt   Cic.     Agr.   2.96; pater ~ tuus ..  male dixit mihi   Phaed.   1.1.12;   Apul.     Apol.   16;    (in combination with other intensifying particles, etc.)   haec quidem ~, opinor, praefica est   Naev.     com.   129; profecto ~ non fuit quicquam holerum   Pl.     Cas.   912; factum ~ uero et recte factum iudico   Epid.   707; immo ~ dixi quod uolebam   Poen.   1231; certe ~ nunc hic se ipsu' fallit   Ter.     An.   495; sane quidem ~   Cic.     Leg.   2.8.   b   non ~ mihi nisi admonito uenisset in mentem   Cic.     de Orat.   2.180; optimis ~ temporibus   Clu.   95; quid agat ..  scribas ad me uelim et ~ si quid aliud   Att.   14.10.4;   B. Afr.   12.1; unum ~ uirum   Liv.   2.28.4; at ~ suos honores ..  sublatos esse 42.12.7;   Tac.     Ann.   14.43;   Ant.     Fro.   1.p.126(163N);   Apul.     Met.   4.2.
+adipsatheon	  (?    )    noun   [Greek] = aspalathus. aspalatho siue erysisceptro siue ~o   Plin.     Nat.   1.24.69. 
+basilice1	         f.   [Greek βασιλική] apparently = basilicon.
+bdella	         f.   [Greek βδέλλα] = bdellium.
+beatitudo	         f.   [beātus + -tūdō] = beātitās.
+beneficientia	         f.   [var. of beneficentia] Beneficence, kindness.
+*botrys	         m.   [Greek βa2 τρυς] See artemisia2. 
+;caeculto	         intr.   [caecus, influenced by occultō1] To be purblind; to see badly.
+;caesius1	         adj.   [cf. caelum2; Lithuanian skáistas = bright; Armenian kaic = a flash] Forms:   Var.     L.   8.76 indicates that, though there was no comparative, there was a superlative   caesissumus  ;   caesis   (ablative pl.)   Suet.     Nero   51.1.
+Calliopea	         f.   [Greek Καλλιa2 πεια] = Calliopē.
+*callitrichon	         neut.   [Greek καλλίτριχον] = adiantum.
+canabarius	         m.   [canabae + -ārius] = canabensis.
+canaliensis	         adj.   [canālis + -ensis] = canālicius.
+catapirates	         m.   [cf. catapīrātēria] = catapīrātēria.
+catascopus	         m.   [Greek κατάσκοπος] = catascopium.
+catinulus	         m.   [catīnus + -ulus] = catillus.
+cellariarius	         m.   [cellārium + -ārius] = cellārius2.
+cerais	         f.   [Greek κεραίς] = armoracia.
+cerrinus	         adj.   [cerrus + -nus] = cerreus.
+*certisco	  )       intr.   [certus] (according to Non.p.89M =   certum fieri  ).
+;certus	         adj.   [form of participle of cernō] Forms:   ~um   (for   ~orum  )   Var.     Men.   57 (dub.).
+*chamaemelon	         neut.   [Greek χαμαίμηλον] = anthemis.
+chelidon	         f.   [Greek χελιδa4 ν 'swallow'] The female pudenda; (transf., perhaps) =   os fellatoris   (? or proper name).
+chenamyche	         f.   [Greek χήν, ἀμυχή] = nyctēgreton.
+chiliarchus	         m.   [Greek χιλίαρχος] = chīliarchēs (in quotation, applied to a Persian official).
+chiliodynamia	         f.   [cf. Greek χιλιοδa3 ναμος] = polemōnia.
+chreston	         neut.   [Greek χρηστa2 ς] = cichorēum.
+;chronicus	         adj.   [Greek χρονικa2 ς] Written in the form of annals.
+chrysanthus	         m.   [cf. Greek χρυσανθές] = chrȳsanthemon.
+circumcisicius	         adj.   [circumcīsus + -īcius2] = circumcīdāneus.
+circumitor	         m.   [circumeō + -tor] (= circitor) A watchman, patrolman.
+;circumsisto	         tr.   [circum- + sistō] NB: for perfect tenses see circumstō.
+cisianus	         m.   [cisium + -ānus] = cisiārius.
+cistifer	         m.   [cista + -fer] = cistophorus.
+cleopiceton	         neut.   (dub.) [Greek] = clīnopodium. 
+cnestor	         m.   [cf. Greek κνῆστρον] = thymelaea.
+colicon	         neut.   [Greek κωλικa2 ν] = cōlicē.
+;colocyntha	         f.   [Greek κολοκa3 νθη] A kind of gourd; (transf., apparently =   os cunnilingi  ).
+colossiaeus	         adj.   [Greek κολοσσιαῖος] = colossēus.
+commalliolo	         tr.   [con- + malleolus + -ō3] = commalleō.
+condenseo	         tr.   [con- + denseō; collateral form of condensō] To compress.
+condio	         tr.   [by-form of condō]
+;confarreatio	         f.   [confarreō + -tiō] A form of marriage ceremony.
+;congius	         m.   [cf. Greek κa2 γχος] A liquid measure, = 6   sextarii   or    ⅛    of an   amphora  ; equivalent to about 6 pints.
+;coniugulus	         adj.   [perhaps con- + iugulum, but see   Plin.   quotation] The name of a species of myrtle.
+consiliaris	         m.   (dub.) [consilium + -āris] = consiliārius2.
+;consiligo	         f.   [dub.; for suffix see -īgō2] The medicinal herb   Pulmonaria officinalis  , lungwort   (or green hellebore, Helleborus uiridis)  .
+;conspiro	         intr.   [con- + spīrō] NB: for perfect participle in active sense see end of each section.
+consuesco	         intr.     tr.   [con- + suescō] Forms: contracted forms are frequent in perfect system; perfect pass. in active sense, see sense 2, sense 2c.
+contionarius	         adj.   [contiō + -ārius] = contiōnalis.
+contrascriba	         m.   [contrā + scrība] = contrāscriptor.
+contubernius	         m.   [as contubernium + -ius] (apparently) = contubernālis.
+coptoplacenta	         f.   [copta + placenta, cf. Greek κοπτοπλακοῦς] = copta.
+;corax1	         m.   [Greek κa2 ραξ] A kind of siege engine, (perhaps) = coruus1 5a.
+;corrigia	         f.   [apparently not connected with corrigō: = Middle Irish cuim-rech (chain); cf. Old Irish conriug (bind together), Gothic skaudaraiþ (shoe-latchet)] A thong for securing shoes to the feet, shoe-latchet, shoelace; also, a thong of any kind.
+crassities	         f.   [crassus1 + -iēs] = crassitās; in quotation, plumpness, fleshiness.
+crebritudo	         f.   [crēber + -tūdō] = crēbritās.
+;cremnos	         m.   [Greek κρημνa2 ς = κριμνa2 ς] An unidentified plant.
+;crepus	         m.   [probably var. of caper, formed by popular etymology on   crepo  ; cf.   crepa  ] (See quotation).
+;creterra	         f.   [cf. Greek κρητήρ, Ionic form of   κρατήρ  ] Forms:   creteras   read in   Var.   in   Non.   p.544M. (NB: for   creterra   as a constellation, see crātēr.) A large bowl for water or wine.
+crocum	         neut.   [crocus] NB: for an alleged third sense see under croca.
+*crystallion	         neut.   [Greek κρυστάλλιον] A plant, = psyllion.
+cubitura	         f.   [cubō + -ūra] = cubitus1 (i).
+*cucullus2	         m.   [perhaps = cucullus1] A plant, = strychnon.
+cucurbitinus	         adj.   [cucurbita + -īnus] = cucurbitīuus.
+cunnio	         m.   [cunnus + -iō1](?) = cunnilingus.
+;cuppes	         adj.   [probably var. of root of cupiō] Gluttonous.
+Cybebe	         f.   [Greek Κυβήβη] = Cybelē.
+cynapanxis	         f.   [unknown] = cynosbatos 1 (ad fin.).
+*cynoides	         neut.   [Greek κυνοειδές] A plant, = psyllion.
+*cynomyia	         f.   [Greek κυνa2 μυια] A plant, = psyllion.
+*cynozolon	         neut.   [Greek κυνa2 ζολον] A plant, = chamaeleōn   niger  .
+cyparittias	         m.   [Attic form of Greek κυπαρισσίας] A species of spurge.
+*damasonium	             neut.   [Greek δαμασa4 νιον] = alcima.
+delegatus	         m.   [dēlēgō1 + -tus3] = dēlēgātiō.
+deliciolum	         neut.   [dēlicium + -olum] = dēliciolae.
+;descriptio	         f.   [descrībō + -tiō] See note under descrībō on confusion between   de-   and   di-  .
+designatio	         f.   [dēsignō + -tiō] NB: confused in codd. with diss-; see especially sense 3.
+detentio	         f.   [dētineō + -tiō] = dētentātiō.
+diagonalis	         adj.   [as diagōnios + -ālis] = diagōnios.
+dialectos	         f.   [Greek διάλεκτος] A dialect, form of speech.
+;dictatrix	         f.   [dictō + -trix] Facet. f. form of   dictator  .
+diminutiuum	         neut.   [dīminuō + -īuus] (gram.) The form of the diminutive.
+;dionysonymphas	         f.   [Greek] An unknown plant = casignētē.
+;dipteros	         adj.   [Greek δίπτερος] Having a double row of columns all round; (f. as noun) =   ~os aedes  .
+dissimulantia	         f.   [participle of dissimulō + -ia] = dissimulātiō 2.
+;distringo	         tr.   [dis- + stringō] See also destringō, with which there is frequent confusion in codd.
+;dithyrambicus	         adj.   [Greek διθυραμβικa2 ς] Written in the form of a dithyramb.
+;dithyrambus	         m.   [Greek διθa3 ραμβος] A form of verse used especially for choral singing, dithyramb.
+ditiae	         f. pl.   [contracted form of dīuitiae] Riches.
+diuum	         neut.   [parallel form of dīum] The open sky;   sub ~o  , under the open sky, in the open.
+domitus1	         m.   [domō + -tus3] = domitūra.
+*doripetron	         neut.   [Greek] A plant = leontopodion.
+drypetis	         f.   [Greek δρυπετής] = druppa.
+duplarius	         m.   [duplus + -ārius] = duplicārius.
+*echis	   (      f.  ?)[Greek ἔχις] The name of a plant, = pseudoanchūsa.
+efficacitas	         f.   [efficax + -tās] = efficācia.
+efflagitatus	         m.   [efflāgitō + -tus3] = efflāgitātiō.
+effractor	         m.   [effringō + -tor] = effractārius.
+elegidion	         neut.   [Greek] = elegīdarion.
+elephantia	         f.   [Greek] = elephantiasis.
+elocutrix	         f. adj.   [ēloquor + -trix] = ēlocūtōrius.
+*emboline	         f.   [Greek] The name of a plant, = epicactis.
+emissus	         m.   [ēmittō + -tus3] = ēmissiō b. cum iaciuntur (corpuscula) et ~um res nulla moratur   Lucr.   4.205. 
+emplastro	         tr.   [emplastrum + -ō3] To bud (trees; see emplastrātiō).
+*enchrysa	         f.   [Greek] A plant, = onochīlon.
+endoiacio	         tr.   [endo- + iaciō] = iniciō.
+endoitium	         neut.   [endo- + eō1 + -ium] = initium.
+endoploro	       [endo- + plōrō] = implōrō.
+eneruatus	         adj.   [participle of ēneruō] = ēneruis.
+ensiger	         adj.   [ensis + -ger] = ensifer.
+enuber	         adj.   [= ineber; probably < *  enubeo   (obsolete form of inhibeō) +   -er   (for suffix cf.   piger, taeter  )] (See quotation).
+*erysisceptrum	         neut.   [Greek ἐρυσίσκηπτρον] A thorny shrub, = aspalathus.
+*eugalacton	         neut.   [Greek εὐγάλακτος] A plant (= glaux).
+*euphrosynum	         neut.   [Greek εὐφρa2 συνον] = būglossos.
+*exacum	         neut.   [Gallic] = centaurēum b.
+excerptum	         neut.   [participle of excerpō] = excerptiō.
+excisorius	         adj.   [excīdo2 + -tōrius] That serves for cutting out. see exscissōrius. 
+exitialis	         adj.   [exitium + -ālis] = exitiābilis. perditae ciuitates ‥ hos solent exitus ~is habere   Cic.     Ver.   5.12; nec superare queunt motus ..  ~es perpetuo   Lucr.   2.569; scelus ~e   Verg.     A.   6.511; ~em ..  tempestatem fugientibus   Vell.   2.72.5; ~ia ..  uenena   Plin.     Nat.   27.5;   Stat.     Silv.   4.6.41; capram nominare criminosum et ~e habebatur   Suet.     Cal.   50.1;    (with dative)   litteras ..  ~es Demetrio   Liv.   40.54.9; geminis sceptrum ~e tyrannis   Stat.     Theb.   1.34; ~is erat apud principem huic laxior domus, illi amoenior uilla   Plin.     Pan.   50.6. 
+*exonychon	         neut.   [Greek ἐξa4 νυχον] A plant, perhaps gromwell (= lithospermon).
+exosculor	         tr.   [ex- + osculor] Forms: perfect participle in passive sense: see sense 1.
+expergifico	         tr.   [expergificus + -ō3] = expergēfaciō. materias ‥ ingenio ~ando ‥ idoneas   Gel.   17.12.1. 
+;extentus	         adj.   [participle of extendō] Level; having the form of a slab.
+exulceratrix	         f. adj.   [exulcerō + -trix] = exulcerātōrius. uis ei   (sc. myosotae)   ..  ~ix, ideoque aegilopas sanat   Plin.     Nat.   27.105. 
+faeniseca	         m.   [faenum + secō + -a1] = faenisex1.
+farrearius	         adj.   [farreum + -ārius] = farrārius.
+;farreum	         neut.   [farreus] A cake made from emmer; (as the symbol of a form of marriage, see confarreātiō).
+;fastus1	         adj.   [fās + -tus2] (of days) Lawful for the transaction of business; (for m. as noun, see fastī).
+fauisor	         m.   [var. of   fauitor   (see fautor)] A partisan, supporter.
+*feber	         adj.   dub. [unknown] (apparently = extrēmus; see quotation).
+februa	         neut. pl.   See also februm. [< *  dhu̯es-ro-  ; cf. Greek θεῖος, θa3 ω] Means of purification, expiatory offerings.
+Februalis	         adj.   [februa + -ālis] = februātus.
+Februlis	         adj.   [februa + -ūlis] = februātus.
+*feretrum	         neut.   [Greek φέρετρον] A bier; also = ferculum.
+ferritribax	         adj.   [ferrum + Greek τρίβω + -ax] = ferriterus.
+ficulnus	         adj.   [fīcula + -nus] = fīculneus.
+figo	         tr.   [Umbrian fiktu (=   figito  ); cf. Lithuanian dýgstu, dýgti 'to point',   dḗgiu  ,   dḗgti  , 'to plant, fix'; perhaps also fīuō] Forms:   ~ctus     Var.     R.   3.7.4,   Lucr.   3.4.
+*filamentum	         neut.   [fīlum + -mentum] A narrow piece of cloth, fillet (= fīlum 2f).
+filiaster	         m.   [fīlius + -aster] A stepson (= prīuignus1).
+flaminicius	         m.   [flāmen1 + -icius1] = flāminālis.
+flammidus	         adj.   [flamma + -idus] = flammeus.
+flammiger	         adj.   [flamma + -ger] = flammifer. ~eros Phoebi ..  currus   Luc.   1.48; 1.415; ~eri proles ..  Solis   V. Fl.   5.581; ~er ales (  i.e. the eagle  )   Stat.     Theb.   8.675; dum me ~eri portabit machina caeli   Silv.   3.1.181. 
+;flammo	         tr.   [flamma + -ō3] NB: for intr. use see flammans.
+*flusaris	         adj.   [form dub.; Sabine = Flōrālis] The local name of a month.
+fluuiaticus	         adj.   [fluuius + -āticus] = fluuiālis. harena ‥ ~a aut marina   Vitr.   1.2.8; 2.4.3; 2.5.1. 
+;fodina	         f.   [fodiō + -īna] A mine, pit, or working; (usu. only as part of a compound noun, see aurifodīna, etc.).
+Fontanalia	         neut. pl.   [Fontānus2 + -ālis] = Fontīnālia.
+;formido2	         f.   [cf. Greek μορμa4 ; for termination see -īdō]
+forus	         m.   [dub., perhaps var. of forum]
+fossilis	         adj.   [fodiō + -ilis1] = fossīcius.
+fraterculo	         intr.   [frāterculus + -ō3] = frātrō.
+fremidus	         adj.   [fremitus + -idus] = fremibundus.
+;fuligo	         f.   [cf. Lithuanian dúlis 'mist', Sanskrit dhūli- 'dust'; for termination see -īgō2] Soot.
+fulmenta	         f.   [var. of fulmentum] A prop, support.
+galeritus2	         m.   [galērītus1] =   auis galerita  .
+gargaridio	         intr.   [var. of gargarizō] To utter a gurgling sound.
+*geniculatus2	         m.   [geniculātus1] A constellation = Engonasin.
+geniculus	         m.   [var. of geniculum] A knee or elbow joint in a water pipe.
+*gethyum	         neut.   [Greek γήθυον] A kind of onion = pallacāna.
+glamae	         f. pl.   [adaptation of Greek *γλᾰ́μη, *γλήμη (cf. γλᾰ́μων, γλημa4 δης)] Rheum in the eye, = grāmiae.
+gnario	         tr.   [gnārus + -iō2] = gnārigō.
+;grex	         m.     (f.)   [originally reduplicated form of Indo-European root *  gere-   found in Greek ἀγείρω, ἀγρέτας] Gender: f. in   Host.     poet.   2(4),   Lucr.   2.662,   CIL   5.2787, 6.10069, 10072.
+grossulus	         m.   [grossus + -ulus] = grossus.
+gubernius	         m.   [gubernō + -ius] = gubernātor.
+*gumia	         m.     f.   [adaptation of Umbrian kumiaf (=   grauidas  ), cf. Greek γέμειν] A glutton.
+;gurges	         m.   [reduplicated form of Indo-European root *  gu̯er-   (Latin uoro, Greek βάραθρον, etc.).]
+;gustus	         m.   [cf. gustō = Gothic kustus 'test'] Forms: genitive sg.   gusti     Petr.   76.5; dative sg.   gusto     Fro.     Aur.   2.p.198(202N).
+gymnes	         m.   [Greek γυμνής] = gymnosophista.
+gynaeconitis	         f.   [Greek γυναικωνῖτις] = gynaecēum.
+;gyratus	         adj.   [gȳrus + -ātus2] Made in the form of a circle, rounded.
+;hadrobolos	         adj.   [Greek ἁδρa2 βωλος] Formed in large lumps; (of a form of the gum   bdellium  ).
+haedilia	         f.   [haedus] (apparently) = haedilla.
+;halmyrax	         noun   [cf. Greek ἁλμυρa2 ς] A form of   nitrum  , perhaps potassium nitrate.
+harenarium	         neut.   [harēnārius1] = harēnāria.
+harpaga	         f.   [Greek ἁρπάγη] = harpagō2.
+heliocallis	         f.   [Greek] A plant = hēlianthes.
+heluius	         adj.   [heluus] = heluolus.
+hilaritudo	         f.   [hilarus + -tūdō] = hilaritās.
+hippegus	         m.   [Greek ἱππηγa2 ς] = hippāgō.
+*hippophobas	         f.   [Greek ἵππος, φa2 βος] A fabled plant (= achaemenis).
+hircuosus	         adj.   [var. of hircōsus] Goat-like.
+hirneosus	         adj.   [hirnea1 + -ōsus] = hirneacus.
+homoeoteleuton	         neut.   [Greek ὁμοιοτέλευτον] = homoeoptōton.
+homunculus	         m.   [homō + -culus] = homullus.
+honestitudo	         f.   [honestus + -tūdō] = honestās (according to Non.p.120M).
+;horresco	         intr.     tr.   [horreō + -scō] (for perfect see horreō)
+hortamentum	         neut.   [hortor + -mentum] = hortāmen.
+hosticolum	         neut.   [hosticum + -olum] = hosticum.
+hydraularius	         m.   [hydraulus + -ārius] (apparently) = hydraula.
+hydropisis	         f.   [cf. Greek ὑδροπίασις] = hydrops.
+*hypelate	         f.   [Greek] = laurus   Alexandrina  .
+icterus	         m.   [Greek ἴκτερος] A yellow bird the sight of which was said to cure jaundice; (according to Pliny = galgulus).
+;ille	         pron. adj.   [apparently altered form of olle] Forms: nominative accusative sg. neut.   illum     Pl.     Poen.   695;   illut     Var.     R.   1.2.11;   CIL   2.6278.8; genitive sg. m.   illi   (  modi  )   Cato     orat.   128; genitive sg. f.   illae   (dub.)   Apul.     Met.   11.23; dative sg. m.   illei     Pl.     Cist.   447;   illo     Apul.     Apol.   99; dative sg. f.   ilai     CIL   1.2541.1.4;   illae     CIL   1.2135.6; 4.1824; locative sg. f.   illae   (s.v.l.)   Pl.     Mil.   323; nominative pl. m.   illei     Lucil.   370;   Sal.     Rep.   1.1.5; see also olle. Prosody: genitive sg.   illius   in early verse sometimes disyllabic (e.g.   Pl.     Mil.   1170); in classical verse either   illius   (e.g.   Lucr.   3.520;   Verg.     A.   1.683;   Hor.     S.   1.10.57;   Ov.     Met.   4.155) or   illĭus   (e.g.   Lucil.   158;   Lucr.   4.1062;   Verg.     A.   1.16;   Hor.     S.   2.5.29;   Ov.     Am.   1.4.34).
+imitamentum	         neut.   [imitor + -mentum] = imitāmen.
+inanimantia	         neut. pl.   [in-2 + animans1] = inanimālia.
+inclinatus2	         m.   [inclīnō + -tus3] (gram.) = inclīnātiō 6.
+incogitans	         adj.   [in-2 + present participle of cōgitō] = incōgitābilis.
+inconiuens	         adj.   [in-2 + participle of cōnīueō] = incōnīuus.
+incorporeus	         adj.   [in-2 + corporeus] = incorporālis.
+indissolutus	         adj.   [in-2 + participle of dissoluō] = indissolūbilis.
+indotueor	         ?tr.   [indu- + tueor = intueor] ~etur ibi lupus femina, conspicit omnis   Enn.     Ann.   70. 
+indugredior	         intr.     tr.   [indu- + gradior] = ingredior.
+indulgitas	         f.   [indulgeō + -tās] = indulgentia.
+induperator	         m.   [induperō + -tor] = imperātor.
+indupero	         intr.   [indu- + parō] = imperō.
+induuolo	         ?intr.   [indu- + uolō1] = inuolō.
+ineptitudo	         f.   [ineptus + -tūdō] = ineptia.
+infusus	         m.   [infundō + -tus3] = infūsiō.
+innubis	         adj.   [in-2 + nūbēs + -is] = innūbilus.
+insopor	         adj.   [in-2 + sopor] = insōpītus.
+;inspico	         tr.   [in-1 + spīca + -ō3] To cut in the form of an ear of wheat.
+intermestris	         adj.   [inter- + mensis] = intermenstruus.
+intermissus	         m.   [intermittō + -tus3] = intermissiō.
+interscapilium	         neut.   [as interscapulum + -ium] = interscapulum.
+intertritura	         f.   [as intertrīmentum + -ūra] = intertrīmentum.
+intrepidans	         adj.   [in-2 + participle of trepidō] = intrepidus.
+intrimentum	         neut.   [interō1 + -mentum] apparently = intrīta.
+inuolo	         intr.     tr.   See also induuolō. [in-1 + uolō2]
+irrationalis	         adj.   [in-2 + ratiōnālis] = irratiōnābilis.
+italus3	         m.   [apparently dial. form of uitulus, cf. Greek ἔταλον] (See quotations).
+iubilatus	         m.   [iūbilō + -tus3] = iūbilātiō; (in quotation transf., of writing).
+;iuuenix	         f.   [cf. iūnix, iuuenis1] (conjectural form of   iunix  ) A heifer.
+*ixia	         f.   [Greek ἰξία] A name given to certain varieties of thistle, = chamaeleōn.
+laccus	         m.   [var. of lacus (probably influenced by Greek λάκκος)] A storage pit; a cistern, tank.
+laesura	         f.   [laedō + -ūra] = laesiō.
+laetitudo	         f.   [laetus + -tūdō] = laetitia.
+*lagine	         f.   [Greek] A plant = āetītēs.
+lagois	         f.   [Greek] A bird; perhaps = lagōpūs.
+lagonaris	         adj.   [lagōna + -āris] (= lagōnārius, or wrongly written form of it).
+lagynus	         m.   [Greek λάγυνος] = lagōna.
+langurus	         m.   [cf. langa, perhaps back-formation from langūrium] An unknown animal (for quotation see langūrium). 
+;lappaceus	         adj.   [lappa + -āceus] Having the form of a bur.
+largitudo	         f.   [largus + -tūdō] = largitās.
+laticlauialis	         adj.   [lāticlāuius + -ālis] = lāticlāuius 2.
+lauriger	         adj.   [laurus + -ger] = laurifer.
+;legislator	         m.   [lex + lātor; usu. as two words, see sense] A proposer of a law, lawgiver, legislator.
+lentities	         f.   [lentus + -iēs] (var. of lentitia, in quotation, sense 1).
+*leucanthes	         neut.   [Greek λευκανθής] = parthenium b.
+leuceoron	         neut.   [Greek] = leontopodion.
+Leucesius	         m.   [apparently var. of Lūcetius] A title of Jupiter.
+*leucogaeus	         adj.   [Greek λευκa2 γειος] Of white earth (chalk); (f. as noun) = galactītis.
+*leucographitis	         f.   [Greek] = galactītis.
+*libadion	         neut.   [Greek λιβάδιον] = centaurēum   minus  .
+;Liber3	         m.   [līber1, cf. Greek Ἐλεa3 θερος (= Διa2 νυσος)] Forms:   Leiber     CIL   1.562;   Lebro   1.381, cf.   Quint.     Inst.   1.4.17.
+;lienteria	         f.   [Greek λειεντερία] A form of diarrhoea in which undigested food is passed, lientery.
+limitalis	         adj.   [līmes + -ālis] = līmitāris.
+*limonia	         f.   [Greek λειμωνία] A kind of thistle, = scolymos.
+*linostrophon	         neut.   [Greek λινa2 στροφον] A plant, = marrubium.
+litorarius	         adj.   [lītus + -ārius] = lītorālis.
+litterosus	         adj.   [littera + -ōsus] = litterātus 2.
+lixiuius	         adj.   [var. of lixīuus]   cinis ~ia  , Lye (used as a detergent, etc.); also   ~ia   and   ~ium   alone.
+;locarium	         neut.   [locus + -ārium] Rent paid for a stall in a market (or perhaps = payment for accommodation in an inn or similar).
+;logista	         m.   [Greek λογιστής] An imperial official (from the time of Trajan onwards) who supervised the spending of municipalities, =   curator reipublicae  .
+;lucuns	         noun   [probably adaptation of Greek *γλυκοῦς (= γλυκa2 εις)] Gender: uncertain, but cf.   lucuntulus  . A kind of confection (see lucuntulus).
+ludius1	         m.   [lūdus + -ius] = lūdiō.
+;ludo	         intr.     (tr.)   [apparently cognate with Greek λίζει = παίζει (Hesychius), perhaps also λοίδορος] Forms: supine   lussum     Var.     Men.   279 (v.l.   lusum  ).
+lupinarius2	         m.   [lupīnārius1] = lupīnopōlus.
+luscitiosus	         adj.   [luscītiō + -ōsus] = lusciōsus.
+*lyron	         neut.   [Greek λa3 ρον] A plant, = alcima.
+;lytta	         f.   [Greek λa3 ττα, Attic form of λa3 σσα] A worm-like tendon in a dog's tongue, supposed to cause rabies.
+;madeo	         intr.   [cf. Old Irish maidim 'break', Greek μαδάω, μαζa2 ς, Sanskrit madati] Forms: for perfect stem see madescō
+maestitudo	         f.   [maestus + -tūdō] = maestitia.
+magiriscium	         neut.   [Greek] A cup in the form of a cook.
+;magister	         m.   [magis1 + -ter1; cf. Umbrian mestru (=   maior  ,   f.  ); as opposed minister1] Forms   and   Orthography:   mac-     CIL   1.2661;   magester   in   Quint.     Inst.   1.4.17; nominative pl.   magistreis     CIL   1.364, 672, 978, etc.;   ~tres   1.1854,   ~trei   1.1549,   ~tere   (perhaps for   ~teres  ) 1.59.
+magnitas	         f.   [magnus + -tās] = magnitūdō.
+maiorius	         m.   [maior + -ius] (apparently) =   maioriarius (sometimes taken as = dominus or similar)  .
+maniculus	         m.   [manus1 + -culus] = manipulus.
+mantelium	         neut.   [var. of mantēlum] A hand towel, napkin.
+margaritum	         neut.   [var. of margarīta] A pearl.
+*marmaritis	         f.   [Greek μαρμαρι̑τις] = aglaophōtis
+;marones	         m. pl.   [cf. Umbrian maronatei (= *  maronatu  )] The title of some Umbrian magistrates.
+mediterreus	         adj.   [as mediterrāneus + -eus] (var. of mediterrāneus).
+;melanteria	         f.   [Greek μελαντηρία] = Crēta1   sutoria  , Shoemaker's black.
+Melicus2	         adj.   [apparently var. of Mēdicus3] The name of a breed of domestic fowl.
+*melittaena	         f.   [Greek μελίτταινα] = melissophyllum.
+mellina2	         f.   [mel + -īnus] (apparently = mella; in quotation, fig.) Sweetness.
+*meloda	         neut. pl.   [Greek μελῳδa2 ς] Poetry, songs (or perhaps to be taken as m. = poets).
+mesoleucium	         neut.   [cf. mesoleucos] = mesoleucos 1.
+mino	         tr.   [var. of minor1] To push, impel (NB: the word is certain in later Latin, but given here the examples are either conjectural or may belong to minor1).
+minor2	         adj.   (used as comparative of paruus). [cf. Greek μινυ-, Anglo-Saxon minn] NB: for neut. sg. used as noun see minus1.
+mio	         intr.   [var. of meiō] To urinate.
+mirificus	         adj.   [mīrus + -ficus] Causing wonder or admiration, amazing (often = wonderfully good, remarkably great, etc.):
+modulamentum	         neut.   [modulor + -mentum] = modulāmen.
+moechas	         f.   [Greek μοιχάς] = moecha.
+moloche	         f.   [Greek μολa2 χη] = malachē, a mallow;   ~e agria  , marsh mallow.
+;moneo	         tr.     intr.   [causative form of meminī; cf. Lithuanian imanaũ 'think', Sanskrit mānayati 'have regard to', 'honour', Anglo-Saxon manian 'remind'] Forms: perfect subjunctive   ~eris  ,   ~erint     Pac.     trag.   30, 112;   Lucil.   653.
+;monetalis2	         m.   [monētālis1] (apparently =   triumuir ~is  ) An overseer of the mint, coiner.
+monnula	         f.   [monna + -ula] = monna.
+mulctra	         f.   [var. of mulctrum] = mulctrum.
+mulseus	         adj.   [var. of mulsus] = mulsus.
+multicolorus	         adj.   [as multicolor + -us] = multicolor.
+multiforabilis	         adj.   [as multiforātilis + -bilis] = multiforātilis.
+multigenus	         adj.   [multus + -genus] = multigener.
+;multus	         adj.   [cf. Greek μάλα, melior] See also multō1, multum1, and for comparative and superlative plūs1, plūrimus.
+murrina1	         f.   [probably adaptation of Greek μῠρίνης (of uncertain origin) and not from Greek μa3 ρρινος = μa3 ρσινος 'of myrtle' nor (despite   Plin.     Nat.   14.92) from Latin murrinus 'of myrrh'] A liqueur wine, identified with muriola.
+naufragus1	         adj.   [= nāuifragus]
+nectarius	         adj.   [var. of nectareus]   herba ~a  , Elecampane.
+nefans	         adj.   [ne- + participle of for] = nefandus.
+;nexum	         neut.   [participle of nectō] A form of binding obligation created   per aes et libram   between creditor and debtor; until   c.   300 bc, the debtor automatically became his creditor's bondsman in the event of non-payment.
+nigritudo	         f.   [niger + -tūdō] = nigritia.
+noctesco	         intr.   [nox1 + -escō] To grow dark as night (on the word see   Gel.   18.11.3).
+;nodatus	         adj.   [participle of nōdō] Twisted tight in the form of a knot.
+noxia	         f.   [var. of noxa]
+nuscitio	         f.   [an earlier form of luscītiō; perhaps from an original *  nuc-scos   cognate with Lithuanian niūksóti 'twilit'] Night blindness.
+;obrendarius	         adj.   [apparently form of gerund of obruō + -ārius]   uas ~um  , (perhaps) A vessel in which the ashes of the dead were buried; (sim., neut. as noun) a plot of ground for this purpose.
+obunctulus	         adj.   [obunctus + -ulus] = obunctus.
+officina	         f.   [contracted form of opificīna] A place where something is made, workshop, factory, etc.
+oleamentum	         neut.   [as oleāmen + -mentum] = oleāmen.
+ononis	         f.   [Greek ὀνωνίς] The plant restharrow, = anōnis.
+onothuris	         f.   [Greek ὀνa2 θουρις] = onothērās.
+;Opicus	         adj.   [form of Oscus, cf. Greek Ὀπικοί]
+opificina	         f.   [opifex + -īna; cf. officīna] (apparently) = opificium.
+;ora1	         f.   [collective form of ōs1 (cf.   opus  :   opera  ), Sanskrit āsayā, Anglo-Saxon ōr]
+;orbitus	         adj.   [orbis + -ītus2] Having the form of a circle, circular.
+orchas	         f.   [Greek ὀρχάς] A kind of olive, = orchītēs.
+*oripelargus	         m.   [Greek ὀρειπέλαργος] 'Mountain stork', a bird of the vulture kind, = percnopterus.
+*orobethron	         neut.   [Greek ὀρa2 βηθρον] A parasitic plant, = hypocisthis.
+;orthopnoea	         f.   [Greek ὀρθa2 πνοια] A form of asthma in which breathing is possible only in an upright position, orthopnoea (see   Cels.   4.8.1).
+*ortyx	         f.   [Greek ὄρτυξ] A plant with flowers in spikes, = stelephūros.
+ossua	         neut. pl.   [var. of   ossa   (os2)] Forms:   ~iua     CIL   1.1157; dative   ~uis     CIL   11.5563; nominative sg.   ~u   attested by   Plin.   in   Char.   p.139K. Bones (in quotations, of dead persons).
+pammachium	         neut.   [Greek παμμάχιον] = pancratium.
+;pampinatus	         adj.   [pampinus + -ātus2] Having the characteristic form of a vine shoot, (in quotation) tendril-shaped.
+panerastos	         f.   [Greek πανεραστa2 ς] = panerōs.
+parapsis	         f.   [Greek παραψίς] = paropsis. 
+parastata	         f.   [Greek παραστάτης] = parastas.
+parricidatus	         m.   [parricīda + -ātus1] apparently = parricīdium.
+parricidialis	         adj.   [parricīdium + -ālis] = parricīdālis.
+;pastillum	         neut.   [as pastillus + -illum] A form of sacrificial cake.
+pastorius	         adj.   [pastor + -ius] = pastōricius.
+peccatus	         m.   [peccō + -tus3] = peccātiō.
+;pecco	         intr.   [Umbrian pesetom (=   ~atum  ); probably connected with pēs] Forms:   ~asso  , etc. (=   ~auero  )   Pl.     Cas.   825,   Rud.   1150, 1348.
+;pecuarius2	         m.   [pecuārius1] A cattle-breeder, grazier; also =   miles ~ius   (see pecuārius1 d).
+peculiarius	         adj.   [pecūlium + -ārius] = pecūliāris 1.
+pedamentum	         neut.   [pedō1 + -mentum] = pedāmen.
+pedicularius	         adj.   [pēdiculus2 + -ārius] = pēdiculāris.
+*percnus	         ?m.   [Greek περκνa2 ς] A name applied by Homer to a kind of eagle, = morphnos.
+;perfabrico	         tr.   [per- + fabricō] To fashion completely; (in quotation, humorously = to finish off, outwit).
+perfututor	         m.   [per- + futuō + -tor] (Strengthened form of futūtor).
+periculor	       [perīculum + -ō3] apparently = perīclitor.
+;peripleumoniacus	         adj.   [cf. Greek περιπλευμονικa2 ς = -πνευμονικa2 ς] Of or marked by inflammation of the lungs.
+peristerotrophion	         neut.   [Greek] = peristerōn.
+permaturo	         intr.   [per- + mātūrō] = permātūrescō.
+permirandus	         adj.   [per- + mīrandus] = permīrus.
+permissum	         neut.   [neut. of participle of permitto] = permissus.
+perniciabilis	         adj.   [perniciēs + -bilis] = perniciālis.
+personatia	         f.   [cf. persōnāta] = persōnāta.
+personina	         f.   [persōna] The name of a plant, probably = persōnāta.
+peruicus	         adj.   [as peruicax + -us] = peruicax.
+pestilitas	         f.   [pestis + -ilis1 + -tās] = pestilentia 1.
+;peto	         tr.   [< Indo-European *pet- 'fly' or 'fall'; cf. Latin penna, impetus, etc., Sanskrit pátati, Greek πέτομαι, πί-πτω] Forms: contracted forms of perfect,   ~i     Sen.     Med.   248,   Her. O.   1843,   Stat.     Theb.   1.62;   ~it     Ov.     Met.   5.460,   Fast.   1.109,   Phaed.   4.25(26).6,   Sen.     Her. F.   825, and elsewhere (often ambiguous with present);   ~īmus     Luc.   9.430;   ~isti     Cic.     Fam.   15.15.3;   ~isse     Caec.   10;   ~isses     Ulp.     dig.   13.6.5.14.
+*phrenion	         neut.   [Greek] = anemōnē.
+picatus2	         adj.   [pix2 (= Boeotian form of Greek σ   ϕ   ίγξ) + -ātus2] Resembling a sphinx (or griffin).
+*pilanus	         m.   [pīlum2 + -ānus] = triāriī.
+;pilatrix	         f.   [pilō2 + -trix or? back-formation from compīlō1] Prosody: for 1st syllable see etymology A female pilferer.
+pipio	         intr.   [onomatapoeic] = pīpō.
+pirus	         f.   [pirum] Orthography: see pirum A pear tree.
+pithus	         m.   [Greek πίθος] = pithiās.
+placamentum	         neut.   [plācō1 + -mentum] = plācāmen; also, more generally, a means of soothing or quieting (the feelings).
+;placitis	         f.   [Greek πλακι̑τις] A form of zinc oxide.
+plagigerulus	         adj.   [plāgiger + -ulus] = plāgiger.
+planeta	         m.   [Greek πλανήτης] = planēs.
+;plisimus	         adj.   [cf. Greek πλει̑στος] (archaic) = plūrimus.
+*polypodion	         neut.   [Greek πολυπa2 διον] A kind of fern (= filicula).
+portentosus	         adj.   See also portentuōsus. [portentum + -ōsus] (of physical phenomena) Strange and unnatural or abnormal, monstrous, portentous; (in good sense) having supernatural or miraculous properties.
+portentuosus	         adj.   [var. of portentōsus; for termination cf.   monstruosus  ]
+posculentus	         adj.   [var. of pōculentus or pōtulentus, probably influenced by   esculentus  ] Drinkable.
+;possido	         tr.   [potis + sīdō] To seize upon, take hold of (NB: for other possible examples see note on possideō).
+postulatorius	         adj.   [postulō + -tōrius] = postulārius.
+*poterion	         neut.   [Greek ποτήριον] A thorny shrub = phrȳnion.
+praebeo	         tr.   [contracted form of praehibeō]
+praecipitatus	         m.   [praecipitō + -tus3] = praecipitātiō.
+praemordeo	         tr.   [prae- + mordeō] Forms: see last quotation To bite at the extremity or surface of; to bite (a piece) from the end of anything (in quotation, transf.).
+praesagitio	         f.   [praesāgiō + -tiō] = praesāgātiō.
+praesultator	         m.   [praesultō + -tor] = praesul.
+praesultor	         m.   [prae- + saliō1 + -tor] = praesul.
+praeuarus	         adj.   [prae- + uārus1] (Strengthened form of uārus1).
+;praeuideo	         tr.   [prae- + uideō] To see beforehand, see in advance.
+Priapiscus	         m.   [Greek Πριάπισκος] (Diminutive form of Priāpus).
+prodigiuus	         adj.   [prōdigō + -īuus] = prōdiguus.
+*proegmena	         neut. pl.   [Greek προηγμένα] = prōducta.
+proletaneus	         adj.   [prōlēs + -āneus] = prōlētārius.
+*promota	         neut. pl.   [participle of prōmoueō] (in Stoic philosophy) A suggested translation of Greek προηγμένα, = prōducta.
+*protomedia	         f.   [Greek] = hestiātēris.
+;psalterium	         neut.   [Greek ψαλτήριον] A form of harp.
+publicum	         neut.   [pūblicus1] Forms: see pūblicus1.
+*pulticula	         f.   [puls + -cula] A kind of porridge = puls.
+;puluerarius	         adj.   [puluis + -ārius] (The designation of certain town quarters or streets, apparently having reference to trade in some form of dust or powder.).
+pumilius	         m.   [var. of pūmilus] = pūmiliō.
+puteanus	         adj.   [puteus + -ānus] = puteālis.
+*pyrotocon	         neut.   [Greek] An insect supposed to be generated by fire, = pyrallis.
+pyxidatus	         adj.   [pyxis + -ātus2] Made in the form of a box.
+quaestionarius	         m.   [quaestiō + -ārius] A military title =   a quaestionibus   (quaestiō 2).
+querneus	         adj.   [quercus + -neus] = quernus.
+quintanesius	         m.   [as quintānensis with substitution of Greek termination -ήσιος] (probably) = quintānensis   (in quotation, as pro ~io, apparently an assistant to, or stand-in for, the functionary in question)  .
+rapa	         f.   [var. of rāpum] A turnip.
+*rapadion	         neut.   [Greek ῥαπιδήιον] A plant = leontopetalon.
+rapula	         f.   [rāpa + -ula] = rāpulum.
+rasus2	         m.   [rādō + -tus3] = rāsūra.
+recisamentum	         neut.   [recīdo2 + -mentum] = recīsāmen.
+recomminiscor	         tr.   [re- + comminiscor] = recommentor.
+reiectanea	         neut. pl.   [rēiciō + -āneus] (philosophy) = rēiecta.
+rescio	         tr.   [back-formation from resciscō] = resciscō.
+;rescisco	         tr.   [re- + sciscō] To get to know of (a fact not previously suspected), become wise to (NB: on the semantics of this and resciō, see   Gel.   2.19).
+;resisto	         intr.   [re- + sistō] NB: the perfect forms of this verb and restō coincide; examples have been referred to whichever verb is more commonly used in the sense concerned.
+;reteiaclor	         intr.   [rēte + iaculor] To make a cast with a net; (in quotation, fig. = to guess).
+retrogradus	         adj.   [var. of retrōgradis] (of planets) Appearing to travel backwards, retrograde.
+rhexia	         f.   [unknown] A boraginaceous plant, = onochīlon.
+robus3	         adj.   [dialect form of rūfus1  rvfvs  ; cf. rōbeus] (especially of oxen) Red.
+robusteus	         adj.   [rōbustus + -eus] = rōbustus 1.
+rubellus	         adj.   [ruber + -lus] Somewhat red, reddish; (spec., as the name of a kind of vine, = rubellānus).
+;ruber	         adj.   [< Indo-European*rudhro-; = Greek ἐρυθρa2 ς, Old Church Slavonic rŭdrŭ] Prosody: usu.   rūbr-  ;   rŭbr-     Lucr.   4.404,   Verg.     Cat.   9.32. Forms: genitive pl. m.   ~brum     Vitr.   2.7.1.
+*rupico	         m.   [rupex + -ō1] = rupex.
+saepimentum	         neut.   [saepiō + -mentum] = saepīmen.
+salito	         intr.   [saliō2 + -itō] = saltō.
+saliuncula	         f.   [saliunca + -ula] = saliunca.
+salsilago	         f.   [var. of salsūgō] Brine; saltness.
+*sangenon	         neut.   [unknown] A species of opal found in India, = paederōs 2a.
+scaenaticus	         adj.   [scaena + -āticus] = scaenicus (  Non.   p.176M).
+scaenatilis	         adj.   [scaena + -ātilis] = scaenāticus.
+scamillarius	         m.   [scamillum + -ārius] (apparently) = scabillārius.
+;scandala	         f.   [probably foreign; the correct form of the name is uncertain] A Gallic variety of   far  .
+scapula	         f.   [unknown] The name of a vine, =   uennuncula  .
+;scopelismos	         m.   [Greek] A form of intimidation practised in Arabia (see quotation).
+scordotis	         f.   [Greek] = scordion.
+scoria	         f.   See also scaurea. [Greek σκωρία] The waste obtained in smelting metals, slag.
+scrotum	         neut.   [var. of scrautum] (medical) The scrotum.
+*Sebastos	         m.   [Greek Σεβαστa2 ς (=   Augustus  )]   Neos ~os  , a Greek name for the Egyptian month Athur (Oct. 28-Nov. 26), in honour of the Emperor.
+selinas	         f.   [cf. Greek σέλινον] A curly-leaved form of cabbage.
+sementium	         neut.   [perhaps var. of sēmentis] (in quotation, sēmentis 3).
+sementum	         neut.   [apparently var. of sēmentis] That which is sown, a crop.
+semilaterium	         neut.   [sēmi- + later + -ium] = sēmilater.
+;semimitra	         f.   [sēmi- + mitra] (apparently) Some reduced form of a   mitra  .
+senatusconsultum	         neut.   Usu. written as two words. [genitive of senātus + consultum] Forms: see senātus A recommendation of the senate to a magistrate (in republican times binding, subject to veto, and during the empire implemented by a clause in the praetor's edict; after Hadrian in some cases it had immediate force of law).
+*serratula	         f.   [serrātus + -ula] = uettōnicus.
+sesquipedaneus	         adj.   [sesquipēs + -āneus] = sesquipedālis.
+;sextans	         m.   [sextus1; for ending cf. quadrans, triens] One-sixth of any unit (expr. by symbol =).
+*sil2	         noun   [cf. Greek σίλι, σέσελις] = seselis.
+*silicia	         f.   [perhaps corruption of siliqua] = faenum   Graecum  , fenugreek.
+*siliquastrum1	         neut.   [siliqua] A plant = piperītis.
+*sillybus	         m.     (?f.)   [Greek σίλλυβος, σίλλυβον (according to Pollux = tassel)] Gender: apparently f. in   Plin.     Nat.   22.85.
+siluicolens	         adj.   [silua + participle of colō1] = siluicola.
+similago	         f.   [simila + -āgō] = simila.
+;similixula	         f.   [apparently sēmi- + lixula] (apparently) A semicircular form of   lixula  .
+sinceris	         adj.   [var. of sincērus]
+siraeum	         neut.   [Greek σίραιον] New wine boiled down, = sapa.
+situlus	         m.   [var. of situla] A (shallow) vessel for holding water, bowl, bucket, etc.
+;soldurii	         m. pl.   [Celtic or Iberian; =   σιλa2 δουροι   in Athenaeus VI.p.249B] (in Aquitania) An elite corps of warriors attached to a chieftain (see the whole passage).
+;solor	         tr.   [perhaps originally = 'make favourable', cf. Greek ἱλάσκομαι, Gothic sels 'good']
+;sopina	         f.   [dub., perhaps a form of supīnus] A kind of vine.
+*soricinus	         adj.   [sōrex + -īnus] Of a shrew mouse (in quotation, in phrase of obscure meaning: see nēnia).
+sortus	         participle   [apparently = *  surtus   (participle of surgō)] (See quotation).
+sparulus	         m.   [sparus2 + -ulus] = sparus2.
+spasma	         neut.   [Greek σπάσμα] = spasmos.
+;spatalium	         neut.   [Greek] A form of personal ornament, perhaps bracelet.
+spiraea	         f.   [Greek σπειραία] A shrub = ligustrum.
+splenion	         neut.   [Greek σπληνίον] = asplēnos.
+sponsum	         neut.   [participle of spondeō] (apparently) = sponsus2.
+spumiger	         adj.   [spūma + -ger] = spūmifer.
+squalitudo	         f.   [squālus1 + -tūdō] = squālitās.
+stimi	         neut.   [Greek στίμμι, στίβι, ultimately of Coptic origin] = stibi.
+stlatta	         f.   [probably f. of a primitive form of lātus1] A kind of large cargo boat or barge.
+storax	         m.   [adapted from Greek στa3 ραξ] A fragrant gum, = styrax.
+*storbon	         neut.   [Asian, cf. perhaps stobrus] An Arabian resin, = lādanum.
+strabonus	         adj.   [var. of strabō] = strabus.
+;strangulatio	         f.   [strangulō + -tiō] Convulsive contraction of the throat; (medical)   ~ones uuluae  , hysteria.
+strangulatus	         m.   [strangulō + -tus3] = strangulātiō.
+;stratiotis	         f.   (or?       neut.  ). [Greek στρατιω̑τις] An eye ointment,? =   stratioticum collyrium  .
+;strongyle	         f.   [f. of Greek στρογγa3 λος] A globular form of alum (or a related substance).
+stultiloquium	         neut.   [as stultiloquus + -ium] = stultiloquentia.
+;stupesco	         intr.   [stupeō + -scō] NB: for possible perfect forms see under stupeō. To become dazed or stupefied.
+;subditus2	         m.   [subdō + -tus3] Administration (of a drug) in the form of a suppository.
+subligar	         neut.   [subligō + -ar] = subligāculum.
+subrubicundus	         adj.   [sub- + rubicundus] = subruber.
+succubo2	         f.   [succubō1 + -ō1] = succuba.
+;succussio	         f.   [succutiō + -tiō] A violent shock proceeding from below (in quotation, as a form of earthquake).
+suffimen	         neut.   [suffiō + -men] = suffīmentum.
+;suggestum	         neut.   [participle of suggerō] A raised surface, platform; especially one for public speaking (= suggestus).
+surgo	         intr.   [contracted form of   surrigo   (subrigō)] NB: for tr. examples of   surrexi  , and participle   surrectus  , see subrigō. Forms:   ~rrexti   (=   ~rrexisti  )   Mart.   5.79.1;   ~rrexe   (=   rrexisse  )   Hor.     S.   1.9.73; perfect   ~regit   cited from   Andr.   by   Paul.     Fest.   p.296M; see also sortus.
+suspensio	         f.   [suspendō + -tiō] = suspensūra.
+;tauriformis	         adj.   [taurus1 + forma + -is] Having the form of a bull.
+;tegurium	         neut.   [apparently var. of tugurium, by association with   tego  , unless   teg-   is original, and   tug-   formed by assimilation of vowels] A little shrine.
+terebratus	         m.   [terebrō + -tus3] = terebrātiō (first part).
+tergeminus	         adj.   [var. of trigeminus]
+terminatus	         m.   [terminō + -tus3] = terminātiō 1.
+terplico	         tr.   [var. of triplicō] To multiply by three.
+terriculamentum	         neut.   [terricula + -mentum] = terricula.
+teruium	         neut.   [var. of triuium] A place where three roads meet.
+;tessera	         f.   [perhaps abbreviation of Greek *τεσσεράγωνος = τετράγωνος]
+;tetrachmum	         neut.   [Greek τετρᾶχμον = τετράδραχμον] A Greek silver coin, worth four drachmas.
+textrina	         f.   [as textrīnum + -trīna] = textrīnum 1.
+*thryallis	         f.   [Greek θρυαλλίς] A plant with thick leaves used for making lamp wicks, a kind of mullein, = lychnītis.
+thymbraeum	         neut.   [cf. Greek θυμβραία] A kind of wild mint, = sisymbrium.
+*tiniaria	         f.   [perhaps tinea + -āria] = polium.
+titillatus	         m.   [tītillō + -tus3] = tītillātiō.
+tolutilis	         adj.   [as tolūtāris + -ilis1] = tolūtāris.
+;transfumo	         intr.   [trans- + fūmō] To pass through in the form of smoke.
+;trichitis	         f.   [Greek τριχι̑τις] A form of alum.
+tripedaneus	         adj.   [tri- + pēs + -āneus] = tripedālis.
+*tripharis	         f.   [Greek] = cytisus.
+*trochis	         m.   [Greek τρa2 χις] = sȳcītēs.
+;tryginon	         neut.   [Greek τρa3 γινον (τρυγία = 'lees')] A kind of black pigment.
+;tumesco	         intr.   [tumeō + -scō] NB: for examples of perfect see tumeō.
+turrifer	         adj.   [turris + -fer] = turriger (in quotation, of Cybele's diadem).
+tutamentum	         neut.   [as tūtāmen + -mentum] = tūtāmen.
+;uador	         tr.   [uas1 + -ō3] (of a plaintiff) To accept sureties from (the other party) for his appearance or reappearance in court at an appointed date (sometimes = to institute proceedings against).
+;uallum1	         neut.   [apparently collective form of uallus1] A palisade of stakes on top of an   agger  , or the palisaded earthwork itself (especially one surrounding a camp).
+uaratus	         m.   [uārō + -tus3] (apparently) = uārātiō.
+udus	         adj.   [contracted form of ūuidus]
+ueliuolans	         adj.   [uēlum + participle of uolō2] = uēliuolus.
+ueriloquus	         adj.   [uērus1 + loquor + -us] = uēridicus.
+uernio	         m.   [uerna + -iō1] (Familiar form of uerna, unless proper name.).
+ueteraneus	         adj.   [uetus + -āneus] = ueterānus.
+uiaticum	         neut.   [uiāticus] Provision for a journey (in the form of food, money, etc.), travelling allowance.
+uicenalis	         adj.   [uīcēnī + -ālis] = uīcēnārius;   sphaera ~is  , an icosahedron.
+uillus	         m.   [probably dialect form of uellus1] Forms: variant form   uell-     Var.     L.   5.130. A woolly or shaggy growth of hair.
+*uincio	         tr.   [Umbrian previlatu (=   praeuinculato  ); cf. perhaps Sanskrit vivyákti]
+uiolens	         adj.   [collateral form of uiolentus, perhaps on analogy of   uehemens  ] Violent, vehement.
+uispellio	         m.   [var. of uispillō] = uispillō (in quotations, implying a man of disreputable trade).
+;uitiparra	         f.   [perhaps uītis (or uitium) + parra] Prosody: see etymology A kind of small bird, perhaps a tit.
+unanimans	         adj.   [ūnus + animus] = ūnanimus   (perhaps nonce word, following amantis)  .
+;uncia	         f.   [ūnus] NB: represented by the symbol   singly or in combination, e.g. =   represents 3/12.
+;uolo3	         m.   [uolō1 + -ō1] A volunteer (in the period following the battle of Cannae a slave ransomed at public expense to serve in the army; see   Liv.   22.57.11).
+;uorago	         f.   [uorō + -āgō] A deep hole or chasm (open or in the form of a quagmire, etc)., watery hollow.
+*uranoscopos	         m.   [Greek οὐρανοσκa2 πος] A fish with permanently upturned eyes, = calliōnymus.
+;Ulixes	         m.   [Latinized form of   Ὀδυσσεa3 ς  , apparently through dialect form   Ὀλ-  ] Prosody: genitive sg.   ~eī     Hor.     Epod.   17.16,   Carm.   1.6.7;   ~e͡i     Ep.   1.6.63,   Ov.     Met.   14.159. The Greek hero Ulysses or Odysseus, hero of the Odyssey.
+*zeae	         f. pl.   [apparently as zea] = cytisus.
+*zopyrontion	         neut.   [Greek, cf. zōpyrīs] = Clīō podium.
+;zoster	         m.   [Greek ζωστήρ] A kind of marine plant = prason; a disease, probably shingles.
+coactarius	         m.   [cōgō + -ārius] = coactiliārius.
+expressus2	         m.   [exprimō + -tus3] = expressiō 1b.
+iambeus	         adj.   [Greek ἰαμβεῖος] = ĭambicus.
+ineber	         adj.   [= enuber] Restraining, prohibitive (especially in augury, see quotation).
+Naias	         f.   [Greek Ναa0 άς] = Nāis.
+nuptuio	         intr.   [nūbō] (apparently) = nupturiō.
+*onear	         neut.   [apparently Greek ὄνειαρ] A narcotic plant, = onothērās.
+;plaumoratum	         neut.   [dub., perhaps Celtic] NB: the exact form of the word is very uncertain. A kind of plough used in Raetia.
+pullo2	         m.   [pullus1 + -ō1] (apparently) A pederast (= pullārius 2).
+salictetum	         neut.   [as salictum + -ētum] = salictārius.
+sandrisites	         m.   [Greek] = sandastros.
+sycaminon	         m.   [apparently Greek συκαμινέων] (dub.) = sȳcomoros (probably corrupt for sȳcamīnos; the Greek word is applied to a grove).
+;thalictrum	         neut.   [Greek, form of name uncertain; apparently   θαλίητρον   or   -ηθρον   Dioscorides] A kind of plant, perhaps a meadow rue,   Thalictrum   sp.
+uatax	         adj.   [cf. uatius] Having a deformity of the feet, apparently = uatius.
+peristylum	             neut.   [Greek περίστυλον] = peristȳlium.
+getion	             neut.   [Greek γήτειον] = gēthyum.
+;rumex2	             m.     f.   [probably= rumex1 and named from the spear-shaped leaves] A species of dock grown as a vegetable,   Rumex patientia  .
+Saritor	         m.   [= sartor] A deity presiding over the process of hoeing.
+soloecum	             neut.   [Greek σa2 λοικος] = soloecismus.
+*hemionion	             neut.   [Greek ἡμιa2 νιον] A plant = asplēnos.
+petauristes	             m.   [Greek] = petauristārius.
+*erysimum	             neut.   [Greek ἐρa3 σιμον] The name of a plant, probably a species of hedge mustard, = Īriō.
+coquinarius	         adj.   [coquīna + -ārius] = coquīnāris.
+duumuiralicius	         adj.   [duumuirālis + -icius1] = duumuirālis.
+perdolesco	             intr.   [perdoleō + -scō] (Inceptive form of perdoleō).
+;mystagogus	             m.   [Greek μυσταγωγa2 ς] A priest who initiates people in sacred mysteries; (also transf. = one who shows visitors the sights).
+uineaticus	         adj.   [uīnea + -āticus] = uīneārius.
+naeuus	             m.   [=   gnaeuus   (  Inc. de praenom.   5); cf.   Gnaeus  ,   (g)nosco  ,   gnarus  ] A discoloured mark on the skin, mole, birthmark.
+suggrundium	         neut.   [suggrunda + -ium] = suggrunda.
+;gizeria	         neut. pl.   [apparently Eastern form of word for 'liver' (  iecur  ; cf. NPers. digar)] Giblets.
+*elleborine	         f.   [Greek ἑλλεβορίνη] A plant, = epicactis.
+;digitellus	         m.     neut.   [digitus + -ellus] Houseleek (= sedum).
+cypiros	             m.     ?f.   [probably = cypēros] A name given to one or more sorts of gladiolus (confused with cypēros by some authorities according to Pliny, and probably at times by Pliny himself or his copyists).

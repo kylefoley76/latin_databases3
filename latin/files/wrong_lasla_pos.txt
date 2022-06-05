@@ -1,0 +1,19 @@
+tu	tu	sv	sn
+uos	uos	pv	pn
+uos	uos	sn	pn
+ille	ille	smv	smn
+ille	illa	sfv	sfn
+ego	ego	sv	sn
+uis	uis	pn	sn
+uis	uiris	pn	pa
+auris	auris	pn	pa
+uestis	uestis	pn	pa
+lacte	lacte	sn	sa
+origo	originis	sn	sg
+bos	bouis	sn	sg
+uulpes	uolpis	sn	sg
+supellex	supellectilis	sn	sg
+
+
+
+

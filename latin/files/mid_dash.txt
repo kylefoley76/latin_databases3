@@ -1,0 +1,61 @@
+-lēn-	lān	Cephallanes
+-tafi-	taph	cepotaphiolum
+-land-	lend	Commolenda
+-sarr-	sar	consario
+-uoln-	uuln	conuulnero
+-uols-	uuls	conuulsa, conuulsio
+-cum-	cim	decima, Decima, decimanus, decimanus, Decimianus, decimo, decimus
+-līn-	lēn	delenio
+-liqu-	lic	delicia
+-lēr-	līr	deliritas, deliro
+-trac-	trec	detrectatio, detrecto
+-sparg-	sperg	dispergo
+-part-	pert	dispertio
+-uor-	uer	diuerse, diuersus, diuerto
+-uer-	uor	diuortium
+-uol-	uul	diuulgo
+-farc-	ferc	effercio
+-cup-	cip	emancipo
+-ecth-	echth	Erechtheus, Erechtheus
+-tyl-	til	ergastilus
+-uors-	uers	exaduersum, transuersum, undiqueuersum, uniuersus, utroqueuersum
+-tum-	tim	existimatio, aestimo
+-sec-	sic	faenisicium, subsiciuus
+-cab-	cub	Hecuba
+-ads-	ass	inassignatus, inassuetus
+-conp-	comp	incomparabilis, incompertus, incomposite, incompositus
+-damn-	demn	indemnatus
+-exp-	exsp	inexspectatus
+-ext-	exst	inexstinctus, inexstinguibilis
+-ill-	ell	miscellaneus
+-unq-	umq	nonnumquam
+-sēp-	saep	obsaepio
+-sīp-	saep	obsaepio
+-string-	strig	obstrigillo
+-cant-	cent	occento
+-ass-	as	Parnasus
+-en-siacus	.	Peloponnesiacus
+-inl-	ill	perillustris
+-inb-	imb	perimbecillus
+-lub-	lib	perlibens, perlibet
+-oport-	opport	peropportune, peropportunus
+-uolg-	uulg	peruulgatus, peruulgo
+-xin-	xen	ploxenum
+-strīg-	stig	praestigia, praestigiator, praestigiatrix
+-scēn-	scaen	proscaenium, episcaenus
+-gens-	ges	quadragesimus, septuagesimus
+-cunq-	cumq	qualitercumque
+-ant-	ampt	redamptruo
+-clūs-	claus	semiclausus
+-tend-	temd	septemdecim
+-yl-	ul	serpullum
+-il-	ul	serpullum
+-sim-	sam	sesama
+-sum-	sam	sesama
+-trāl-	traūl	tonitrualis
+-censi-	cesi	unetuicesimani
+-erc-	arc	abarceo
+-gne-	gn	abiegnus
+-tim-	tum	aeditumus
+-uort-	uert	anteuerto
+-ll-	l	Scylaceum

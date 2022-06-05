@@ -1,0 +1,28 @@
+Plinius	PliniusEpistulae_PliEp08	999	2	2<prosecutus> esset
+Cicero	ProFlacco_CicFlac	9793	2	2<oppressus> est
+Plinius	PliniusEpistulae_PliEp10	7941	2	2<uenerati> sunt
+Vergilius	Georgica_VerGeor1	1878	2	2<conati> sunt
+Tacitus	TacAnnales_TacAnn03	578	2	celebratum (esse)
+Tacitus	TacAnnales_TacAnn03	578	3	3,6,1
+Tacitus	TacAnnales_TacAnn03	578	4	B131 742 AG 5
+Cato	CatoAgricultura_CatAgr	2996	2	quadrantem
+Cato	CatoAgricultura_CatAgr	3282 	2	quadrantem
+Cato	CatoAgricultura_CatAgr	8806 	2	quadrantem
+Plautus	Epidicus_PlEpidic	3480	1	01234567facio
+Plautus	Epidicus_PlEpidic	3480	2	facturum <esse>
+Curtius	CurtiusHistoriaeAlexandriMagni_QCurt06	836	2	2<subtracta> est
+Ovidius	Fasti_OvFasti1	1851	2	reddita <est>
+Ovidius	Fasti_OvFasti1	1854	2	2<reddita> est
+Petronius	PetroniusSatiricon_PetronSa	11467	2	hortatus
+Petronius	PetroniusSatiricon_PetronSa	11468	2	que
+Petronius	PetroniusSatiricon_PetronSa	11469	2	est
+Lucretius	DeRerumNatura_LucrDRN6	4258	2	coniuncta
+Lucretius	DeRerumNatura_LucrDRN6	4259	2	est
+Catullus	Catullus_Catul	6112	2	maesta
+Catullus	Catullus_Catul	6113	2	est
+Caesar	BellumGallicum_CaesBG5	4630	2	2<nocitum> iri
+Cato	CatoOrationumFragmenta_CatOrat	2627	2	...
+Cato	CatoOrationumFragmenta_CatOrat	2627	4	#
+Cato	CatoOrationumFragmenta_CatOrat	2628	2	est
+Cato	CatoOrationumFragmenta_CatOrat	2628	4	#
+Ovidius	InIbin_OviIbin	197	2	prius

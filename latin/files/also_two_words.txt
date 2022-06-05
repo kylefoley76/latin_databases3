@@ -1,0 +1,86 @@
+abusque	abusque	ab usque
+benefactum	benefactum	bene factum	*
+circumerro	circumerrō	circum errō
+decemuir	decemuir	decem uir	*
+desubito	dēsubitō	dē subitō
+dummodo	dummodo	dum modo	*	t
+dumtaxat	dumtaxat	dum taxat	*	t
+eatenus	eātenus	eā tenus
+enimuero	enimuērō	enim uērō
+eoad	eōad	eō ad
+etiamdum	etiamdum	etiam dum
+etiamsi	etiamsī	etiam sī
+etsi	etsī	et sī
+extraclusus	extrāclūsus	extrā clūsus
+fideicommissum	fideicommissum	fidei commissum
+fideicommitto	fideicommittō	fidei committō
+fideiubeo	fidēiubeō	fidē iubeō
+fidepromitto	fidēpromittō	fidē promittō
+fortassean	fortassean	fortasse an
+graueolens	graueolens	graue olens
+hauddum	hauddum	haud dum
+hocusque	hōcusque	hōc usque
+illatenus	illātenus	illā tenus
+malefactum	malefactum	male factum
+manumitto	manūmittō	manū mittō
+nimirum	nīmīrum	nī mīrum
+obuiam	obuiam	ob uiam
+pignoriscapio	pignoriscapiō	pignoris capiō
+posteaquam	posteāquam	posteā quam
+postmodo	postmodo	post modo
+postprincipium	postprincipium	post principium
+postputo	postputō	post putō
+praequam	praequam	prae quam
+praeterea	praetereā	praeter eā
+praeterpropter	praeterpropter	praeter propter
+praeterquam	praeterquam	praeter quam
+priusquam	priusquam	prius quam	*	t
+propediem	propediem	prope diem
+propterea	proptereā	propter eā
+qualiterqualiter	quāliterquāliter	quāliter quāliter
+quamdiu	quamdiū	quam diū
+quamobrem	quamobrem	quam ob rem
+quandoquidem	quandōquidem	quandō quidem
+quantuslibet	quantuslibet	quantus libet
+quantusquantus	quantusquantus	quantus quantus
+quantusuis	quantusuīs	quantus uīs
+quidum	quīdum	quī dum
+quiuiscumque	quīuīscumque	quī uīs cumque
+quocirca	quōcircā	quō circā
+quomodocumque	quōmodocumque	quōmodo cumque
+quotannis	quotannīs	quot annīs
+quotuscumque	quotuscumque	quotus cumque
+ratihabitio	ratihabitiō	rati habitiō
+reapse	rēapse	rē apse
+saepenumero	saepenumerō	saepe numerō
+satago	satagō	sat agō
+satisacceptio	satisacceptiō	satis acceptiō
+satisdatio	satisdatiō	satis datiō
+satisdo	satisdō	satis dō
+satisfacio	satisfaciō	satis faciō
+septemuir	septemuir	septem uir	*
+sexprimus	sexprīmus	sex prīmus
+superaddo	superaddō	super addō
+supercontego	supercontegō	super contegō
+superincumbo	superincumbō	super incumbō
+superuolito	superuolitō	super uolitō
+tametsi	tametsī	tamet sī
+tammodo	tammodo	tam modo
+ubiubi	ubiubi	ubi ubi
+uerumtamen	uērumtamen	uērum tamen
+uiripotens2	uiripotens2	uiri potens2
+undeunde	undeunde	unde unde	*
+undiqueuersum	undiqueuersum	undique uersum	*
+unumquicquid	ūnumquicquid	ūnum quicquid
+usquequaque	usquequāque	usque quāque
+usucapio1	ūsūcapiō1	ūsū capiō1
+utpote	utpote	ut pote
+utrimquesecus	utrimquesecus	utrim quesecus
+utut	utut	ut ut
+anteuolo	anteuolō	ante uolō	*
+argentifodinae	argentifodīnae	argenti fodīnae
+sicumquam	sīcumquam	sī cumquam
+nequedum	nequedum	neque dum
+undecumque	undecumque	unde cumque
+etiamtum	etiamtum	etiam tum
+cumcumque	cumcumque	cum cumque		t

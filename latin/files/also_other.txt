@@ -1,0 +1,73 @@
+! * special deletetion
+! nonl = nonlemma
+an2	an2	anne
+antehac	antehāc	antidhāc	1
+arcelaca	arcelāca	arcerāca	*
+boca	bōca	bōcas	2
+Bucephala	Būcephala	Būcephalon ~ī	2
+carino2	carinō2	carinor	2
+Cassandra	Cassandra	Cassantra	2	archaic
+circumuector	circumuector	circumuectō	2
+claudus	claudus	clōdus	2
+cluniculus	clūniculus	clūniculua f.	2
+Dicarchus	Dicarchus	Dicarchēus	2
+doleo	doleō	doleor	1
+ecquid	ecquid	etquid	2
+Elidensis	Ēlidensis	Ālidensis	2
+facio	faciō	faxsiō	2
+frigida	frīgida	frīda
+hactenus	hāctenus	hāc tenus	[	c
+iocus	iocus	ioca ~iocorum	4	pl.
+Maccius	Maccius	Maccus	2
+malache	malachē	molochē	[
+maxime	maximē	maxumē		nonl
+maximus	maximus	maxumus		nonl
+minimus	minimus	minumus		nonl
+muriola	muriola	moriola
+muriola	muriola	murriola
+nauta	nauta	nāuita	[
+necesse	necesse	necessis	[
+necesse	necesse	necessum
+necesse	necesse	necessus
+necullus	necullus	nec ullus		c
+necuter	necuter	neque uter		c
+neutiquam	neutiquam	ne utiquam		c
+odor	odor	odōs	2	archaic
+oh	ōh	ō
+optimus	optimus	optumus	0	non-lemma
+Orestae	Orestae	Orestēs ~ae	4	sg.
+Panda	Panda	Pandō
+pessime	pessimē	pessumē	2	non-lemma
+puticuli	puticulī	puticulae ~ārum	4
+rauio	rauiō	aruiō	1
+res publica	rēs publica	rēspublica	[	c
+rumpia	rumpia	rhomphaea
+sambucistria	sambūcistria	sambȳcistria	*
+satis	satis	sat.
+scirpiculus2	scirpiculus2	sirpiculus2
+scirpiculus2	scirpiculus2	surpiculus2	4
+scirpo	scirpō	sirpō
+Sexarbor	Sexarbor	Sex arborēs	4	pl.
+sin	sīn	sein	*
+soracus	sōracus	sōracum ~ī	4
+Suculae	Sūculae	Sūcula ~ae	4
+supperior	supperior	subperior
+triumuir	triumuir	trēs uirī	2	pl.	c
+uester	uester	uoster	2	archaic
+uigintiuiratus	uīgintīuirātus	xxuiratus	*
+Usipi	Ūsīpī	Ūsīpetēs ~um	4
+Aeacides	Aeacidēs	Aeacidā	4	
+angustitas	angustitās	angustas ~ātis	
+arteria	artēria	artērium	[
+auctoro	auctōrō	auctōror	3	intr. tr
+Auerruncus	Āuerruncus	Auruncus1	*
+Quintilius	Quintilius	Quinctilius
+duouiri	duouirī	iiuiri ~orum	*
+seuiralis	sēuirālis	uiuiralis	*
+reuertor	reuertor	reuertō ~tere ~tī	4
+laridum	lāridum	lārdum ~ī	*
+lauabrum	lauābrum	lābrum2	[
+lauatrina	lauātrīna	lātrīna
+nonussis	nōnussis	nōnus
+octussis	octussis	octus
+quinquessis	quinquessis	quinques

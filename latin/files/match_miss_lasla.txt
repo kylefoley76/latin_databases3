@@ -1,0 +1,1089 @@
+!! if a word starts with __ then it is a lemma
+! if a line ends with # then it is a probable alt spelling of the previous lemma
+! the * was a mistake and can be ignored
+! a | means that the word has a familiar root but an unfamiliar prefix
+0
+__incomprehensib		
+incomprehensus*	2#
+incomprehensibilis	0
+1
+__uelanda	
+uelo	0#
+uesania*	2
+ueleda*	2
+uelinia*	2
+uemania*	2
+uolana*	2
+uerania*	2
+2
+__satisfio
+satisdo*	2
+satisfacio*	2#
+3
+__uetuo
+ueto*	1#
+uetus*	1
+uetto*	1
+uendo*	2
+uoluo*	2
+uectio*	2
+uero*	2
+ultio*	2
+uello*	2
+ustio*	2
+uiduo*	2
+unguo*	2
+uerno*	2
+uerum*	2
+utro*	2
+uentus*	2
+ueneo*	2
+uentio*	2
+uecto*	2
+uito*	2
+uelum*	2
+uenio*	2
+ultro*	2
+uacuo*	2
+uerto*	2
+uelo*	2
+uerro*	2
+uenum*	2
+uestio*	2
+utut*	2
+uruo*	2
+ueru*	2
+uitio*	2
+uerua*	2
+uegeo*	2
+uotum*	2
+ueho*	2
+uenus*	2
+ustulo*	2
+uento*	2
+uerso*	2
+uietus*	2
+uergo*	2
+uexo*	2
+uelut*	2
+uerus*	2
+uiuo*	2
+ustus*	2
+uetula*	2
+utus*	2
+ultus*	2
+utum*	2
+uto*	2
+ueno*	2
+uectus*	2
+uotus*	2
+uetero*	2
+ueter*	2
+ueius*	2
+ustuio*	2
+uenno*	2
+uitus*	2
+uetusto*	2
+uesco*	2
+4
+__differcio
+differo*	2#
+5
+__in|affecto
+inflecto*	2
+infecto*	2
+6
+__exfloresco
+effloresco*	1#
+7
+__in|demno	
+ingemino*	2
+ingemo*	2
+incerno*	2
+indemnis*	2
+indepto*	2
+indeceo*	2
+inceno*	2
+insemino*	2
+8
+__per|comperio
+percooperio*	1
+9
+__unusquisquis
+unusquisque*	2#
+10
+__in|castigo
+instigo*	2
+inuestigo*	2
+infatigo*	2
+incastro*	2
+11
+__tarraconenses
+tarraconensis*	1#
+tarracinenses*	1
+terracinenses*	2
+tarracinensis*	2
+tarracenses*	2
+12
+__nescioqua
+nescioqui*	1#
+nescioquis*	2#
+13
+__camurus
+caurus*	1
+camarus*	1#
+caburus*	1
+camirus*	1#
+casurus*	1
+camulus*	1
+canorus*	2
+canutus*	2
+cammarus*	2
+carus*	2
+camus*	2
+catulus*	2
+camers*	2
+camelus*	2
+cauus*	2
+capulus*	2
+caducus*	2
+carrus*	2
+cautus*	2
+cauarus*	2
+cadurcus*	2
+campus*	2
+camur*	2
+cumulus*	2
+caluus*	2
+caminus*	2
+cabirus*	2
+camars*	2
+caedrus*	2
+cumerus*	2
+cacurius*	2
+casyrus*	2
+cacunus*	2
+campulus*	2
+caucus*	2
+caunus*	2
+camiros*	2
+cauros*	2
+colurus*	2
+camerius*	2
+14
+__sursumuorsum
+sursuorsum*	2#
+15
+__pelastes
+plastes*	1#
+pelasgus*	2
+pilates*	2#
+pelasgis*	2
+penates*	2
+plastus*	2#
+palaestes*	2#
+pellates*	2
+16
+__per|meditor
+permetior*	2
+perditor*	2
+permeator*	2
+17
+__cocturnix
+coturnix*	1#
+18
+__androgynos
+androgynus*	1#
+androgynes*	1#
+androgeos*	2
+androgyne*	2#
+19
+__apperior
+appario*	2
+apparitor*	2
+anterior*	2
+aperio*	2#
+aspernor*	2
+appetitor*	2
+apertor*	2
+appensor*	2
+aporior*	2
+adopperior*	2
+20
+__paraeneticos
+paraenetice*	2#
+21
+__sub|suo
+subsum*	1
+subruo*	1
+subluo*	1
+substo*	1
+subsudo*	1
+subtus*	2
+subeo*	2
+suasus*	2
+subleuo*	2
+subsido*	2
+subigo*	2
+subscus*	2
+subaro*	2
+submuto*	2
+subolo*	2
+subedo*	2
+subrumo*	2
+subo*	2
+suburo*	2
+subauro*	2
+suasio*	2
+subduco*	2
+subiugo*	2
+susum*	2
+substruo*	2
+subdo*	2
+subluco*	2
+subsero*	2
+suasum*	2
+suesco*	2
+subsulto*	2
+subseco*	2
+subito*	2
+subulo*	2
+sursum*	2
+subsoluo*	2
+subium*	2
+subscudo*	2
+subur*	2
+subesus*	2
+sublauo*	2
+surruo*	2
+subsummo*	2
+subcus*	2
+subsono*	2
+subasso*	2
+subcauo*	2
+subcubo*	2
+subs*	2
+22
+__cotytia
+cotyttia*	1#
+cortynia*	2
+cotta*	2
+clytia*	2
+cotyto*	2
+cotoria*	2
+cotyla*	2
+comitia*	2
+cotaria*	2
+cotytto*	2
+cotonia*	2
+23
+__mysta
+mysia*	1
+myrta*	1
+musta*	1#
+mystes*	2
+massa*	2
+mosa*	2
+menta*	2
+moeta*	2
+morta*	2
+multa*	2
+myisca*	2
+mys*	2
+mustax*	2
+mesa*	2
+murta*	2
+musca*	2
+myxa*	2
+musa*	2
+myosota*	2
+meta*	2
+mysus*	2
+mystiae*	2
+missa*	2
+myla*	2
+myra*	2
+misua*	2
+messa*	2
+matta*	2
+muta*	2
+mesia*	2
+mysi*	2
+mesua*	2
+musti*	2
+myrtea*	2
+mastya*	2
+marta*	2
+musia*	2
+mystica*	2
+mya*	2
+24
+__derumpo
+desumo*	2
+disrumpo*	2#
+deruo*	2
+derepo*	2
+decumbo*	2
+delumbo*	2
+degrumo*	2
+deturpo*	2
+deculpo*	2
+detumo*	2
+depompo*	2
+depulpo*	2
+derupio*	2
+decumo*	2
+25
+__satis|accipio
+satisacceptio*	2
+sataccipio*	2
+26
+__destineo
+distineo*	1#
+destino*	1
+detineo*	1
+destringo*	2
+destinato*	2
+destituo*	2
+desideo*	2
+destico*	2
+desino*	2
+destillo*	2
+descindo*	2
+delineo*	2
+destina*	2
+27
+__encelados
+enceladus*	1#
+28
+__in|exercito
+inexercitus*	2
+29
+__circum|tondeo
+circumtono*	2
+circumtendo*	2
+circumpendeo*	2
+circumtundo*	2
+circumteneo*	2
+30
+__pertaedet
+pertaedeo*	1#
+31
+__maleicorium
+malicorium*	1#
+32
+__pargo
+pergo*	1#
+purgo*	1#
+pago*	1
+porgo*	1
+parco*	1#
+pango*	1
+paro*	1
+pario*	1
+pareo*	1
+pyrgo*	1
+parca*	2
+puro*	2
+palo*	2
+pateo*	2
+pyrgi*	2
+porro*	2
+purigo*	2
+parion*	2
+pando*	2
+porto*	2
+pero*	2
+pars*	2
+parra*	2
+partio*	2
+patro*	2
+plango*	2
+parum*	2
+pagos*	2
+pingo*	2
+pungo*	2
+parce*	2
+pauio*	2
+pro*	2
+paco*	2
+pereo*	2
+perago*	2
+parta*	2
+pyrro*	2
+paris*	2
+parito*	2
+palpo*	2
+pauo*	2
+pasco*	2
+parma*	2
+paulo*	2
+paros*	2
+pallo*	2
+phago*	2
+pacio*	2
+perdo*	2
+palmo*	2
+par*	2
+paueo*	2
+paron*	2
+pappo*	2
+pharao*	2
+parus*	2
+perge*	2
+patio*	2
+papo*	2
+plago*	2
+pauso*	2
+parue*	2
+pabo*	2
+parda*	2
+pagi*	2
+paria*	2
+paroa*	2
+parsio*	2
+pado*	2
+perga*	2
+passo*	2
+parii*	2
+partor*	2
+33
+__in|turbo
+incurso*	2
+incumbo*	2
+insurgo*	2
+intro*	2
+innubo*	2
+incurro*	2
+induro*	2
+inuro*	2
+interdo*	2
+intereo*	2
+inauro*	2
+incubo*	2
+intero*	2
+incuruo*	2
+iniurio*	2
+intuo*	2
+iniuro*	2
+intundo*	2
+intardo*	2
+inaurio*	2
+34
+__langor
+languor*	1#
+langon*	1
+lanugo*	2
+laniger*	2
+labor*	2
+langa*	2
+lingo*	2
+laetor*	2
+largior*	2
+lentor*	2
+lator*	2
+lanio*	2
+lano*	2
+longo*	2
+lanos*	2
+lagon*	2
+lago*	2
+lagos*	2
+lingos*	2
+laeuor*	2
+langia*	2
+35
+__lamyros
+lamyrus*	1#
+lampyris*	2
+lamirus*	2#
+labros*	2
+lagynos*	2
+laeros*	2
+lamprus*	2
+laros*	2
+lambrus*	2
+lathyros*	2
+36
+__poscimus
+posco*	0#
+posticus*	2
+porcinus*	2
+pessimus*	2
+postumus*	2
+positus*	2
+porcius*	2
+puscinus*	2
+pestimus*	2
+37
+__de|paco
+depalo*	1
+depasco*	1
+deparco*	1
+deplaco*	1
+delato*	2
+deposco*	2
+derado*	2
+deocco*	2
+deseco*	2
+deputo*	2
+dedico*	2
+desacro*	2
+deamo*	2
+depono*	2
+denaso*	2
+delico*	2
+depso*	2
+denato*	2
+depleo*	2
+demano*	2
+deduco*	2
+desico*	2
+deago*	2
+defico*	2
+depuio*	2
+deuoco*	2
+depango*	2
+depluo*	2
+defaeco*	2
+depalmo*	2
+decoco*	2
+deprauo*	2
+draco*	2
+depecto*	2
+deplico*	2
+deplano*	2
+depeto*	2
+depoclo*	2
+depilo*	2
+despico*	2
+depascor*	2
+decano*	2
+delauo*	2
+defeco*	2
+deperco*	2
+dropaco*	2
+decalco*	2
+depoto*	2
+38
+__phyrgio
+pyrgi*	2#
+phormio*	2
+phrygio*	2#
+pyrgo*	2#
+pyrgis*	2
+39
+__oc|cendo
+occedo*	1
+occento*	1
+occepto*	2
+oscedo*	2
+offendo*	2
+occaedo*	2
+occido*	2
+occano*	2
+occino*	2
+obtendo*	2
+ostendo*	2
+occludo*	2
+occoeno*	2
+occanto*	2
+occelo*	2
+40
+__per|peto
+perpoto*	1
+perpetro*	1
+perpetuo*	1
+perputo*	1
+perpenso*	2
+perueho*	2
+perspecto*	2
+perrepo*	2
+perpetue*	2
+periero*	2
+perpaco*	2
+persero*	2
+perrepto*	2
+peremo*	2
+perneo*	2
+perpluo*	2
+pertero*	2
+pertento*	2
+perlito*	2
+perpetior*	2
+peredo*	2
+permeo*	2
+pereo*	2
+perfero*	2
+percito*	2
+perlego*	2
+perpes*	2
+peruerto*	2
+pertego*	2
+perbito*	2
+pernego*	2
+perpremo*	2
+perpello*	2
+perseco*	2
+persto*	2
+permuto*	2
+permeio*	2
+perpendo*	2
+pertexo*	2
+perito*	2
+perpateo*	2
+perfreto*	2
+percedo*	2
+perceno*	2
+pernoto*	2
+perpedio*	2
+perpetim*	2
+perneco*	2
+perpere*	2
+perporto*	2
+41
+__collabefacio
+collabefacto*	1#
+contabefacio*	2
+collabefio*	2#
+42
+__in|accedo
+incedo*	2
+43
+__apocalo
+apoculo*	1#
+apollo*	2
+ascalo*	2
+apocho*	2
+44
+__in|cohibeo
+inhibeo*	2
+45
+__cinipes
+ciniphes*	1#
+cinifes*	1
+citipes*	1
+cinyps*	2
+cinis*	2
+cornipes*	2
+centipes*	2
+cynifes*	2
+cynapes*	2
+cilices*	2
+cinyphes*	2
+46
+__expliceo
+explico*	1#
+exilico*	2
+expleo*	2
+47
+__introuersus
+introuorsus*	1#
+interuersus*	2
+48
+__con|uincio
+conuinco*	1
+conuinctio*	1
+conuenio*	2
+conuictio*	2
+conuentio*	2
+conicio*	2
+conuicior*	2
+conficio*	2
+condicio*	2
+conlinio*	2
+coniicio*	2
+consancio*	2
+conuitio*	2
+49
+__hedia
+heia*	1
+helia*	1
+hernia*	2
+heri*	2
+helica*	2
+hemina*	2
+herma*	2
+henna*	2
+hydria*	2
+hetta*	2
+helix*	2
+hera*	2
+hadria*	2
+hei*	2
+hydra*	2
+hedera*	2#
+hodie*	2#
+heic*	2
+horia*	2
+herba*	2
+hygia*	2
+hexis*	2
+heli*	2
+haedina*	2
+hyda*	2#
+hebria*	2
+hegio*	2
+herna*	2
+hadra*	2
+hedui*	2#
+hegea*	2
+helias*	2
+herie*	2
+heua*	2
+50
+__immemoro
+immemor*	1#
+immemoria*	2
+immemoris*	2
+51
+__traulizo
+traulizi*	1#
+trauio*	2
+trullizo*	2#
+52
+__prae|compono
+praecommodo*	2
+53
+__candelabrus
+candelabrum*	1#
+54
+__sub|nitor
+subitor*	1
+subunctor*	2
+subnoto*	2
+subrutor*	2
+suffitor*	2
+subnato*	2
+subito*	2
+subniger*	2
+subactor*	2
+submotor*	2
+subdito*	2
+55
+__in|exstinguo
+interstinguo*	2
+instinguo*	2
+56
+__inimo?
+intimo*	1
+infimo*	1
+inigo*	1
+inito*	1
+incino*	2
+insido*	2
+induo*	2
+inuiso*	2
+irrimo*	2
+insto*	2
+innuo*	2
+ilico*	2
+intime*	2
+ingemo*	2
+intro*	2
+illimo*	2
+ino*	2
+inermo*	2
+infumo*	2
+insumo*	2
+incito*	2
+inicio*	2
+incilo*	2
+infamo*	2
+ineo*	2
+inflo*	2
+inno*	2
+inimico*	2
+inuio*	2
+inhio*	2
+insuo*	2
+incoo*	2
+itio*	2
+inuito*	2
+initio*	2
+inuro*	2
+immo*	2
+infigo*	2
+icio*	2
+inaro*	2
+indo*	2
+incido*	2
+irio*	2
+indico*	2
+inibi*	2
+infirmo*	2
+iniquo*	2
+inhumo*	2
+incho*	2
+inoro*	2
+iniux*	2
+insipo*	2
+itito*	2
+ignio*	2
+inanimo*	2
+infime*	2
+intuo*	2
+iniuro*	2
+inhamo*	2
+incibo*	2
+imo*	2
+intima*	2
+inarmo*	2
+imito*	2
+inrumo*	2
+inudo*	2
+57
+__balineus
+balineum*	1#
+baliscus*	2
+balteus*	2
+balneum*	2
+balanus*	2
+bliteus*	2
+basileus*	2
+belinus*	2
+baliolus*	2
+balbinus*	2
+barinus*	2
+58
+__sterteius
+sterteia*	2#
+smertrius*	2
+stertinius*	2
+stertens*	2
+stercenius*	2
+59
+__torro
+torreo*	1
+torto*	1
+torno*	1
+torror*	1#
+tollo*	2
+tono*	2
+terrio*	2
+torus*	2
+tiro*	2
+torris*	2
+tyro*	2
+tero*	2
+turbo*	2
+torporo*	2
+tortio*	2
+torpor*	2
+turpo*	2
+terror*	2
+terreo*	2
+terra*	2
+termo*	2
+tortor*	2
+tardo*	2
+tolero*	2
+torpeo*	2
+torte*	2
+turio*	2
+toral*	2
+truo*	2
+tores*	2
+tosto*	2
+torum*	2
+torsio*	2
+tergo*	2
+torsor*	2
+torue*	2
+torrido*	2
+torta*	2
+torrus*	2
+tetro*	2
+trio*	2
+torres*	2
+60
+__de|futuo
+defruto*	2
+demuto*	2
+deputo*	2
+defusio*	2
+deiuuo*	2
+deartuo*	2
+defundo*	2
+decutio*	2
+defugio*	2
+defluo*	2
+deluto*	2
+defuro*	2
+defusto*	2
+defugo*	2
+debatuo*	2
+defusus*	2
+61
+__circum|ueho
+circumuehor*	1
+circumuelo*	1
+circumgelo*	2
+circumsero*	2
+circumfero*	2
+circumuenio*	2
+circumeo*	2
+circumseco*	2
+circumuiso*	2
+circumuolo*	2
+circumgemo*	2
+circumuerto*	2
+circumuado*	2
+circumtero*	2
+circumuecto*	2
+circumuerso*	2
+circumleuo*	2
+circummeo*	2
+circumungo*	2
+circumtego*	2
+circumlego*	2
+62
+__tamias
+tatius*	2
+trias*	2
+tomis*	2#
+taras*	2
+tisias*	2
+tama*	2
+thyias*	2
+tamnus*	2
+talis*	2
+talmis*	2
+tamos*	2#
+tamino*	2
+tadius*	2
+tasis*	2
+tamine*	2#
+tobias*	2
+tamtus*	2
+tabis*	2
+tauia*	2
+talius*	2
+terias*	2
+tanis*	2#
+tamiacus*	2#
+tarius*	2
+tamiagi*	2
+thamiras*	2
+tamiani*	2#
+tanas*	2
+63
+__circum|texo
+circumtero*	1
+circumtego*	1
+circumgelo*	2
+circumsero*	2
+circumfero*	2
+circumtono*	2
+circumeo*	2
+circumseco*	2
+circumuelo*	2
+circumgemo*	2
+circumtendo*	2
+circumtremo*	2
+circumleuo*	2
+circumteneo*	2
+circummeo*	2
+circumlego*	2
+64
+__in|exspecto
+inspecto*	2
+65
+__summanis
+summanus*	1#
+summanius*	1#
+summanes*	1#
+summalis*	1
+summatim*	2
+summatus*	2
+summanalis*	2
+summano*	2
+summas*	2
+summarius*	2
+66
+__im|misit
+immissio*	2
+immitis*	2
+immitia*	2
+67
+__in|curo
+incurso*	1
+incero*	1
+incurro*	1
+induro*	1
+incuno*	1
+inuro*	1
+incudo*	1
+incuso*	1
+inauro*	1
+incubo*	1
+incuruo*	1
+iniuro*	1
+incino*	2
+incoho*	2
+inoculo*	2
+induo*	2
+incumbo*	2
+incursio*	2
+insudo*	2
+iuro*	2
+insurgo*	2
+insero*	2
+innuo*	2
+inculco*	2
+inforo*	2
+intro*	2
+innubo*	2
+incerno*	2
+incalo*	2
+incano*	2
+incutio*	2
+infumo*	2
+insumo*	2
+incito*	2
+incauo*	2
+incilo*	2
+incerto*	2
+incauso*	2
+infero*	2
+inquiro*	2
+inuio*	2
+inceno*	2
+includo*	2
+insuo*	2
+incoo*	2
+infuco*	2
+ingero*	2
+incus*	2
+incolo*	2
+inerro*	2
+incoxo*	2
+induco*	2
+inaro*	2
+insupo*	2
+incido*	2
+iecur*	2
+iocur*	2
+incedo*	2
+incuria*	2
+inchoo*	2
+insuco*	2
+intero*	2
+inhumo*	2
+inculpo*	2
+incho*	2
+iniurio*	2
+inoro*	2
+incarno*	2
+iluro*	2
+intuo*	2
+incibo*	2
+incuba*	2
+inaurio*	2
+inrumo*	2
+iaculo*	2
+impuro*	2
+inudo*	2
+68
+__thimiamae
+thymiama*	2#

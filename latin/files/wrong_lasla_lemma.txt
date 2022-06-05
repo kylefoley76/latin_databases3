@@ -1,0 +1,4 @@
+! column 1 = lemma, 2 = word, 3 = pos, 4 = correct lemma
+unus	aliud	sna	alius
+robur	robus	sn	robus
+comissationibus	commissio	pb	comissatio

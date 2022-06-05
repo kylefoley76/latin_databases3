@@ -1,0 +1,48 @@
+!!! *v = forms of verb
+! *g = 2nd word is genitive
+! *s = special, ad hoc coding
+! *j 
+absum, abesse, āfuī*v
+Aegos flumen, Aegos potamī
+āēr āeris*g
+aes aeris*g
+ager agrī*g
+agō, agere, ēgī, actum*v
+anguimanus ~ūs (accusative pl.)*s
+arcs arcis*g
+Areios pagus
+Arēos pagos
+arse uerse
+as assis*s
+āter, ātra, ātrum*j
+coco coco
+Hermū aedo͡eon
+Hermū poa
+lūca bōs
+madeia perimadeia
+magnō opere
+Megalē polis
+Orbius clīuus
+Puilia saxa
+rēs publica
+summō opere,
+susque dēque
+tantō opere,
+tux pax
+ā2, āh#
+ab, abs, ā#
+ācer2, ācris, ācre, ācrior, ācerrimus*j
+Adramyttium, Adramytium#
+aedēs, aedis#
+Āfer Afra, Afrum*j
+ahēneum, ahēnus#
+analeptris, analemptris#
+Ante Canem
+aper1 aprī*g
+Aper2 Aprī*g
+atque, ac#
+Bona Dea
+Neos Sebastos
+ordia prīma
+pectuscum Palātī
+Uica Pota

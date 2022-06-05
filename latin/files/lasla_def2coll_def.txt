@@ -1,0 +1,264 @@
+! 88 is a note, ?? means there is a problem
+! * is the index number in lasla
+!# is the index number in collatinus
+! the second number after * matches the index number in collatinus to lasla.  a 0 indicates that the collatinus lemma is not numbered.  so, in populus1 in lasla = populus in collatinus and populus2 in lasla = populus2 in collatinus 
+__populus	
+*1	0	Le Peuple
+*2	2	Le Peuplier
+#2	a poplar-tree, the silver-poplar poplar tree; (long o) a poplar, poplar-tree peuplier.
+#	a people, nation, republics and kingdoms, the whole body of citizens, people, the public treasury, The citizens, A region, district, A multitude, host, crowd, throng, great number, the street people, nation, State; public/populace/multitude/crowd; a following nom. plur., a people, the people. a - peuple [habitants d'un état constitué ou d'une ville]. b - [à Rome] le peuple [opp. au sénat]. c - le peuple, [ensemble des citoyens de tout ordre opposé à plebs, plèbe, comme le tout à la partie]. d - rart plèbe, populace = plebs. e - les gens, le monde. f - le public, la foule, multitude, grand nombre. g - [rare] canton, région. h - le dehors.
+__occido	
+*1	2	(dérivé de CADO)
+*2	0	(dérivé de CAEDO)
+#	to strike down, knock down, To cut down, cut off, kill, slay, annihilated, to the last man, murder, form of murder, murders were committed, commit suicide, to plague to death, torture, torment, pester, To ruin, undo to strike down, strike to the ground; to beat, smash, crush to strike down, strike to the ground; to beat, smash, crush.
+#2	to fall down, fall, To go down, set, To fall, perish, die, be slain, to decline, end, the evening of life, be lost.&mdash;To perish, be ruined, be lost, I am undone to fall down, fall; to perish, be ruined, lost; to fall down, fall. (Lebaigue P. 850 et P. 851)
+#3	to go towards, go to, go up to;
+__incido	
+*1	0	(dérivé de CADO)
+*2	2	(dérivé de CAEDO;pas de Sous-lemme INCISVS)
+#	to fall in, fall, light, strike, reach, find the way, happens into a net, rushing at, fall into, sink under, To light upon, meet, come upon, fall in with, To fall upon, attack, assault, to fall into, incur, contract, become involved, To fall upon, befall, strike, affect, visit, occur, to fall, light, be led, to come, occur, be presented, be recalled, arise, To fall out, happen, occur, break out, your term.&mdash;To fall in with, coincide, agree with to fall into or upon a thing; to fall, light upon; to fall into, upon, to fall, light upon - intr. - a - tomber dans, sur. b - se jeter sur, se précipiter vers. c - fondre sur, attaquer. d - tomber dans, sur [par hasard]. e - tomber dans, devenir la proie de. g - arriver, venir par coïncidence. h - arriver, se présenter (à l'esprit...). k - s'abattre sur.
+#2	to cut into, cut through, cut open, cut away, clip, divided, sever.&mdash;To cut upon, carve, engrave, To make by cutting, cut in, carve, engrave, inscribe, among your titles, to break off, interrupt, stop, put an end to, interrupting, short clauses. &mdash;To cut off, cut short, take away, remove to cut into, cut open; to inscribe, engrave inscription; to break off; to cut into, cut through, cut open, cut up - tr. - a - entailler, inciser, tailler. b - graver, buriner. c - faire en entaillant, en coupant. d - couper, trancher. e - fig. couper, interrompre. g - trancher, couper court à.
+__pecus	
+*1	0	(Génitif PECORIS)
+*2	2	(Génitif PECVDIS)
+#	cattle, a stud, the bristly herd, Pan, the drones, a flock, An animal, head of cattle, cattle sheep; animal; cattle, a herd - a - troupeau, bétail. - b - petit bétail, menu bétail (brebis, chèvres, moutons, porcs). - c - animal. - d - troupe, troupeau (d’hommes).
+#2	a head of cattle, beast, brute, animal, one of a herd, land animals, domestic animals.&mdash;A sheep, the Ram, a beast, brute cattle, herd, flock a single head of cattle, a beast, brute, animal, one of a herd - a - bête, tête de bétail, pièce de bétail, animal (domestique). - b - menu bétail, moutons, brebis. - c - brute, bête, être stupide.
+#3	cattle, a herd
+__os	
+*1	2	(Génitif ORIS)
+*2	0	(Génitif OSSIS)
+#2	the mouth; the face, countenance; A mouth, opening, entrance, aperture, orifice; gen. plur., the mouth, to be in everybody's mouth, to be the common talk, unanimously, soon become famous, to begin to speak, to cheat, befool (Lebaigue P. 875 et P. 876).
+#	a bone bone; (implement, gnawed, dead); kernel (nut); heartwood (tree); stone (fruit)
+__leuitas	
+*1	0	La Légèreté
+*2	2	Le Poli
+#	lightness, mobility, power to move, light-mindedness, changeableness, fickleness, inconstancy, levity, frivolities, n., to regard as trifling, shallowness, superficiality levity; lightness, mildness; fickleness; shallowness; a - légèreté. b - mobilité. c - légèreté, inconstance, frivolité. d - faiblesse, futilité d'une opinion.
+#2	smoothness, smoothness, fluency, facility smoothness a - le poli. b - poli du style.
+__pila	
+*1	0	=SPHAERA QVA LVDITVR
+*2	2	=MORTARIVM;COLVMNA
+#	a ball, playing-ball, the game of ball, A ballot - ball (play/decorative); sphere; mortar, vessel in which things are pounded; gen. sing., a ball, playing-ball - a - balle (pour jouer), paume. - b - tout objet rond : boule, pelote, globe (de la terre), sphère... - c - môle, digue. - d - mannequin (pour exciter les taureaux).
+#2	a mortar 1 - [*pigla] pilier, colonne, pile (d'un pont). 2 - [*pisula] mortier (à piler), auge à foulon.
+__leuis	
+*1	0	Léger
+*2	2	Lisse;également forme LAEVIS
+#	light, not heavy, light soil, light-armed, lightly clad, shades, light, easy to digest, light, swift, quick, fleet, nimble, rapid, gayer, fleeting, Slight, trifling, small, gentle, without weight, of no consequence, light, trifling, unimportant, inconsiderable, trivial, slight, little, petty, unfounded report, insignificant, skirmish, neglected, Easy, light, no easy matter, easier, light, light-minded, capricious, fickle, inconstant, untrustworthy, false, empty, Light, not severe, mild, gentle, pleasant, milder reproaches, mildest, hostile light, thin, trivial, trifling, slight; gentle; fickle, capricious; nimble; a - léger, peu pesant. b - léger à la course, rapide, agile. c - léger. d - léger, de peu d'importance. e - léger, doux. g - [moralt] léger, inconsistant.
+#2	smooth, smoothed, not rough a - lisse, uni. b - poét. sans poil, sans barbe. c - d'où blanc, tendre, délicat. d - glissant, qui fait glisser : Virg. En. 5, 328. e - [rare] bien pilé : Cels. 2, 8. g - [rhét.] lisse, bien uni, où il n'y a rien de rugueux.
+__leuo	
+*1	0	Elever (pas de Sous-lemme)
+*2	2	Polir
+#	to lift up, raise, elevate, rise, To make lighter, lighten, relieve, ease, relieved, strip, lighten the ship, To take away, take, takes down, to lighten, relieve, console, refresh, support, slake, To lighten, lessen, alleviate, mitigate, To lessen, diminish, weaken, impair, To relieve, release, discharge, free, To avert - to lift/raise/hold up; to support; to erect, set up; to lift off, remove (load); to comfort; - to lighten, lessen, relieve; to reduce in force/potency; to bring down (cost/prices); (Lebaigue P. 707 et P. 708)
+#2	to make smooth, polish, to polish, smoothe to make smooth, to smooth, polish
+__rapina	
+*1	0	=RAPTIO PER VIM
+*2	2	=RAPA
+#	an act of robbery, robbery, plunder, of carrying off, robbery, plundering, pillage, rapine, Prey, plunder, booty robbery, plunder, booty; rape; Robbery, plundering, pillage, rapine, the act of robbery, the business, habit of plunder - a - action d'emporter. - b - rapacité, vol, pillage, rapine. - c - rapt, enlèvement. - d - fruits des rapines, proie, butin, prise, capture.
+#2	A turnip-field - a - rave. - b - Col. champ de raves.
+__concido	
+*1	2	(dérivé de CADO);pas de Supin
+*2	0	(dérivé de CAEDO)
+#	to cut up, cut through, cut to pieces, ruin, destroy, to break up mounds, to cut to pieces, cut down, destroy, kill, To cut up, beat severely, cudgel soundly, to divide minutely, make fragmentary, To strike down, prostrate, ruin, destroy, annul, to confute - to fall down/faint/dead/victim/to earth/short, to collapse; to drop, subside; to decline; to decay; to cut up, cut through, cut away, cut to pieces, to bring to ruin, destroy - tr. - a - couper en morceaux, tailler en pièces. - b - couper, morceler (
+#2	to fall together, fall down, tumble, fall to earth, To fall dead, be slain, fall, to decline, fall, be overthrown, fail, be defeated, decay, perish, go to ruin, waste away, cease, subside, to shrivel, was prostrated to cut up, cut through, cut away, cut to pieces, to bring to ruin, destroy to fall together, to fall down, to tumble to the ground - intr. - a - tomber ensemble, s'écrouler. - b - être abattu, être ruiné. - c - tomber mort, succomber.
+__flamen	
+*1	0	=SACERDOS
+*2	2	=FLATVS
+#	a priest, flamen gust/blast (of wind); gale; breath/exhalation; wind/breeze; note on woodwind; a priest of one particular deity, a flamen flamine (prêtre de certaines divinités, qui, entre autres, allume la flamme sur l'autel des dieux).
+#2	a blowing, blast, breeze, wind, gale a blowing, blast a - souffle. b - vent, brise.
+__malum	
+*1	0	Le Mal
+*2	2	La Pomme
+#	an evil, mischief, misfortune, calamity, misfortune past, Punishment, hurt, harm, severity, injury, ill-usage, unfortunate.&mdash;Wrong-doing, plague, mischief, torment evil, mischief; disaster, misfortune, calamity, plague; punishment; harm/hurt any thing bad, an evil, mischief, misfortune, calamity - a - mal, malheur, calamité. - b - dureté, rigueur, châtiment. - c - maladie.
+#2	an apple apple; fruit; lemon; quince; hurt; pomme (parfois : coing, grenade, orange...).
+__accido	
+*1	0	(dérivé de CADO);pas de Supin
+*2	2	(dérivé de CAEDO)
+#	to fall upon, fall to, reach by falling, to arrive, come, had come unexpectedly, that his attack might be a surprise, and more formidable, to fall before, fall at the feet, to strike, reach, come, reach, to come to the ears, come, be heard, be raised, To befit, become, suit, was true of you, to come to pass, happen, occur, fall out, take place, befall, the fate of the conquered, if any calamity occur, thus it happened, that, or, if anything should happen to one, die, if C&oelig;sar should put him to death, if the Romans are destroyed, To end, result, turn out, disappoint us to fall upon/down/to/at or near, to descend, alight; to happen, occur; to happen to (DAT); to fall upon, down upon, to reach, by falling.
+#2	to cut, cut at, cut into, cut down, fell, with shorn hair, to consume, to impair, weaken, shatter to begin to cut or to cut into; hence, so to cut a thing that it falls, to fell to begin to cut, to cut into, so to cut a thing that it falls, to fell, to cut, verb. finit.
+__contingo	
+*1	0	Arriver, Toucher
+*2	2	Baigner, Teindre
+#	to touch, reach, take hold of, seize, scorch, to meddle with, stand close together, taste, To touch, adjoin, border on, reach, extend to, To reach, attain, come to, arrive at, meet with, strike, to come into the air, to hit, to touch, seize upon, affect, seized, I felt, To be connected with, be related to, touch, concern, have more ready access to, concerns not, To pollute, stain, defile, infest, taint, corrupt, P. perf, To attain, reach, arrive at, To happen, befall, fall out, come, take place, turn out, come to pass, occur, he had a respectable fortune, has the luck it happens, it turns out; (PERF) it came to pass; to touch on all sides. to touch, take hold of, seize - tr. et intr. - a - toucher, saisir. - b - souiller (par le contact). - c - goûter, manger. - d - être voisin, toucher à, être contigu; au fig. tenir à, concerner, intéresser. - e - atteindre, rencontrer. - f - échoir, tomber en partage, revenir à, arriver. - g - venir (en parl. des plantes); résulter de.
+#2	to wet, moisten - tr. - teindre, enduire, imbiber de, imprégner de.
+__lutum	
+*1	0	La Boue
+*2	2	La Couleur jaune
+#	mud, mire, you are in the same difficulty, offscouring of the earth.&mdash;Loam, clay, potter's clay, of better material - mud, dirt, clay; (for modelling/building); [pro ~ => common as dirt]; u); a - boue, limon, fange, vase. b - ordure, misérable, infâme (t. d'injure). c - terre de potier, argile. d - poussière dont s'aspergeaient les gladiateurs.
+#2	ve a plant used in dyeing yellow, yellow-weed. dyer's-weed, weld a - safran (plante qui donne une teinture jaune). b - couleur jaune.
+__sero
+*2	0	(Parfait SERVI)
+*3	2	(Parfait SEVI)	
+#2	to sow, plant, to bestrew, plant, sow, cultivate, to beget, bring forth, produce, P. perf., begotten, born, sprung, son of Anchises, daughters of Pelias, to sow the seeds of, found, establish, produce, cause, excite, stir up, To scatter, spread, disseminate to sow, plant - tr. - semer, ensemencer, planter; semer, faire naître, créer, instituer, produire, causer, répandre; procréer, créer.
+#	to bind together, interweave, entwine, P. perf., of mail, to join, connect, link together, combine, compose, contrive, linked with, is arranged, engaging in continual wars, compose to wreath; to join, entwine, interweave, bind together; to compose; to contrive to join, bind together, to plait, interweave, entwine - tr. - nouer ensemble, lier, entrelacer, entremêler, mêler, enchaîner.
+#4	to fasten with a bolt, to bar - tr. - fermer à clé.
+__frons	
+*1	2	(Génitif FRONTIS)
+*2	0	(Génitif FRONDIS)
+#	the forehead, brow, front forehead, brow; face; look; front; fore part of anything; a leafy branch, green bough, foliage. - a - feuilles, feuillage. - b - guirlandes de feuilles. - c - couronne de feuillage.
+#2	X forehead, brow; face; look; front; fore part of anything masc.;, the forehead, brow, front a - front (de l'homme et de l'animal). b - visage, air, physionomie, mine; air grave, gravité. c - front, siège des sentiments : hardiesse, pudeur, honte. d - face d'une chose, partie antérieure, tête; frontispice, façade, côté; parement (d'un mur); couverture (d'un livre). e - front (d'une armée). g - aspect, apparence.
+__luteus	
+*1	2	De Boue
+*2	0	Jaune
+#	colored with yellowweed, golden-yellow, saffron-yellow, orange-yellow, Rose-colored, rosy, rose-red yellow; saffron; of mud or clay; good for nothing; of or belonging to the yellow-weed;, of the color of lutum jaune, rougeâtre. a - jaune [tirant sur le rouge]. b - couleur de feu. c - rougeâtre [en parl. de l'Aurore].
+#2	of mud, of clay, of a swallow's nest, Besmeared, bedaubed, dirty, vile, worthless, a poor affair of mud, clay a - de boue, d'argile. b - couvert de boue, sale, boueux. c - souillé. d - fig. sale, vil, méprisable.
+__insero	
+*2	2	(Parfait:-SERVI)
+*3	0	(Parfait:-SEVI)
+#2	to put in, introduce, insert, thrust to plant, sow; to graft on; to put, bring, introduce into, to insert, in - tr. - mettre dans, insérer, introduire, mêler, intercaler.
+#	to implant, ingraft to put, bring, introduce into, to insert to sow, plant in; to ingraft - tr. - a - semer dans, planter dans; enter, greffer. - b - implanter, inculquer. - c - ensemencer.
+__claudo	
+*1	0	Fermer
+*2	2	Boiter
+#	to shut, close, shut up, to dam up, to shut, close, to cut off, to conceal, to end one's life, To close, end, conclude, to bring up the rear, To shut in, enclose, encompass, surround, imprison, hide, confine, To encompass, invest, besiege, blockade, To shut in, hem in, are hemmed in, To close, limit, restrict, that you be deprived of, to express in poetical form, to compose verses to limp, stumble/falter/hesitate; to be weak/imperfect, fall short; to be lame, hobble; To shut something that is open, to close, shut up - tr. - a - fermer, boucher. - b - fermer, clore, terminer, finir, achever. - c - enfermer, enclore, entourer, cerner, couper, barrer, arrêter, intercepter.
+#2	to limp, to falter, hesitate, stumble to limp, halt, to be lame, to falter boiter, clocher, faiblir (au fig.).
+__decido	
+*1	0	(dérivé de CADO;pas de Supin)
+*2	2	(dérivé de CAEDO;pas de Sous-lemme)
+#	to fall down, fall off, fall away, To fall down dead, sink down, die, passed to that bourne, to fall, drop, fall away, fail, sink, perish, out of, affections to fall/drop/hang/flow down/off/over; to sink/drop; to fail, fall in ruin; to end up; to die; to fall off, fall down - intr. - a - tomber (d'un lieu élevé). - b - tomber sous les coups, périr, succomber. - c - déchoir, échouer.
+#2	to cut off, cut away, to clip, to decide, determine, settle, terminate, put an end to, To agree, come to an agreement, adjust, compound, compromise, by throwing overboard to cut off. - tr. qqf. intr. - a - couper, abattre. b - diminuer, abaisser, retrancher, réduire. - c - décider (une question), régler, arranger, transiger. - d - battre, mettre en pièces.
+__excido	
+*1	0	(dérivé de CADO; pas de Supin)
+*2	2	(dérivé de CAEDO; pas de Sous-lemme)
+#	to fall out, drop down, fall away, from my hand, to slip out, fell out, to fall out, fall away, slip out, escape, sinks, To pass away, be lost, perish, disappear, be forgotten, I had forgotten, I forgot, to be deprived of, lose, miss, forfeit, fail to obtain to perish; to disappear; to escape, fall out; to be deprived of; to lose control of senses; to fall out, down, to fall from - intr. - a - tomber de. b - tomber de l'urne, sortir, échoir. c - sortir, échapper involontairement. d - avoir telle chute, telle fin. e - tomber, se perdre, disparaître. f - sortir de la mémoire. g - tomber de, être dépossédé de, être privé de. h - sortir de, manquer à. ii - échouer.
+#2	to cut out, cut off, hew out, cut down, To raze, demolish, lay waste, destroy, to drive out, extirpate, banish to cut out, off, to hew out, to cut, hew down - tr. - a - enlever en frappant (taillant, coupant). b - fig. détacher, retrancher, extirper. c - creuser, faire en creusant. d - démolir, détruire, raser [des maisons, une ville]. e - tailler en pièces, anéantir une armée.
+__specula	
+*1	0	Le lieu d'observation
+*2	2	=PARVA SPES (rare)
+#	a look-out, watchtower, on the watch, on the look-out, on guard, A high place, height, summit, eminence a look-out, watch-tower, Plur. - a - lieu élevé (d'où l'on peut voir), tour d'observation, observatoire, sommet d'une montagne, faîte d'un édifice. - b - action d'observer, observation, guet, garde, vigilance.
+#2	a slight hope, glimmer of hope lueur d'espoir, faible espoir.
+__plaga	
+*1	0	=ICTVS, PERCVSSIO
+*2	2	=PLANITIES
+*3	2	=RETIS GENVS
+#	a blow, stroke, stripe, cut, thrust, wound, a flogging, shock, a blow, stroke, injury, calamity, disaster, misfortune, makes a deep impression stroke/blow/stripe/cut/thrust; wound/gash/scar, injury; misfortune; plague; a blow, stroke, wound, stripe - a - coup, percussion, secousse. - b - coup (qui meurtrit), contusion, blessure, plaie, lésion. - c - coup, atteinte, dommage, tort, préjudice, échec, malheur, calamité.
+#2	a hunting-net, snare, gin, a snare, trap, toil, A stretch of country, region, quarter, zone, tract, the ethereal regions, zones, one canton A region, quarter, tract - hunting net, web, trap/snare; curtain; coverlet/counterpane; -I. A region, quarter, tract -II. a hunting-net, snare, gin 1 - a - étendue de terre, région, zone, contrée. - b - canton, district. 2 - a - filet de chasse, rets, piège. - b - rideau (de lit, de litière), tenture.
+__recido	
+*1	2	(dérivé de CADO;PAS DE Sous-lemme)
+*2	0	(dérivé de CAEDO)
+#	to cut away, cut down, cut off, empty cells, hew out, to lop off, cut short, retrench, abridge, diminish to cut back/off (to base/tree), prune; to cut back/away; to get by cutting; to curtail; (Lebaigue P. 1061 et P. 1062)
+#2	to fall back, spring back, return, had recoiled, kept falling back, to fall back, return, be thrown back, fall, sink, be reduced, relapse, suffer a relapse, had sunk to a level with, come to naught, To fall back, fall to, pass, be handed over, would have fallen to my successors, to fall back, be visited, recoil, return, To fall out, turn out, result, come, what your answer may prove to be to fall back, return
+__pilus	
+*1	0	Le Poil
+*2	2	=(PRIMI) PILVS
+#	P hair; bit/whit (thing of minimal size/value); hair shirt/garment (pl.) (L+S); a hair (Lebaigue P. 946 et P. 947)
+#2	a maniple of the triarii, company of veteran reserves, the first centurion of the triarii, chief centurion of a legion the division of the triarii in the Roman army
+__dissero
+*2	0	(Parfait:-SERVI)
+*3	3	(Parfait:-SEVI)
+#	to examine, argue, discuss, speak, harangue, discourse, treat to examine, argue, discuss; to speak, discourse, treat of (a thing); - tr. - développer, traiter (une question théorique), disserter, raisonner.
+#3	to scatter seed, to sow here and there, to sow semer en différents endroits, placer çà et là, disséminer.
+#2	tr., ouvrir
+__librarius
+*3	0	=AD LIBROS PERTINENS
+*4	2	=AD LIBRAM PERTINENS
+#	of books, belonging to books, copyist, bookseller's shop, transcriber of books, m., a copyist, scribe, secretary, n., a book-case, book-chest of or belonging to books relatif aux livres.
+#2	of or containing a pound, of a pound weight qui pèse une livre.
+__plecto	
+*1	0	=VERBERO, PERCVTIO
+*2	2	=IMPLICO, NECTO
+#	to buffet, beat; to punish; to beat, punish; to be punished, suffer punishment, be beaten. - tr. - frapper, appliquer une punition corporelle; punir, châtier.
+#2	to plait, interweave To plait, braid, interweave - tr. - a - rouler, tresser, entrelacer. - b - plier, fléchir.
+__latito	
+*1	0	(dérivé de LATEO)
+*2	2	Porter souvent
+#	to be hid, be concealed, lie hid, hide, lurk, To hide from legal process to keep hiding oneself, remain in hiding, be hidden; to lie low; to lurk; to be hid, concealed, to lie hid, hide, lurk 1 - intr. - être caché, se cacher; ne pas comparaître (en justice). - 2 - tr. - se dérober aux recherches.
+#2	- tr. - Fest. porter souvent.
+__optio	88 probably spelled the same but with a difference in gender, one might end with a long vowel, pedecerto only has it ending in two vowels but that could be because the other form is not used
+*1	0	
+*2	2	
+#	choice, free choice, liberty to choose, privilege, option option, (free) choice; power/act of choosing; right of hero to pick reward; libre choix, option, choix.
+#2	an adjutant a helper, an assistant - a - aide, assistant, assesseur (que l'on choisit pour soi-même). - b - sous-chef, sous-officier (qui servait d'aide ou de remplaçant aux tribuns, aux centurions...).
+__adolesco
+*1	0	Grandir
+*2	2	(dérivé de OLEO)
+#	up to: to burn, blaze up, to flame, be kindled; (of a sacrifice); to grow up, to grow
+#2	to burn, blaze up, flame inchoat. de adoleo, se transformer en vapeur, brûler
+__conditus	
+*3	0	(dérivé de CONDO)
+*4	2	Relevé (propre et Fig.; dérivé de CONDIO)
+#	close, hidden, secret close, secret, deep part. passé de condo.
+#2	seasoned, savory, chest of drugs, polished, ornamented Seasoned, savory, polished, ornamented part. passé de condio.
+__consero	
+*2	0	(Parfait:-SERVI)
+*3	2	(Parfait:-SEVI)
+#	to connect, entwine, tie, join, fit, bind, unite, pinned together, To join, bring together, manum, manūs, manu, to fight hand to hand, join battle, I summon you to a trial face to face, pugnam or proelium, was grappled, employed in fight to connect, entwine, tie, join, fit, bind into a whole - tr. - a - réunir, joindre. - b - rapprocher hostilement, mettre aux prises.
+#2	to sow, plant, to sprinkle, strew to sow, plant (field/crops/seeds/tree), set; to breed; to sow/strew plentifully/thickly To sow or plant with something - tr. - a - semer, planter. - b - ensemencer, planter de.
+__intercido	
+*1	0	(dérivé de CADO;pas de Supin)
+*2	2	(dérivé de CAEDO;pas de Sous-lemme)
+#	to fall between, To occur meanwhile, happen, to fall to the ground, perish, To drop out, be lost, be forgotten, escapes you to fall between. - intr. - a - tomber entre. b - arriver dans l'intervalle, survenir. c - tomber, s'éteindre, se perdre, périr. d - échapper de la mémoire.
+#2	to cut asunder, divide, cut through, cut down to cut asunder, cut up, cut to pieces, divide, pierce, cut through. - tr. - a - couper par le milieu, ouvrir, fendre. b - morceler, mutiler, hacher.
+__labrum	
+*1	0	La Lèvre
+*2	2	Le Bassin
+#	a lip, the upper lip, to have got a smattering of.&mdash;An edge, margin, brim - bowl; large basin/vat; tub/bathing place; teasel (prickly plant/genus - lip (of person/vessel/ditch/river), rim, edge; a lip. - a - lèvre. - b - bord, rebord.
+#2	a basin, tub, bathtub, vat, in the full vats, bath a basin, a tub, a vat, in the full vats, vessels grand vase, bassin, cuve, baignoire.
+__assero	
+*2	0	(Parfait:-SERVI;pas de Sous-lemme ASSERTVS)
+*3	2	(Parfait:-SEVI)
+#	to plant/set at/near; to join, to v. adse-.
+#2	to sow, plant, set near tr., planter à côté
+__salio	
+*1	0	=SALTO
+*2	??	(dérivé de SAL)
+#	to leap, spring, bound, jump, hop to leap, jump; to move suddenly/spasmodically (part of body under stress), twitch; - intr. - a - sauter, danser, bondir, rebondir. - b - palpiter, tressaillir, battre (
+__cassis	
+*1	0	(Génitif CASSIDIS)
+*2	2	(Génitif CASSIS)
+#	a helmet of metal, of war helmet (metal); wearer of a helmet; war, active service; casque en métal (des cavaliers].
+#2	a hunting-net, snare, toil, A spider's web - a - rets, filet de chasse. - b - piège, embûches.
+__serum	
+*1	0	=PARS AQVOSA IN LACTE
+*2	2	(Sous-entendu TEMPVS)
+#	the watery part of curdled milk, whey The watery part of curdled milk, whey petit-lait, sérum; toute liqueur séreuse.
+#2	late time, late hour, Absol., a late hour heure avancée, le tard.
+__uallus	
+*1	2	Le Pieu;Sens spécial : VALLVM EX PALIS
+*2	0	=PARVA VANNVS
+#	a little winnowing-van - a - vannette, petit van. - b - tuile formant rigole.
+#2	a stake, palisade, A rampart with palisades, A point, spike, tooth, a stake, pole a stake, pale. a - pieu, échalas, palis. b - pieu à palissade. c - palissade.
+__medica	
+*1	0	La Sage-Femme
+*2	3	La Luzerne
+#	kind of clover; lucerne (Medicago sativa, resembles clover); (elecampane?); a female physician; - a - Apul. femme médecin. - b - Donat. sage-femme.
+#3	medicinal herbs Plin. plantes médicinales.
+__lens	
+*1	0	(LENDIS)
+*2	2	(LENTIS)
+#	a louse's egg, a nit lente (oeuf du pou).
+#2	a lentil Acc., Abl., Plur., masc., a lentil lentille (plante); lentille d'eau.
+__succido	
+*1	3	(dérivé de CADO;pas de Supin)
+*2	0	(dérivé de CAEDO)
+#2	to cut off below, cut from under, cut through, cut off, cut down, fell, mown to cut off, away below, cut from below, to cut through, cut off, cut down, fell (Lebaigue P. 1214 et P. 1215).
+#3	to fall under, sink down, sink
+#	to fall under v. sucido.
+__labellum	
+*1	0	La Petite lèvre
+*2	2	Le Petit bassin
+#	a little lip, pout - bowl; basin; sink; - a - petite lèvre (d'enfant). - b - lèvre délicate; lèvre. - c - Plaut. petite bouche (t. de tendresse).
+#2	a small basin a small water-vessel, a tub, bathing-tub - a - Col. petit bassin, cuvette. - b - coupe (pour libations).
+__conditura	
+*1	2	(de CONDO)
+*2	0	(de CONDIO)
+#	preparing; preserving (fruits); preserving material; condiment, spice; jam; A preserving of fruits assaisonnement, accommodement.
+#2	a preparing, making
+__musica	88 in collatinus, same spelling, different gender, also collatinus has one as only plural and that does not appear in lasla, 2 was chosen merely to avoid bugs
+*1	0	
+*2	0	
+#	the art of music, music (including poetry) the art of music, music;, artistic, scientific culture, pursuit - a - musique. - b - poésie.
+#2	music la musique.
+__profano	
+*1	2	Se tenir debout devant un temple, offrir
+*2	0	Souiller
+#	to render unholy, desecrate, profane, violate to desecrate, profane; to render unholy, deprive of sanctity, to unhallow, desecrate, profane (Lebaigue P. 1006 et P. 1007)
+#2	to bring, to a god before the temple, to dedicate, consecrate, offer in sacrifice
+__saga	
+*1	0	La Sorcière
+*2	2	=SAGVM
+#	a wisewoman, fortune-teller, sooth-sayer, witch witch, sorceress, wise woman; a female diviner, a wise woman, fortune-teller, soothsayer - a - sorcière, devineresse, magicienne. - b - entremetteuse.
+#2	c. sagum
+__cubitus	
+*1	0	Le Coude
+*2	2	L'Action d'être couché
+#	state/action of reclining/lying down/taking rest; bed, couch; the elbow a - le cubitus. b - coude. c - fig. coude, inflexion, courbure. d - coudée, mesure de longueur.
+#2	a lying down a - action de se coucher, action de dormir. b - lit, couche.

@@ -1,0 +1,519 @@
+__hiccine
+hicine	smn	1
+huncine	sma	2
+hancine	sfa	1
+haecine	sfn	2
+hocine	sna	1
+huncin	sma	1
+hacine	sfb	1
+__uenales
+uenalis	pa	1
+uenalibus	pb	1
+uenalium	pg	3
+uenalibus	pd	2
+__lars
+lars	sn	1
+__r;
+r	inv	1
+__tripartio
+tripertita	pf.pa.sfn	3
+tripertitas	pf.pa.pfa	1
+tripertita	pf.pa.sfb	1
+__ludius
+ludius	sn	3
+ludiu	sn	1
+ludii	pn	1
+__urbani
+urbani	pn	1
+urbanos	pa	1
+20
+__ubere
+uberius	ac	6
+__quatuoruir
+quattuoruiros	pa	1
+quattuoruiris	pb	1
+__ecquisnam
+ecquosnam	pma	1
+ecquodnam	snn	1
+ecquidnam	sna	1
+ecquaenam	sfn	1
+ecquidnam	snn	1
+__olympia
+OOlympia	pa	1
+__allecto
+adlectat	3.pr.in.ac	1
+adlectant	6.pr.in.ac	1
+__maeander
+maeandros	pa	1
+maeandro	sb	1
+__montani
+montani	pn	3
+montanis	pb	1
+montanorum	pg	1
+30
+__catamitus
+catamitum	sa	1
+__magnificens
+magnificentissima	sfbs	1
+magnificentissima	pnns	1
+magnificentius	snnc	2
+__propylaeum
+propylaea	pa	1
+__stoice
+stoice	d	1
+__saliatus
+saliatu	sb	1
+__interiora
+interiora	pa	1
+interioribus	pb	1
+interiora	pn	1
+__manes
+manibus	pb	1
+__sotadicus
+sotadicas	pfa	1
+40
+__sere
+serius	ac	1
+__nomus
+nomo	sb	1
+__uestalis1
+uestalium	pg	1
+uestales	pa	1
+__uenalia
+uenalibus	pb	1
+uenalia	pa	2
+__opistographus
+opisthographos	pa	1
+__aspera
+aspera	pn	1
+__utricus
+uitricus	sn	1
+__exareo
+exaruisse	if.pf.ac	1
+__circenses
+circenses	pn	1
+circensibus	pb	4
+circensium	pg	3
+circenses	pa	1
+50
+__penates
+penatibus	pb	1
+__lotos
+lotos	pa	1
+loto	sd	1
+lotos	sn	5
+__lageus
+lageos	sn	1
+__tenerum
+teneris	pb	1
+__bor2;
+<inter> labentur	6.fu.in.ac	1
+__go2;
+<inter> legendae	gv.pfn	1
+__centaurus
+centauros	pa	1
+60
+__progne
+procne	sn	1
+__galbaneus
+galbaneos	pma	1
+__caula
+caulas	pa	9
+__atus;
+<in> salutatam	sfa	1
+__syrtis
+syrtis	pa	2
+syrtis	sg	1
+__inferiora
+inferiora	pa	1
+__centumgeminus
+centumgeminus	smn	1
+70
+__uco;
+<circum> ducebat	3.ip.in.ac	1
+__ambeo1
+ambire	if.pr.ac	4
+__cetos
+cete	pn	1
+__obsedeo
+obsessa	pf.pa.sfn	1
+__2;
+<in> ligatus	pf.pa.smn	1
+__triarius1
+triarios	pa	1
+triari	sg	1
+__obtinguo
+obtigisti	2.pf.in.ac	1
+__thyas
+thyades	pn	1
+80
+__zephyrus
+zephyris	pb	1
+zephyro	sb	1
+zephyros	pa	1
+zephyri	sg	1
+__uenundo
+uenundabat	3.ip.in.ac	1
+uenundare	if.pr.ac	1
+uenum dedisset	3.pp.sj.ac	1
+uenumdatos	pf.pa.pma	1
+uenundaretur	3.ip.sj.pa	1
+uenumdata	pf.pa.sfv	1
+__retempto
+retemptare	if.pr.ac	2
+retemptaui	1.pf.in.ac	1
+retentare	if.pr.ac	1
+retentarent	6.ip.sj.ac	1
+retempto	1.pr.in.ac	1
+__asperum
+aspera	pa	3
+asperis	pb	1
+aspera	pn	1
+__kalendarium
+kalendarium	sa	1
+kalendari	sg	1
+calendario	sb	1
+calendarium	sn	1
+__#;
+cognosces	2.fu.in.ac	1
+__fatua
+fatuam	sa	1
+fatua	sn	1
+__doryphoros
+doryphoros	sn	1
+__carica
+caricis	pb	1
+caricae	pv	1
+carica	sn	1
+__mathematica
+mathematice	sn	1
+90
+__ueneriae
+ueneriae	pn	1
+__satageus
+satagios	pma	1
+__uindemitor
+uindemitor	sn	1
+__cornicem
+cornicinum	pg	1
+__fescenninus1
+fescenninus	sn	1
+fescenninum	sa	1
+__fescenninus2
+fescennina	sfn	1
+__caurus
+coro	sb	2
+coris	pb	1
+corus	sn	1
+cauri	sg	1
+__detracto
+detractandum	gv.snn	1
+detractare	if.pr.ac	1
+detractandam	gv.sfa	1
+detractauerant	6.pp.in.ac	1
+detractauere	6.pf.in.ac	1
+detractat	3.pr.in.ac	2
+detractant	6.pr.in.ac	1
+__sericus
+sericas	pfa	1
+serica	pna	1
+100
+__superiora
+superiora	pa	1
+__bissacius
+bisaccio	sb	1
+__amphiteatrum
+amphitheatro	sb	1
+__capricornus
+capricornum	sa	1
+capricorno	sb	1
+__thebaicae
+thebaicis	pb	1
+thebaicas	pa	1
+__pataracinum
+pataracina	pa	1
+__excellentis
+excellente	sna	1
+excellente	snn	1
+__amphitheater
+amphitheater	sn	1
+__loquo
+loquere	if.pr.ac	1
+loquis	2.pr.in.ac	1
+__babylonicum
+babylonico	sb	1
+110
+__persicum
+persica	pn	1
+__ma;
+ma	inv	1
+__gallinicium
+gallicinia	pa	1
+__exopinissso
+exopinissent	6.pr.sj.ac	1
+__seuera
+seuera	pn	1
+seuera	pa	1
+__prasinianus
+prasinianus	smn	1
+__corymbium
+corymbio	sb	1
+corymbion	sn	1
+__auertor
+auertitur	3.pr.in.ac	1
+__quassilaria
+quasillarias	pa	1
+__druides
+druidum	pg	2
+druidibus	pd	1
+druides	pn	1
+druidibus	pb	2
+druides	pa	1
+120
+__diudico
+diiudicari	if.pr.pa	1
+__diungo
+diiuncta	pf.pa.pna	1
+__cantabri
+cantabris	pd	1
+__fiducarius
+fiduciariam	sfa	1
+__offerro
+offerrentur	6.ip.sj.ac	1
+__quinueremis
+quinqueremes	pn	1
+__coum
+coo	sb	1
+__porcius
+porcius	sn	1
+__oricalchum
+orichalco	sb	1
+__immodulor
+inmodulata	pr.ac.pna	1
+130
+__m2;
+__pythia
+OPythia	pa	1
+__sco;
+<inter> noscere	if.pr.ac	1
+<in> grauescunt	6.pr.in.ac	2
+__terminalia
+terminalibus	sn	1
+__canidia
+canidia	sn	1
+__inardeo
+inarsit	3.pf.in.ac	1
+__mereus
+mergos	pa	1
+__inuerencundus
+inuerecundus	smn	1
+__ceres
+cererem	sa	1
+__ademo
+adempta	pf.pa.pna	1
+adempsit	3.pf.in.ac	1
+__camena
+camena	sb	1
+140
+__haedilia
+haediliae	pn	1
+__nium;
+<inter> lunia	pa	1
+__quandantenus
+quadam tenus	d	1
+__priuienus
+priuignus	sn	1
+__mandela
+mandela	sn	1
+__faunus
+faunis	pd	1
+__ugio;
+<circum> mugiunt	6.pr.in.ac	1
+__lemures
+lemures	pa	2
+lemures	pn	1
+__tempe
+tempe	inv	2
+__triueneficus
+triuenefica	sfv	1
+150
+__bacchanal
+bacchanal	sa	3
+__regilla
+regillam	sa	1
+__porgo
+porgite	5.pr.im.ac	1
+__logus
+logos	pa	1
+__classia
+classiam	d	1
+__uestri
+uostros	pma	1
+__exiuro
+exiurauisti	2.pf.in.ac	1
+__feralia
+feralia	pa	1
+__circensis
+circense	snn	1
+circense	sna	1
+__christianus1
+christianos	pa	1
+160
+__druidae
+druidae	pn	1
+__liburnica
+liburnicae	pn	1
+liburnicas	pa	1
+__praerigeo
+praeriguisse	if.pf.ac	1
+__triumphalia
+triumphalium	pg	3
+triumphalibus	pb	1
+triumphalia	pa	3
+triumphalia	pn	2
+__liburna
+liburnae	sg	1
+__bacchanalia
+bacchanalibus	pd	1
+__adico2
+adice	2.pr.im.ac	2
+__impollitus
+impoliti	pmn	1
+__peripateticus1
+peripateticis	pb	1
+__praepolluo
+praepolluere	6.pf.in.ac	1
+170
+__antecipio
+anteceperat	3.pp.in.ac	1
+__uolemus
+uolaema	pna	1
+__trapes
+trapetibus	pd	1
+__aepio;
+<circum> saepito	2.fu.im.ac	1
+__adareo
+adaruerit	3.fp.in.ac	1
+__megara
+OMegaris	pb	1
+__ndum;
+<iurandi> iuris	sg	1
+__ianus
+iani	pn	1
+iano	sd	1
+__rubicola
+ruricolas	pa	1
+__hamadryas
+hamadryadas	pa	1
+180
+__#;
+__m;
+__incalefacio
+incalfacit	3.pr.in.ac	1
+__medusa
+medusa	sb	1
+__synodon
+synodontes	pn	1
+__marathus
+marathos	pa	1
+marathi	pn	1
+__ammoniacus
+ammoniaco	smb	1
+__echo
+echo	sn	1
+__gausapum
+gausape	sa	1
+gausapa	pa	1
+__arcatus1
+arquati	pn	1
+__us;
+<in> pedita	sfn	1
+__etor;
+<inter> pretantur	6.pr.in.ac	1
+190
+__or;
+<in> gredi	if.pr.ac	1
+__epio;
+<inter> saepit	3.pr.in.ac	1
+__charis
+chariton	pg	1
+__postscenium
+postscaenia	pa	1
+__mpo;
+<inter> rumpere	if.pr.ac	1
+<inter> rupta	pf.pa.pna	1
+__rodeus
+rosea	sfb	2
+roseam	sfa	1
+__euhius
+euhius	sn	1
+__pennipotentes
+pennipotentum	pg	2
+__alsius
+alsia	pnnc	1
+__alis
+alid	sna	4
+alid	snn	3
+200
+__rro;
+<inter> currere	if.pr.ac	1
+__spicesco
+spissescere	if.pr.ac	1
+__gio;
+<inter> fugit	3.pr.in.ac	1
+__cumcumque
+cum <cumque>	d	1
+__musaeus
+musaea	pna	1
+__uolantes
+uolantum	pg	1
+__rso
+<inter> cursant	6.pr.in.ac	1
+__quotuis
+quotuis	inv	1
+__caelites
+caelitibus	pd	1
+__clathra
+clatra	pn	1
+210
+__punicus
+punica	pna	1
+__nescioquot
+nescio quot	inv	1
+__carmo
+carmonem	sa	1
+__uirgiliae
+uergiliarum	pg	1
+__saguntini
+saguntinorum	pg	1
+__conuicio
+conuiciare	if.pr.ac	1
+__priapus
+priapo	sb	1
+__porthmeus
+porthmea	sa	1
+__psyllus
+psyllus	sn	1
+__antiquaria
+antiquaria	sn	1
+220
+__salii
+salios	pa	1
+__epimenius
+epimenia	pnn	1
+__epirhedium
+epiraedia	pa	1
+__quinquatria
+quinquatribus	pb	1
+__ganneo
+ganeo	sn	1
+__tessela
+tessellae	pn	1
+__pharus
+pharon	sa	1
+__acina
+acina	sb	1
+__ligellum
+ligellis	pb	1
+__incandeo
+incanduit	3.pf.in.ac	1

@@ -1,0 +1,13 @@
+! the following are the wrong models in collatinus
+! we need to manually put bos in here  em;e;es;es
+circumdō	do
+pessumdo	do
+pessundo	do
+satisdo	do
+superdo	do
+vēnumdō	do
+vaenumdo	do
+stō	do
+nihil	inv
+tuus	tuus
+bos	homo

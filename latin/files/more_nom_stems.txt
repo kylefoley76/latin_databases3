@@ -1,0 +1,208 @@
+!!! if the number ends with a * then the nominative root does not appear in the oblique declensions
+!! if it ends with # then it is a greek declension
+!! if a words ends with @ then it is the correctly spelled oblique stem even though it is less common
+!! if a word ends with & then that is the stem that matches the alt spell nominative
+_immortalitas
+immortalitas	3
+inmortalitas	1
+_exsultatio
+exsultatio	1
+exultatio	2
+_uallis
+ualles	3
+uallis	8
+_stellio
+stellio	1
+stelio	1
+_supellex
+supellex	17
+supellectilis	1
+_ualetudo
+ualetudo	34
+ualitudo	15
+_cupido9
+cupido	20
+cupidon	1#
+_caudex
+caudex	1
+codex	1
+_impunitas
+impunitas	9
+inpunitas	1
+_uultur
+uoltur	2
+uultur	6
+_comissatio
+comissatio	1
+comessatio	1
+_exsul
+exsul	13
+exul	45
+_fenus
+faenus	4
+fenus	3
+_pecten
+pecten	1
+pectinis	1
+_commemoratio
+commemoratio	6
+conmemoratio	1
+_aedes
+aedis	2
+aedes	9
+_irruptio
+inruptio	2
+irruptio	1
+_imperator
+imperator	131
+inperator	5
+induperator	1
+_carnifex
+carnifex	12
+carnufex	2
+_tibicen
+tibicen	6
+tubicen	1
+_exsecratio
+exsecratio	1
+execratio	1
+_honor
+honos	117*
+honor	84
+_honor9
+honos	2*
+honor	1
+_fenerator
+faenerator	3
+fenerator	2
+_sanguis
+sanguis	109
+sanguen	3*
+_libido
+libido	79
+lubido	19
+_imbecillitas
+imbecillitas	2
+inbecillitas	7
+_importunitas
+importunitas	2
+inportunitas	1
+_elephas
+elephans	5*
+elephas	1
+_humor
+umor	71&
+humor	4@
+_caupo
+copo	1
+caupo	2
+_suboles
+suboles	15
+soboles	1
+_collectio
+conlectio	1
+collectio	2
+_regimen
+regimen	10
+regumen	1
+_obstetrix
+obstetrix	1
+opstetrix	1
+_hiems
+hiems	50
+hiemps	16*
+hiemis	1
+_opilio
+upilio	1
+opilio	1
+_lac
+lac	3
+lacte	1
+_improbitas
+improbitas	18
+inprobitas	3
+_robigo
+robigo	3
+rubigo	2
+_pellex
+paelex	17
+pelex	1
+_impietas
+impietas	3
+inpietas	2
+_exstimulator
+exstimulator	1
+extimulator	1
+_compositio
+conpositio	1
+compositio	4
+_cliens
+cliens	19
+cluens	1
+_onus
+onus	30
+onu	1*
+_coniux
+coniunx	137
+coniux	10
+_affectatio
+affectatio	1
+adfectatio	2
+_arbor
+arbor	55
+arbos	14*
+_appetitio
+appetitio	2@
+adpetitio	4&
+_exspectatio
+exspectatio	27
+expectatio	10
+_tegimen
+tegimen	5
+tegumen	2
+tegmen	1
+_uapor
+uapor	25
+uapos	1*
+_odor
+odor	29
+odos	2*
+_panis
+panis	16
+pane	1*
+_sal
+sal	2
+sale	1*
+_collatio
+collatio	3
+conlatio	3
+_religio
+religio	61
+relligio	2
+_feneratio
+faeneratio	3&
+feneratio	1@
+_origo
+origo	39
+originis	1
+_color
+color	101
+colos	3*
+_immanitas
+immanitas	14
+inmanitas	1
+_uulpes
+uolpes	3&
+uulp	1@
+_arundo
+arundo	1@
+harundo	17&
+_uulnus
+uolnus	13
+uulnus	20
+_uomer
+uomer	9
+uomeris	1*
+_thales9
+thal	1
+thalet	1*

@@ -1,0 +1,15 @@
+!! these words are not typos but they were difficult to handle so I had to change them
+Cicero	PhilippicaOratio_CicPhi08	1928	2	deserti
+Cicero	ProACluentio_CicAClu	6971	2	factum
+Cicero	ProPlancio_CicPlanc	1635	2	factos
+Seneca	Medea_SenMedea	148	2	parta
+Cicero	PhilippicaOratio_CicPhi08	1928	4	pf.pa.pmn
+Cicero	ProACluentio_CicAClu	6971	4	pf.pa.pnn
+Cicero	ProPlancio_CicPlanc	1635	4	pf.pa.pma
+Seneca	Medea_SenMedea	148	4	pf.pa.sfn
+Cicero	PhilippicaOratio_CicPhi08	1928	0	*
+Cicero	ProACluentio_CicAClu	6971	0	*
+Cicero	ProPlancio_CicPlanc	1635	0	*
+Seneca	Medea_SenMedea	148	0	*
+Seneca	DeTranquillitateAnimi_SenTranq	2650	0	*
+Catullus	Catullus_Catul	2854	0	*

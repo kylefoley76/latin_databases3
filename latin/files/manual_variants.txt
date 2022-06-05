@@ -1,0 +1,7 @@
+! the following appear after a comma in a header but are variants of other words
+allūcinor	alūcinor
+aduortō	aduertō
+sulphurātiō	sulpurātiō
+accersītor	arcersītor 
+accersītus	arcersītus 
+accersō	arcersō

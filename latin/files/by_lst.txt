@@ -1,0 +1,4567 @@
+abligurrio	# abligūriō	
+absque	# aps-	
+absurde	# aps-	
+abunde	# hab-	
+accommodate	# adc-	
+accumulate	# adc-	
+accurate	# adc-	
+acephalus	# ~os	
+acipenser	# ~is ~is	
+ad	# at	
+adhuc	# adhōc	
+aduersus3	# aduorsus	
+aduersus4	# aduorsus	
+Aegates	# -tae
+affabiliter	# adf-	@  	# ~issimē.
+affabre	# adf-	
+affatim	# adfatim, ad fatim	
+affirmate	# adf-	
+affluenter	# adf-	@  	# -ius.
+alcyonides	# halcyonides	
+alioqui	# ~n	
+aliorsum	# aliōuorsum	
+aliquamdiu	# aliquandiū	
+aliqui2	# aliquod 	neut.
+aliquid	# aliquit	
+aliquot	# -quod	
+aliquotiens	# -iēs	
+allus	# hallus
+altrinsecus	# alterinsecus, altrim secus	
+ami	# ammi	
+antea	# antideā	
+antegerio	# anti-	
+antequam	# ante quam	
+apparate	# adp-	
+appetenter	# adp-	
+apposite	# adp-	
+apprime	# adp-	
+approbe	# adp-	
+apud	# aput	
+armoracia	# -cium	@  	# ~(i)ī	@  	$ neut	
+asperiter	# aspriter	
+assecue	# ads-	
+assentatorie	# ads-	
+asseuerate	# ads-	
+assiduo	# ads-	
+assimiliter	# ads-	
+assimulanter	# ads-	
+assudesco	# ads-	
+assultim	# ads-	
+astu	# asty	
+Athos	# Atho ~ōnis
+atqui	# atquin	
+attemperate	# adt-	
+atterraneus	# adt-	
+aue	# hauē	
+baccar	# ~ris	@  	# ~ris	@  	f.	
+Bactra	# Bactrum	@  	# ~ī
+baculum	# ~us	@  	# ~ī	@  	m.	
+baiulo	# bāiiulō	
+baiulus	# bāiiulus,	@  	# bāio-	
+balaena	# ballaena,	@  	# ballēna	
+balaenaceus	# ballaenāceus	
+balbutio	# balbūttiō	
+Baliaricus	# Bale-
+Baliaris	# Bale-
+ballista	# bālista	
+balnearius	# balin-	
+balneator	# balin-	
+balneum	# balin-
+balteus	# ~um	@  	# ~ī	@  	neut.	
+balux	# palux	
+barbaria	# ~ēs	@  	# ~ēī	@  	f.	
+Barca2	# Barcha
+barritus	# barītus	
+basilium	# basilēum	
+Bastarnae	# Batarnae
+batis	# battis	
+batrachion	# ~ium	
+battuo	# battō,	@  	# batuō	
+Bedriacensis	# Betr-
+Bedriacum	# Betr-
+bellator	# duell-	
+bellicus	# duell-	
+belligero	# ~or	@  	# ~ārī, ~ātus	
+bello	# ~or	@  	# ~ārī	
+Bellona	# Duell-	
+bellum	# duellum	
+belua	# bellua	
+beneficium	# benif-	
+beneficus	# benif-	
+beneuole	# beniu-	
+beneuolens	# beniu-	
+beneuolentia	# beniu-	
+beneuolus	# beniu-	
+Berecynthius	# Berecyntius
+Berenice	# Beron-
+besalis	# bess-	
+bibliopola	# bybl-	
+bibliotheca	# ~ē	@  	# ~ēs	@ , 	# bybl-	
+abligurrio	# abligūriō	
+absque	# aps-	
+absurde	# aps-	
+abunde	# hab-	
+accommodate	# adc-	
+accumulate	# adc-	
+accurate	# adc-	
+acephalus	# ~os	
+acipenser	# ~is ~is	
+ad	# at	
+adhuc	# adhōc	
+aduersus3	# aduorsus	
+aduersus4	# aduorsus	
+Aegates	# -tae
+affabiliter	# adf-	@  	# ~issimē.
+affabre	# adf-	
+affatim	# adfatim, ad fatim	
+affirmate	# adf-	
+affluenter	# adf-	@  	# -ius.
+alcyonides	# halcyonides	
+alioqui	# ~n	
+aliorsum	# aliōuorsum	
+aliquamdiu	# aliquandiū	
+aliqui2	# aliquod 	neut.
+aliquid	# aliquit	
+aliquot	# -quod	
+aliquotiens	# -iēs	
+allus	# hallus
+altrinsecus	# alterinsecus, altrim secus	
+ami	# ammi	
+antea	# antideā	
+antegerio	# anti-	
+antequam	# ante quam	
+apparate	# adp-	
+appetenter	# adp-	
+apposite	# adp-	
+apprime	# adp-	
+approbe	# adp-	
+apud	# aput	
+armoracia	# -cium	@  	# ~(i)ī	@  	$ neut	
+asperiter	# aspriter	
+assecue	# ads-	
+assentatorie	# ads-	
+asseuerate	# ads-	
+assiduo	# ads-	
+assimiliter	# ads-	
+assimulanter	# ads-	
+assudesco	# ads-	
+assultim	# ads-	
+astu	# asty	
+Athos	# Atho ~ōnis
+atqui	# atquin	
+attemperate	# adt-	
+atterraneus	# adt-	
+aue	# hauē	
+baccar	# ~ris	@  	# ~ris	@  	f.	
+Bactra	# Bactrum	@  	# ~ī
+baculum	# ~us	@  	# ~ī	@  	m.	
+baiulo	# bāiiulō	
+baiulus	# bāiiulus,	@  	# bāio-	
+balaena	# ballaena,	@  	# ballēna	
+balaenaceus	# ballaenāceus	
+balbutio	# balbūttiō	
+Baliaricus	# Bale-
+Baliaris	# Bale-
+ballista	# bālista	
+balnearius	# balin-	
+balneator	# balin-	
+balneum	# balin-
+balteus	# ~um	@  	# ~ī	@  	neut.	
+balux	# palux	
+barbaria	# ~ēs	@  	# ~ēī	@  	f.	
+Barca2	# Barcha
+barritus	# barītus	
+basilium	# basilēum	
+Bastarnae	# Batarnae
+batis	# battis	
+batrachion	# ~ium	
+battuo	# battō,	@  	# batuō	
+Bedriacensis	# Betr-
+Bedriacum	# Betr-
+bellator	# duell-	
+bellicus	# duell-	
+belligero	# ~or	@  	# ~ārī, ~ātus	
+bello	# ~or	@  	# ~ārī	
+Bellona	# Duell-	
+bellum	# duellum	
+belua	# bellua	
+beneficium	# benif-	
+beneficus	# benif-	
+beneuole	# beniu-	
+beneuolens	# beniu-	
+beneuolentia	# beniu-	
+beneuolus	# beniu-	
+Berecynthius	# Berecyntius
+Berenice	# Beron-
+besalis	# bess-	
+bibliopola	# bybl-	
+bibliotheca	# ~ē	@  	# ~ēs	@ , 	# bybl-	
+100
+bilinguis	# bilinguus	
+bimestris	# bimenstris	
+bipennis1	# bipinnis	
+bipertito	# bipartītō	
+bisextum	# bissextum	
+bison	# uisōn	
+bisulcis	# ~us	@  
+Bithynus1	# ~os
+bito	# baetō,	@  	# bētō	
+blandior	# ~iō	
+blanditia	# blanditiēs	@  	# ~ēī	
+blatero1	# blatt-	
+Blemyes	# Blem(m)yī,	@  	# ~ae
+blennus	# plen-	
+boa	# boua	
+boarius	# bouārius	
+Bocchus	# Bochus
+Boiohaemum	# Bohaemum
+Bona Dea	# Dīa,	@  	# Dīua
+boo	# bouō	
+Bosphoranus	# Bosporānus
+Bosphoricus	# Bosporicus
+Bosphorius	# Bosporius
+Bosphorus	# Bosporus,	@  	# ~os
+botryo	# botryōn	
+bracae	# brāca	@  	# ~ae	
+bracchiale	# brāchiāle	
+bracchialis	# brāchiālis	
+bracchiatus	# brāchiātus	
+bracchiolum	# brāchiolum	
+bracchium	# brāchium	
+Bracmani	# Bragmānae
+branchiae	# branchia	@  	# ~ae	
+brattea	# bractea	
+brattiarius	# -āria	@  	# ~ae	@  	f.	
+Britanni	# Britannus	@  	# ~ī
+Britannia	# Brittannia
+Britto	# Brito
+Bruttiani	# Brutiānī
+Bruttianus	# Brutiānus
+Bruttius	# Brutius
+bryonia	# bryōnias
+bubulcito	# ~or		@  (deponent).
+buccula	# bucula	
+Bucephalas	# Būcephalus	@  	# ~ī
+bucerus	# ~ius	
+bucetum	# būcītum	
+bura1	# būris	@  	# ~is	@  	f.	
+Buris2	# Būra	@  	# ~ae	@  	f.
+butyrum	# būtūrum	
+buxus	# buxum	@  	# ~ī	@  	neut.	
+Byblos	# Bub-
+Byrsa	# Bursa
+Byzantium	# Byzantion
+caccabus	# cacabus	
+cachrys	# cachry	@  	neut.	
+cadmea1	# cadmīa	@  	# ~ae	
+caduceum	# ~us	@  	m.	
+caecutio	# caecūttiō	
+caedes	# caedis	
+Caelimontanus	# Caele-
+caelum2	# caelus	@  	m.	
+caementicius	# cēm-	
+caementum	# cēm-	
+Caeninensis	# Caenīniensis
+caeparius	# cepārius	
+caepaticus	# cepāticus	
+caepetum	# cepētum	
+caepina	# cepīna	
+caerefolium	# chaerephyllum,	@  	# chaerepolum	
+caeruleum	# caerulum	
+caeruleus	# caerulus	
+Caeso	# Kaesō
+caespito	# cespitō	
+caestus	# cestus	
+caetra	# cētra	
+Caicus	# Caȳcus
+calamistrum	# calamister	@  	m.
+Calatia	# Cālātiae
+calator	# kalātor	
+calcariensis	# calcārensis	
+calceamentum	# calci-	
+calcearium	# calci-	
+calcearius	# calci-	
+calceator	# calci-	
+calceatus	# calci-	
+calceo	# calci-	
+Calchas	# Calcās
+Calchedon	# Chalcēdōn	@  and 	# Calchādōn
+Calchedonensis	# Chalc-
+Calchedonius	# Chalcēdonius
+calefacio	# calfaciō	@  and 	# calficiō	
+caliandrum	# calien-	
+calico	# calecō	
+calida	# calda	
+calidarius	# cald-	
+calidum	# caldum	
+calidus	# caldus	
+Callaecia	# Gall-
+Callaecus	# Gall-,	@  	# -aicus
+200
+calliblepharatus	# calliblepharus	
+calo1	# kalō	
+calo2	# chalō	
+caltha	# calta	
+calumnia	# kal-	
+calyculus	# calic-	
+Calydonius	# Calid-
+camara	# camera	
+Cameria	# ~um	@  	# ~ī	@  	neut.
+cammarus	# ~os	
+campter	# camtēr	
+Camulodunum	# Camal-
+camur	# ~us	
+canabae	# kan-	
+candelabrum	# ~us	@  	# ~ī	@  	m.	
+candidatus1	# kan-	
+candidatus2	# kan-	
+canities	# ~a	@  	# ~ae	
+cannabis	# ~us	@  (?	# ~um	@ ) 	# ~ī	@ , 	# ~a	@  	# ~ae	
+cantheriatus	# cantēriātus	
+cantherinus	# cantērīnus	
+cantheriolus	# cantēriolus	
+cantherius	# cantērius	
+canthus	# cantus	
+Capenas	# ~ātis
+caperatus	# caperrātus	
+Caphereus1	# Caphār-
+caphisterium	# capistērium	
+capital	# ~e	
+capitularium	# kap-	
+capparis	# ~i	@  	indeclinable neut.	
+capreolus	# capri-	
+caproneae	# caprōnae	
+Caprotina	# Caprā-
+caput	# kaput	
+Capys	# ~is
+cardo	# kardō	
+Carmani	# Carmāniī
+Carmentis	# ~a	@  	# ~ae
+Carneadeus	# ~īus
+carnifex	# carnufex	
+carnificina	# carnu-	
+carnificius	# carnu-	
+caro2	# carnis	
+Carrhae	# Carrae
+carruca	# -cha	
+carrus	# ~um	@  	neut.	
+Carthaginiensis	# Kar-
+Carthago	# Cartāgō,	@  	# Kar-
+carus1	# kārus	
+Carus2	# Kārus
+caryophyllon	# gar-	
+caryota	# care-,	@  	# cari-	
+caseus	# ~um	@  	# ~ī	@  	neut.	
+Casinas	# Cass-
+Cassiepia	# -opē	@  	# ~ēs	@ , 	# -opēa	@  	# ~eae
+castanetum	# -iētum	
+Castor2	# Kastor
+catafractarius	# cataph-,	@  	# kata-	
+catafractus	# cataph-	
+catalecticus	# ~os	@  	# ~on	
+Catamitus	# -meitus	
+cataracta	# catar(r)(h)actēs	@  	# ~ae	@  	m.	
+catillus	# ~um	@  	# ~ī	@  	neut.	
+Catillus	# Cātīlus
+Catina	# Catanē
+catinus	# ~um	@  	# ~ī	@  	neut.	
+cauda	# cōda	
+caudex	# cōdex	
+caudicarius	# cōd-	
+cauillum	# ~us	@  	# ~ī	@  	m.	
+cauliculus	# cōli-	
+caulis	# cōlis	
+Cauneus	# ~ius
+caupo	# cōpō	
+caupona	# cōp-	
+caurus	# cōrus	
+causa	# caussa	
+cautes	# cōtēs	
+cauum	# ~us	@  	# ~ī	@  	m.	
+Cea	# Cīa,	@  	# Cēos	@  	# ~ī
+Cebenna	# Ceu-	@  	# ~ae
+celeber	# ~bris	
+cellula	# -ola	
+celocula	# celōcla	
+celthis	# celtis	
+Cenomani	# Genu-	@  (	# Cinna	@  	$ poet.
+centaureum	# ~ium	@  (	# ~ion	@ ), 	# ~ios	@  	# ~(i)ī.
+centesimus	# centēnsimus	
+centiens	# centiēs	
+Cephallanes	# -lēn-
+cepotaphiolum	# -tafi-	
+cepotaphium	# ~ius	@  	# ~iī	@  	m.	^ , 	# -tafi-	
+cerasus	# ~um	@  	# ~ī	@  	neut.	
+cercurus	# cercȳrus	@  	# ~ī	@  	m.	
+Cerealicius	# Caer-
+Cerealis	# Ceri-,	@  	# Caer-	@  (for 	$ Cerealia	^  see Ceriālia).
+Cermalensis	# Germ-
+Cermalus	# Germ-
+ceruesia	# ceruesa	
+300
+cetaria	# ~um	@  	# ~ī	@  	neut.	
+ceterus	# caet-	
+Ceus	# Cīus
+chaere	# chēre	
+chaerephyllum	# chaerepolum	@  	# ~ī	@  forms of caerefolium.
+Chaeronea	# -īa
+chalcanthon	# ~um	
+charta	# carta	
+chartus	# cartus
+Chauci	# Cauchi,	@  	# Caȳcī
+cheragra	# chīr-	
+cheragricus	# chīr-	
+Chilo	# Cīlō	
+Chiron	# Chīrō
+chlamys	# ~is,	@  	# clam-	
+chondrylla	# condrillē	@  	# ~ēs	@  	f.	
+choraules	# ~a	@  	# ~ae	
+chorda	# corda	
+choreus	# chorīus,	@  	# -os	
+chrysocarpus	# ~os	@  	# ~on	
+chrysoprasos	# ~um	@  	# ~ī	@  	neut.	
+Cibyrates	# Cibu-	@  	adj.
+cichoreum	# ~ion,	@  	# ~ium	@  	# ~iī.
+cicimalindrum	# cicimandrum	
+cieo	# ciō	@  	# cīre	
+Ciminius	# Ciminus
+cinnamum	# ~on	
+cippus	# cipus	
+Ciprius	# Cyp-
+Circe	# ~a	@  	# ~ae
+circensis	# circiensis	
+circius	# cerc-	
+circulus	# circlus	@  (	# Acc.
+circumago	# circuagō	
+circumdo	# circun-	
+circumeo	# circueō	
+circumitio	# circuitiō	
+circumitus	# circuitus	
+circumlino	# ~iniō	@  	# ~inīre	
+circumplecto	# -plector	@  	# ~ctī, ~xus	
+circumsaeptus	# circumseptus	
+circumsedeo	# -sideō	
+circumspergo	# -spargō	
+Cirrha	# Cyrrha
+Cispius	# Cespius
+cissanthemos	# ~us	
+clatratus	# clāthr-	
+claudeo	# ~ō	@  	# ~ere	@ , 	# clūdō**	@  (	# Lucil.
+claudigo	# clōd-	
+claudo1	# clūdō	
+clauicularius	# clāuīclārius	
+claustellum	# clos-	
+claustrarius	# clos-	
+claustrum	# clos-	
+clausura	# clusūra	
+clausus1	# clūsus	
+clauula	# clāuola	
+clipeatus	# clup-	
+clipeo	# clup-	
+clipeus	# ~um	@  	# ~ī	@  	neut.	^ , 	# clup-,	@  	# clyp-	@  (	$ cj.
+cliuulus	# -olus	
+cloaca	# clouāca,	@  	# cluāca	
+Cloacina	# Clu-
+Cloelius	# Cluilius
+clucidatus	# gluc-	
+clueo	# ~eor	@  	# ~ērī	@ , 	# cluō	@  	# ~ere	
+clunaculum	# clūnāclum	
+cluo2	# cloeō	@  	# ~are	
+Clupea2	# ~a	@  	# ~ōrum	@  	neut. pl.	^  	# Clip-
+clymenus1	# ~os	
+clyster	# clus-	
+Clytaemnestra	# Clytaemestra,	@  	# Clytemestra,	@  	# Clytemnestra
+Clytia	# ~ē	@  	# ~ēs
+cnecos	# gnēcos,	@  	# cnīcus	
+coalesco	# cōl-	
+coangusto	# conang-	
+coaudio	# comaud-	
+cochlea	# coclea,	@  	# ~ia	
+cocio	# cocciō,	@  	# coctiō	
+coclear	# cochlear,	@  	# ~e	
+coclearium1	# cochleārium	
+coclearium2	# cochleārium	
+Cocles	# Cocul-	
+codicillus	# -ellus	@  (	# Sen.
+coepi	# ~iō	@  	# ~ere	
+coerceo	# coherc-	
+coercitio	# coherc-	
+cohors	# chors,	@  	# cors	
+cohortalis	# chort-	
+cohortor	# ~ō	@  	# ~āre	
+cohum1	# coum	
+coinquo	# coninq-	
+collabasco	# conl-	
+collabefacto	# conl-	
+collabefio	# conl-	
+collabello	# conl-	
+collabor	# conl-	
+collacrimatio	# conl-	
+collacrimo	# conl-	
+collactaneus	# conl-	
+400
+collactea	# ~ia	
+collacteus	# conl-	@  	# ~ius	
+collare	# ~is	@  	# ~is	@  	m.	
+Collatia	# Conl-
+collaticius	# conl-	
+collatio	# conl-	
+collatiuus	# conl-	
+collator	# conl-	
+collatro	# conl-	
+collaudatio	# conl-	
+collaudo	# conl-	
+collectio	# conl-	
+collega	# conl-	
+collegium	# conl-	
+colleuo	# conl-	
+colliberta	# conl-	
+collibertus	# conl-	
+collibro	# conl-	
+collibuit	# conl-,	@  	# collub-	
+colliciae	# colliquiae,	@  	# conl-	
+colliciaris	# conl-	
+collido	# conl-	
+colligatio	# conl-	
+colligo1	# conl-	
+collimo	# conl-	
+collino	# conl-	
+colliquefacio	# conl-	
+colliquesco	# conl-	
+collisio	# conl-	
+collisus1	# conl-	
+collisus2	# conl-	
+collocatio	# conl-	
+colloco	# conl-	
+collocupleto	# conl-	
+collocutio	# conl-	
+colloquium	# conl-	
+colloquor	# conl-	
+colluceo	# conl-	
+colluco	# conl-	
+colluctatio	# conl-	
+colluctor	# conl-	
+colludo	# conl-	
+collum	# ~us	@  	# ~ī	@  	m.	
+collumino	# conl-	
+colluo	# conl-	
+collurchinatio	# conl-	
+collusim	# conl-	
+collusio	# conl-	
+collusor	# conl-	
+collusorie	# conl-	
+collustrium	# conl-	@  	neut.	
+collustro	# conl-	
+collutio	# conl-	
+collutulento	# conl-	
+colluuiaris	# conl-	
+colluuies	# conl-	
+colluuio	# conl-	
+collybus	# collu-	
+colocasia	# ~a	@  	# ~ae	@  	f.	
+columbare	# columbar	
+colus	# ~us	@  	# ~ūs	@  	f.	^  	(m.)	
+colyphium	# cōloe-	
+combenno	# con-	
+combibo1	# conb-	
+combibo2	# conb-	
+comburo	# conb-	
+combustum	# conb-	
+comesor	# -estor	
+comissabundus	# cōmisābundus	
+comissatio	# cōmisātiō,	@  	# comm-	
+comissator	# cōmisātor	
+comissor	# cōmisor	
+commanduco	# ~or	@  	# ~ārī, ~ātus	
+commanipularis	# commaniplāris	
+commanipulus	# commaniplus	
+commemoramentum	# conm-	
+commemoratio	# conm-	
+commemoro	# conm-	
+commentarius	# ~ium	@  	# ~(i)ī	@  	neut.	^ , 	# conm-	
+commercor	# conm-	
+commereo	# ~eor	@  	# ~ērī, ~itus	@ , 	# conm-	
+commetior	# conm-	
+comminiscor	# ~iniscō	@  	# ~iniscere	
+commitigo	# conm-	
+committo	# conm-	
+Commolenda	# -land-
+commonstro	# commostrō	
+communio1	# commoeniō	
+communis	# conm-	
+communitus	# conm-	
+commurmuro	# ~or	@  	# ~ārī, ~ātus	
+compactus	# conp-	
+compaedagogita	# compedagōgīta,	@  	# conpaedagōgīta,	@  	# conpedagōgīta	
+compaganus	# conp-	
+compages	# conp-	
+compago	# conp-	
+compar	# conp-	
+comparabilis	# conp-	
+comparate	# conp-	
+comparatio1	# conp-	
+500
+comparatio2	# conp-	
+comparatiue	# conp-	
+comparatiuus	# conp-	
+comparator	# conp-	
+comparatus	# conp-	
+compareo	# conp-	
+comparo1	# conp-	
+comparo2	# conp-	
+compartior	# conp-	
+compasco	# conp-	
+compascuus	# conp-	
+compastor	# conp-	
+compatriota	# conp-	
+compatronus	# conp-	
+compauesco	# conp-	
+compauio	# conp-	
+compectum	# compactum	
+compedio	# conp-	
+compeditus	# conp-	
+compellatio	# conp-	
+compello1	# conp-	
+compello2	# conp-	
+compendiaria	# conp-	
+compendiarium	# conp-	
+compendiarius	# conp-	
+compendiosus	# conp-	
+compendium	# conp-	
+compenso	# conp-	
+comperco	# conp-	
+comperendinatio	# conp-	
+comperendinatus	# conp-	
+comperendino	# conp-	
+comperendinus	# conp-	
+comperio	# ~ior	
+compernis	# conp-	
+compertusio	# conp-	
+compes	# conp-	
+compesco	# conp-	
+competens	# conp-	
+competenter	# conp-	
+competentia	# conp-	
+competitor	# conp-	
+competitrix	# conp-	
+competo	# conp-	
+compilatio	# conp-	
+compilo1	# conp-	
+compilo2	# conp-	
+compingo	# conp-	
+Compitalia	# Conp-
+Compitalicius	# Conp-	
+Compitalis	# Compet-,	@  	# Conp-	
+compitensis	# conp-	
+compitum	# compet-	
+complaceo	# conp-	
+complaco	# conp-	
+complanator	# conp-	
+complano	# conp-	
+complector	# complectō	@  	# ~ere	@ , 	# conp-	
+complementum	# conp-	
+compleo	# conp-	
+completus	# conp-	
+complexio	# conp-	
+complexiuus	# conp-	
+complexus	# conp-	
+complico	# conp-	
+complodo	# conp-	
+comploratio	# conp-	
+comploratus	# conp-	
+comploro	# conp-	
+compluit	# conp-	
+complures	# conp-	
+compluriens	# conp-	
+complurimi	# conp-	
+compluscule	# conp-	
+complusculi	# conp-	
+compluuiatus	# conp-	
+compluuium	# conp-	
+compono	# conp-	
+comportatio	# conp-	
+comporto	# conp-	
+compos	# conp-	
+composite	# conp-	
+compositicius	# conp-	
+compositio	# conp-	
+composito	# conp-	
+compositor	# conp-	
+compositum	# conp-	
+compositura	# compostūra	
+compositus	# compostus,	@  	# conp-	
+compotatio	# conp-	
+compotens	# conp-	
+compotio	# conp-	
+compoto	# conp-	
+compotor	# conp-	
+compotrix	# conp-	
+compraecido	# conp-	
+compraes	# conp-	
+compransor	# conp-	
+comprecatio	# conp-	
+comprecor	# conp-	
+600
+comprehendo	# comprendō,	@  	# conp-	
+comprehensibilis	# -dibilis,	@  	# conp-	
+comprehensio	# comprensiō,	@  	# conp-	
+comprehenso	# conp-	
+compresse	# conp-	
+compressio	# conp-	
+compressor	# conp-	
+compressus1	# conp-	
+compressus2	# conp-	
+comprimens	# conp-	
+comprimo	# conp-	
+comprobatio	# conp-	
+comprobator	# conp-	
+comprobo	# conp-	
+compromissarius	# conp-	
+compromissum	# conp-	
+compromitto	# conp-	
+compugno	# conp-	
+compulsio	# conp-	
+compulso	# conp-	
+compungo	# conp-	
+computabilis	# conp-	
+computatio	# conp-	
+computator	# conp-	
+computo	# conp-	
+computresco	# conp-	
+concalefacio	# concalf-
+concameratio	# concamar-	
+concamero	# concamarō	
+concha	# conca	
+concohortalis	# conchortālis	
+conecto	# conn-	
+conexus1	# conn-	
+conferrumino	# conferūminō	
+confluens	# ~ntēs	@  	# ~ntium	@  	m. pl.	
+conger	# gonger	
+conglacio	# ~or	@  	# ~ārī, ~ātus	
+conicio	# cōiciō	
+conitor	# conn-	
+coniueo	# conn-	
+conopium	# cōnōpēum	
+conquisitor	# conquaestor	@  and 	# conquistor	
+consaepio	# consepiō	
+consaeptum	# conseptum	
+consario	# -sarr-	
+consecraneus	# consacrānius	
+consecro	# consacrō	
+Consiuius	# Consēu-
+conspergo	# conspargō	
+consuauio	# consāuiō,	@  	# ~or	@  	# ~ārī, ~ātus	
+contemptio	# contemtiō	
+conticesco	# conticiscō	
+conticinium	# -innum	@  	# ~ī	
+continor	# continuor	
+contrecto	# contractō	
+contremesco	# contremiscō	
+contueor	# contuor	@  	# ~ī	
+contuitus	# contūt-	
+conuerto	# conuor-	
+conuiuor	# ~ō	@  	# ~āre	
+conuulnero	# -uoln-	
+conuulsa	# -uols-	
+conuulsio	# -uols-	
+cooperculum	# cōp-	
+cooperimentum	# cōp-	
+cooperio	# cōp-	
+cooptatio	# cōp-	
+coopto	# cōp-	
+Coos	# Cous
+coralliticus	# corolit-,	@  	# corollit-	
+corallium	# cūralium	
+corchorum	# corchorus	@  	# ~ī	@  	m.	
+Corinthius	# Corintheus
+corrado	# conr-	
+correctio	# conr-	
+corrector	# conr-	
+correctus	# conr-	
+corregio	# conr-	
+correpo	# conr-	
+correpte	# conr-	
+correptio	# conr-	
+correptus	# conr-	
+correus	# conr-	
+corrideo	# conr-	
+corrigo	# conr-	
+corripio	# conr-	
+corriuatio	# conr-	
+corriuo	# conr-	
+corroboro	# conr-	
+corrodo	# conr-	
+corrogo	# conr-	
+corrotundo	# conr-	
+corrugo	# conr-	
+corrumpo	# conr-	
+corruo	# conr-	
+corrupte	# conr-	
+corruptela	# conr-	
+corruptio	# conr-	
+corruptor	# conr-	
+corruptrix	# conr-	
+700
+corruspor	# conr-	
+corticeus	# ~ius	
+corylus	# corulus	
+cossus1	# cossis	@  	# ~is	
+costum	# costos,	@  	# -us	@  	# ~ī	@  	f.	
+cothurnatus	# coturnātus	
+cothurnus	# coturnus	
+cotoneus	# cotōnius	
+cottana	# -ona	
+cottidiano	# cōt-	
+cottidianus	# cōtī-,	@  	# quōt-	
+cottidie	# cōt-,	@  	# quōt-	
+cottidio	# cōt-	
+Cotys	# Cotus	@  	# ~ī
+crataegon	# crataegos	@  	# ~ī	
+crater	# crātēra	@  	# ~ērae	@  	f.	
+cremialis	# grem-	
+cremium	# grem-	
+Creon	# Creō	@  	# ~ōnis
+Creta1	# Crētē	@  	# ~ēs
+criminor	# -ō	@  	# ~āre	
+croccio	# grocciō	
+Croto1	# ~n,	@  	# ~na	@  	# ~nae
+Croto2	# ~n
+croto3	# ~n	
+crumina	# crumēna	
+crypta	# crupta	
+crystallinum	# crus-	@  	neut.	
+crystallinus	# crus-	
+cubicus	# cybicus	
+cubitum	# ~us	@  	# ~ī	@  	m.	
+cubus	# cybus	
+cucullio	# cucūliō	
+cuius2	# quōius	
+cuiusnam	# quōi-	
+culcita	# culcitra	
+culleus	# cūleus	
+cuminum	# cymīnum	
+cummitio	# gumm-	
+cumque	# cunque	
+cunae	# ~a	@  	# ~ae	
+cunctor	# ~ō	@  	# ~āre	
+cunila	# cunēla	
+cuppedenarius	# -dinārius	
+cuppedia2	# cūpē-,	@  	# cūpī-	
+cuppedo	# cūpē-	
+cur	# quōr,	@  	# qūr,	@  	# quūr	
+curis1	# cures	
+Curitis	# Curr-
+Cutilia	# ~ae	@  	# ~ārum
+cyanus	# ~os	
+cyathus	# cyatus	
+cyclaminos	# ~um	@  	# ~ī	@  	neut.	
+Cycneis	# Cygn-
+cycnium	# ~ion,	@  	# ~on	
+cycnus1	# cygnus	
+Cycnus2	# Cygnus
+Cydonaeus	# ~ēus
+cyma	# cȳma	@  	# ~atis	@  	neut.	
+cymatium	# cūm-	
+Cyprigenia	# Cup-	
+Cyprus1	# ~os
+Cyrrhestica	# Cyrrestica
+Cyrrhus	# Cyrrus
+Cythera	# ~a	@  	# ~ae	@  	f.
+cytisus	# ~um	@  	# ~ī	@  	neut.	
+dactylus	# ~os	
+Daedaleus	# -eus
+daemonium1	# ~ion	
+Dalmatia	# Delm-
+Dalmaticus	# Delm-
+damiurgus	# dēm-	
+damma	# dāma	
+deascio	# -eō	
+decatresses	# -ensēs	
+deciens	# deciēs	
+decima1	# -cum-	
+Decima2	# -cum-
+decimanus1	# -cum-	
+decimanus2	# -cum-	
+Decimianus	# -cum-	@  	adj.**	^  Belonging to the 	$ gens Decimia
+decimo	# -cum-	
+decimus1	# -cum-	
+decipula	# ~um	@  	# ~ī	@  	neut.	
+decussatim	# decusātim	
+decussatio	# decusātiō	
+decussis	# decusis	
+defraudo	# defrūd-	
+deiero	# dēiūr-	
+deinde	# dein	
+delacrimatorius	# dēlachr-	
+delecto	# ~or	@  	# ~ārī	
+delenio	# -līn-	
+delicia2	# -liqu-	
+delicuus	# dēliq-	
+delineo	# -niō	
+deliritas	# -lēr-	
+deliro	# -lēr-	
+delitisco	# -escō	
+delphinus	# ~n	@  	# ~nis	
+800
+demereo	# ~eor	@  	# ~ērī, ~itus	
+Democriteus	# ~īus
+demolior	# ~iō	@  	# ~īre, ~īuī, ~ītum	
+Demophoon	# Dēmophōn
+denarius2	# ~ium	@  	# ~iī	@  	neut.	
+dendrophorus	# dendrof-	
+dentale	# ~ia	@  	# ~ium	@  	neut. pl.	
+deorsum	# ~us	
+depasco	# ~ascor	@  	# ~ascī, ~astus	
+depeculor	# ~ō	@  	# ~āre	
+depoculo	# dēpōclō	
+depopulor	# ~ō	@  	# ~āre, ~āuī, ~ātum	
+deprehendo	# dēprendō	
+depuuio	# dēpuiō	
+Dercetis	# ~ō	@  	# ~ūs
+detergeo	# ~go	@  	# ~gere	
+detrectatio	# -trac-	
+detrecto	# -trac-	
+deuerbium	# dīu-	
+deuersor2	# dēuor-	
+deuersorium	# dīu-	
+deuersorius	# dēuor-	
+deuerticulum	# dēuor-	
+deuerto	# dēuor-	
+dextera1	# dextra	
+dextera2	# dextra	
+dextrorsum	# ~us	
+diadema	# ~a	@  	# ~ae	@  	f.	
+diaetarchus	# ~a	@  	# ~ae	@  	m.	
+diagonus	# diagōn	@  	# ~nis	@ , 	# zacōn(us)	
+Dianensis	# Diānesis
+Dicaearchea	# -īa
+dicentetum	# ~os	@  	m.	
+dicrotum	# ~a	@  	# ~ae	@  	f.	
+diesis	# dihesis	
+difficiliter	# ~ulter	
+diffringo	# -frangō	
+dignitosus	# dignitōssus	
+digno	# ~or	@  	# ~ārī, ~ātus	
+dimetior	# dēm-	
+dimetor	# dēm-	
+diminuo	# dimm-	
+Dindymon	# ~a	@  	# ~ōrum
+Dio	# Diōn
+Diomedeus	# ~īus	@  
+Dione	# ~a	@  	# ~ae
+directe	# dēr-	
+directio	# dēr-	
+directo	# dēr-	
+directura	# dēr-		@  (see dīrigō).
+directus	# dēr-	
+dirigo	# dēr-	
+dirumpo	# dirr-,	@  	# disr-	
+discoquo	# ~cō	
+disiuncte	# diiunctē	@  	# ~ius.
+disiunctio	# diiunctiō	
+disiunctiuus	# diiunctīuus	
+disiunctus	# diiunctus	
+disiungo	# diiungō	
+dispergo	# -sparg-	
+dispertio	# -part-,	@  	# ~ior	@  	# ~īrī	
+disraro	# dirārō	
+dissaepimentum	# dissepīmentum	
+dissaepio	# dissepiō	
+dissignator	# dēs-	
+districtio	# distrinctiō	
+diu1	# ~ūs	
+diuerse	# -uor-	
+diuersus	# -uor-**		@  (see note on spelling under dīuertō).
+diuerto	# -uor-	
+Diuiciacus	# Dīuit-
+diuortium	# -uer-	
+diuulgo	# -uol-	
+Dodona	# ~ē	@  	# ~ēs
+doliarium	# dōle-	
+doliarius	# dōle-	
+Dolichenus	# Dolicēnus
+domefactus	# domi-	
+domnipraedius	# domnipredius	
+drachma	# -chuma	
+dracontion	# ~ium	
+druidae	# ~ēs	@  	# ~um	
+ducentiens	# ducentiēs	
+Duillius	# Duīlius,	@  	# Duēl-
+Dulichium	# ~ia	@  	# ~iae	@  	f.
+duodeciens	# duodeciēs	
+duodeuicesimus	# duodēuīcēnsimus	
+duoetuicesimus	# duoetuīcēnsimus	
+duritia	# ~ēs	@  	# ~ēī	
+Dyrrhachinus	# Dyrrachīnus,	@  	# Durra-,	@  	# -ēnus
+Dyrrhachium	# Dyrrachium,	@  	# Durra-
+dysenteria	# dysint-	
+dysenterici	# dysint-	
+ebibo	# exbibō	
+eborarius	# ebur-	
+eboratus	# ebur-	
+ebulum	# ~us	@  	# ~ī	@  	f.	
+Ecbatana	# ~a	@  	# ~ae	@  	f.	^ ; 	# ~ae	@  	# ~ārum	@  	f. pl.
+echenais	# echenēis	
+eculeus	# equuleus	
+900
+Edoni	# ~ēs	@  	# ~um
+edulia2	# edūlium	@  	# ~(i)ī	@  	neut.	
+effatum	# ecf-	
+effeminatus	# ecf-	
+effemino	# ecf-	
+effercio	# -farc-,	@  	# ecf-	
+efferitas	# ecf-	
+effero1	# ecf-	
+effero2	# ecf-	
+effertus	# ecf-	
+efferueo	# efferuō	@  	# ~ere	
+effetus	# ecf-	
+efficio	# ecf-	
+effigies	# effigia	@  	# ~ae	
+efflictim	# ecf-	
+efflicto	# ecf-	
+effligo	# ecf-	
+efflo	# ecf-	
+effloresco	# ecf-	
+effluo	# ecf-,	@  	# exf-	
+effodio	# ecf-,	@  	# exf-	
+effor	# ecf-	
+effrenatus	# ecf-	
+effrenus	# ~is	@  	# ~is, ~e	
+effrico	# exf-	
+effringo	# ecf-	
+effugio	# ecf-,	@  	# exf-	
+effulgeo	# effulgō	@  	# ~gere	
+effundo	# ecf-	
+effusio	# ecf-	
+effutio	# effūttiō	
+effutuo	# ecf-	
+ei	# hei͡	
+eiulatus	# hēi-	
+eiulito	# hēi-	
+eiulo	# hēiulō	
+eiuro	# ēierō	
+elate2	# ~a	@  	# ~ae	
+elegeum	# elegīum	
+elegia	# elegei͡a	
+Eleus	# Ēlīus
+eligo	# ēlegō	
+ellychnium	# enl-	
+elucubro	# ~or	@  	# ~ārī, ~ātus	
+elucus	# hel-	
+elumbis	# ~us	@  
+emancipo	# -cup-	
+emereo	# ~eor	@  	# ~ērī, ~itus	
+eneruis	# ~us	@  
+enubo	# ecn-	
+ephedra	# ~on	@  	# ~ī	@  	neut.	
+ephodos	# epodos	
+Ephyre	# ~a	@  	# ~ae
+Epicureus	# Epicūrīus
+Epidaurus	# ~um	@  	# ~ī	@  	neut.
+epistula	# epistola	
+epistularis	# epistol-	
+Equirria	# Ecurria	
+equus	# equos,	@  	# ecus	
+era	# hera	
+eradico	# exr-	
+erciscor	# herc-	
+Erechtheus1	# -ecth-
+Erechtheus2	# -ecth-
+ergastilus	# -tyl-	
+erice	# erīca	@  	# ~ae	
+Erichthonius1	# Ericth-	@  	m.	^ 
+Erichthonius2	# Ericth-
+Erigone	# ~a	@  	# ~ae
+erilis	# herīlis	
+Eriphyla	# ~ē	@  	# ~ēs
+erisma	# ~a	@  	# ~atis	@  	neut.	
+erogo	# exr-	
+erus	# herus	
+Erythea	# Erythīa
+essedum	# ~a	@  	# ~ae	@  	f.	
+Euadne	# Euhad-
+euagor	# ~ō	@  	# ~āre	
+euge	# eugae	
+euhans	# euāns	
+eumithres	# eumitrēs	@  	noun	
+euphorbeum	# ~ium	@  	# ~(i)ī	
+Europa	# ~ē	@  	# ~ēs
+exaduersum	# ~us,	@  	# -uors-	
+exagoga	# ~ē	@  	# ~ēs	
+exanimis	# ~us	@  
+excalceatus	# -iātus	
+excalceo	# ~eor	@  	# ~eārī	@ , 	# ~iō	@  	# ~iāre	
+excalefacio	# excalfaciō	
+excalefactio	# excalfactiō	
+excalefactorius	# excalfactōrius	
+exdorsuo	# -sō	
+exentero	# exint-	
+exhortor	# ~ō	@  	# ~āre, ~āuī	
+exilium	# exs-	
+exinde	# exim,	@  	# exin	
+existimatio	# -tum-	
+existimo	# existumō	
+exobsecro	# exops-	
+exodium	# exh-	
+1000
+exolesco	# exs-	
+exos	# ~ossis	@  	# ~ossis, ~osse	
+expalpo	# ~or	@  	# ~ārī	
+expergiscor	# ~o	@  	# ~ere	
+explodo	# explaudō	
+exporrigo	# exporgō	
+expurgatio	# expūrigātiō	
+expurgo	# expūrigō	
+exquiro	# exquaerō	
+exradicitus	# ērād-	
+exsanguis	# exanguis	
+exsanio	# exaniō	
+exsarcio	# exarciō,	@  	# ex(s)erc-	
+exsatio	# exatiō	
+exscindo	# excindō	
+exscissorius	# excissōrius	
+exscreabilis	# excreābilis	
+exscreatio	# excreātiō	
+exscreo	# excreō	
+exsculpo	# exculpō	
+exseco	# execō,	@  	# ex(s)icō	
+exsecrabilis	# execrābilis	
+exsecrabilitas	# execrābilitās	
+exsecrabiliter	# execrābiliter	
+exsecratio	# execrātiō	
+exsecratus	# execrātus	
+exsecror	# execror	@  	# ~ō, ~āre	
+exsectio	# exectiō	
+exsector	# exector	
+exsecutio	# execūtiō	
+exsecutor	# execūtor	
+exsequiae	# exequiae	
+exsequialis	# exequiālis	
+exsequiarium	# exequiārium	
+exsequior	# exequior	
+exsequium	# exequium
+exsequor	# exequor	
+exsero	# exerō	
+exserte	# exertē	
+exserto	# exertō	
+exsertus	# exertus	
+exsibilo	# exībilō	
+exsicco	# exiccō	
+exsilio	# exiliō	
+exsisto	# existō	
+exsoluo	# exoluō	
+exsolutio	# exolūtiō	
+exsorbeo	# exorbeō	
+exsors	# exors	
+exspatior	# expatior	
+exspectatio	# expectātiō	
+exspectator	# expectātor	
+exspectatus	# expectātus	
+exspecto	# expectō	
+exspes	# expēs	
+exspiro	# expīrō	
+exsplendesco	# explendescō	
+exspolio	# expoliō	
+exspuitio	# expuitiō	
+exspuo	# expuō	
+exstans	# extans	
+exstantia	# extantia	
+exsterno	# externō	
+exstillo	# extillō
+exstimulator	# extimulātor	
+exstimulo	# extimulō	
+exstinctio	# extinctiō	
+exstinctor	# extinctor	
+exstinctus	# extinctus	
+exstinguo	# extinguō	
+exstirpatio	# extirpātiō	
+exstirpo	# extirpō	
+exsto	# extō	
+exstructio	# extructiō	
+exstructor	# extructor	
+exstructus	# extructus	
+exstruo	# extruō	
+exsuctus	# exuctus	
+exsucus	# exūcus	
+exsudo	# exūdō	
+exsugo	# exūgō	
+exsultans	# exultans	
+exsultanter	# exultanter	@  	# ~ius.
+exsultantia	# exultantia	
+exsultatio	# exultātiō	
+exsultim	# exultim	
+exsulto	# exultō	
+exsuperabilis	# exuperābilis	
+exsuperans	# exuperans	
+exsuperantia	# exuperantia	
+exsuperatio	# exuperātiō	
+exsupero	# exuperō	
+exsurdo	# exurdō	
+exsurgo	# exurgō	
+extergeo	# ~gō	@  	# ~gere	
+extimus	# extumus	
+exul	# exsul	
+exulatio	# exs-	
+exulatus	# exs-	
+exulo	# exs-,	@  	# ex(s)ol-	
+1100
+fabricensis	# fabriciensis	
+fabrico	# ~or	@  	# ~ārī, ~ātus	
+facetiae	# ~a	@  	# ~ae	
+facinorosus	# -erōsus	
+faecinius	# -enius	
+faecula	# fēc-	
+faeculentus	# fēc-	
+faenarius	# fēn-	
+faenebris	# fēn-	
+faeneratio	# fēn-	
+faenerator	# fēn-	
+faeneratorius	# fēn-	
+faeneratrix	# fēn-	
+faenero	# ~or	@  	# ~ārī, ~ātus	@ , 	# fēn-	
+faenicularius	# fēn-	
+faeniculum	# fēn-	
+faenilia	# fēn-	
+faenisex1	# fēn-	
+faenisicia	# fēn-	
+faenisicium	# fēn-,	@  	# -sec-	
+faenum	# fēn-	
+faenus	# fēn-	
+faenusculum	# fēn-	
+faex	# fex	@  	# fēcis	
+Fagutalis	# Fāc-	
+falarica	# phal-	
+famulitas	# famil-	
+farfarum	# farferum	
+farraceus	# ~ius	@  	# ~ia, ~ium	
+fartum	# farct-	
+fartus2	# farct-	
+fascia	# -ea	
+fascinum	# ~us	@  	# ~ī	@  	m.	
+fasciola	# -eola	
+fatisco	# ~or	@  	# ~ī	
+fauisae	# fauissae	
+fautor	# fauitor	
+feles	# fael-,	@  	# ~is	
+fello	# fēlō	
+ferrumen	# fērū-	
+ferruminatio	# fērū-	
+ferrumino	# fērū-	
+fertum	# ferctum	
+ferueo	# feruō	@  	# ~ere, ~ī	
+festuca	# fist-	
+festucatio	# fist-	
+festuco	# fist-	
+Ficulea	# Fīceliae	@  	# ~ārum
+Ficulensis	# Fīcol-
+Fidenae	# Fīdēna	@  	# ~ae
+fides2	# fidēs	@  (or 	# ~is	@ ) 	# ~is	
+figlinae	# figil-,	@  	# figul-	
+filicatus	# fel-	
+filictum	# fel-	
+filicula	# fel-	
+filix	# felix	
+fimum	# fimus	@  	# ~ī	@  	f.	
+finitimus	# fīnitumus	
+flaccesco	# flacciscō	
+flammarius	# flammeārius	
+Flazius	# Flazzus	
+flocces	# flōcēs	
+fluctuo	# ~or	@  	# ~ārī, ~ātus	
+fluidus	# fluuidus	
+fluito	# flūtō,	@  	# flūtor,	@  	# fluuitō	
+Fluonia	# Fluuiōnia
+foeteo	# faet-,	@  	# fēt-	
+foetidus	# faet-,	@  	# fēt-	
+foetor	# faet-,	@  	# fēt-	
+foetulentus	# fēt-	
+foetutina	# fēt-	
+forda	# horda	
+Fordicidia	# Hord-	
+foricula	# fore-	
+formidolose	# formīdulōsē	
+formidolosus	# formīdulōsus	
+formose	# formonsē	
+formositas	# formonsitās	
+formosulus	# formonsulus	
+formosus	# formonsus	
+Fornacalia	# Furn-	
+fornax	# furnax	
+fraces	# flacēs	
+fragrans	# frāglans	
+fragro	# frāglō	
+fremibundus	# fremeb-	
+frendo	# ~eō	@  	# ~ēre	
+Frentani	# Ferent-
+fretum	# fretus	@  	# ~ūs	@  	m.	
+frigidarium	# frigdārium	
+frustillatim	# -ilātim	
+frustror	# ~ō	@  	# ~āre, ~āuī, ~ātum	
+frutico	# ~or	@  	# ~ārī	
+frux	# ~ūgēs	@  	# ~ūgum	@  	f. pl.	
+fugela	# fugēlla	
+fulcrum	# fulctrum	
+fulgeo	# fulgō	@  	# ~gere	
+fulgetrum	# fulgetra	@  	# ~ae	@  	f.	
+fulgurio	# fulgoriō	
+fundulum	# fundol-	
+1200
+furcifer	# ~era	@  	# ~erae	@  	f.	
+Furrina	# Fūrīna,	@  	# Fōr-
+Furrinalia	# Fūrīnālia,	@  	# Furnālia
+Furrinalis	# Fūrīnālis
+futtilis	# fūtil-	
+futtilitas	# fūtil-	
+Gades	# ~is
+gaesati	# gēsātī,	@  	# ~ēs	
+gaesum	# gēsum	
+Gaetulus	# Gēt-
+gaeum	# gēum	
+Galatia	# -ēa
+galbeus	# cal-	
+galerus	# ~um	@  	neut.	
+gamma	# ~ae	@  	f.	
+Garamas	# Garamans
+gargarizo	# -issō	
+Garumna	# Garunna
+gaunaca	# ~um	@  	neut.	^ , 	# ~ēs	@  	m.	^ , 	# caun-	
+gausape	# ~ēs	@  	# ~is	@  or 	# ~a	@  	# ~ae	@  	f.	
+gelu	# us	@  	# ~ūs	@  	m.	^ , 	# ~um	@  	# ~ī	@  	neut.	
+genista	# gene-	
+genu	# ~us	@  	# ~um	
+geometrica	# ~ē	@  	# ~ēs	
+gerro	# cer-	
+Geryon	# ~onēs	@  	# ~onae	@ , 	# ~onus	@  (according to 	# Var.
+Gigas	# Gigans
+git	# gitti	
+gladius	# ~um	@  	neut.	
+glaesum	# glēs-	
+glanis	# ~us	@  	# ~ī	
+gleba	# glaeb-	
+glebosus	# glaeb-	
+glebula	# glaeb-	
+glisco	# ~or	@  	# ~ī	
+glittus	# glut-	
+glossema	# glōsēma	
+gnarus	# nārus	
+gnomonice	# ~a	@  	# ~ae	
+Gnosiacus	# Cnōsiacus
+Gnosias	# Cnōsias
+Gnosis	# Cnōsis
+Gnosius	# Cnōsius
+Gorgon	# Gorgō
+Gortynius	# Cortȳnius
+gossypinum	# gossypion	@  	# ~iī	
+graculus	# grāgulus	
+grallator	# grālātor	
+gramiae	# grāmae,	@  	# grēmiae	
+grammatica	# ~ē	@  	# ~ēs	
+grammonsus	# grammōsus	
+grandiloquus	# -locus	
+grassator	# crass-	
+grauedinosus	# grauīd-	
+grauedo	# grauīdō	
+Grauiscae	# ~a	@  	# ~ae
+gromphaena	# gromphēna	
+grumus	# grummus	
+grundio	# grunniō	
+grunditus	# grunnītus	
+grus	# gruis	
+gryllus	# grillus	
+gryps	# grȳpus	@  	# ~ȳpī	
+gubernaculum	# -āclum	
+guturnium	# cūturnium	
+gutus	# guttus	
+gynaeceum	# -īum	
+habrotonum	# abrotonum,	@  	# ~us	@  	# ~ī	@  	m.	
+Hadria	# Adr-
+Hadrianus	# Adr-
+Hadriaticus	# Adr-
+haemobolium	# aemobolium	
+haemorrhois	# haemorrois	
+Halaesus	# Halē-
+halicacabum	# halicaccabum	
+Halicarnaseus	# -āsius,	@  	# -assius
+Halicarnasus	# -assus,	@  	# -assus,	@  	# -os
+hallecula	# alēcula,	@  	# allēcula,	@  	# halēcula	
+halophanta	# halof-,	@  	# halapanta
+hama	# ama	
+Hamilcar	# Amilcar
+Hammon	# Ammōn,	@  	# Hammō
+hammoniacum	# ammōniacum	
+hammoniacus	# ammōniacus	
+Hannibal	# Annibal
+harena	# arēna	
+harenosus	# arēnōsus	
+hariolor	# ariolor	
+Harpocrates	# Arpocratēs
+harundinetum	# arundinētum	
+harundineus	# arundineus	
+harundo	# arundō	
+haruspex	# aruspex	@  	# (h)ari-,	@  	# arre-	
+haruspicinus	# aruspicīnus	
+haruspicium	# aruspicium	
+Hasdrubal	# Asdrubal
+hastula	# astula	
+haud	# haut,	@  	# hau	
+haudquaquam	# hauquāquam	
+hebenus	# ebenus	
+1300
+Hecate	# ~a	@  	# ~ae
+Hecuba	# Hecubē,	@  	# -cab-	@  	# ~ēs
+hedera	# ed-	
+hederaceus	# ~ius	@  	# ~ia, ~ium	@ , 	# ed-	
+heia	# e͡ia	
+Helena	# ~ē
+Hellespontus	# ~um	@  	neut.
+helluor	# ell-	
+helops	# el-	
+Helorus	# ~um	@  	neut.
+heluella	# el-	
+heluenacus	# eluenācus,	@  	# eluennācus,	@  	# heluennācus,	@  	# ~ius	
+Heluii	# Heluī
+hemitritaeus	# ēmi-,	@  	# ~os	
+hendecasyllabus	# ~os	
+Hennaeus	# Hennēus
+hepatites	# ~is	@  	f.	
+hephthemimeres	# ~is	@  	f.	
+Heracleensis	# -iensis
+Heracleus	# ~īus,	@  	# -os
+heri	# here	
+Hermione	# ~a	@  	# ~ae
+heroicus	# ~os	
+heroine	# ~a	@  	# ~ae	
+Hersilia	# ~ē	@  	# ~ēs
+Hesiona	# ~ē	@  	# ~ēs
+hiberno	# ~or	@  	# ~ārī, ~ātus	
+hibiscum	# ibiscum	
+hiems	# hiemps	
+Hiero	# Hierōn
+Hierosolyma	# ~a	@  	# ~ae	@  	f.**	^  Jerusalem.
+hieto	# ~or	@  	# ~ārī	
+hilarus	# ~is	@  	# ~is, ~e	
+Hilotae	# Ilōtae
+Himera2	# ~a	@  	# ~ōrum	@  	neut. pl.
+hinnuleus	# īnuleus	
+Hippolyta	# ~ē	@  	# ~ēs
+Hippolytus	# Ipp-
+Hipponensis	# Hippōniensis
+hippopotamus	# ~ius	@  	# ~iī	
+hircinus	# -quīnus	
+hircus	# -quus	
+hirnea2	# irnea	
+Hirpinus	# Irp-
+hirquitallus	# irq-	
+hirundo	# ir-	
+Hispalis	# Hispali	@  	neut.
+Hister2	# Ister
+holeraceus	# olerāceus	
+holero	# olerō	
+holus	# olus	
+Homereus	# ~īus
+honoro	# ~or	@  	# ~ārī, ~ātus	
+hoplomachus	# oplomachus	
+horaeus	# ~os	@  	# ~on	
+hordeaceus	# ord-,	@  	# hordi-,	@  	# -cius	
+hordearius	# hordi-	
+hordeum	# ord-	
+horiola	# ōr-	
+horminum	# ~os	@  	# ~ī	@  	m.	^ , 	# orm-	
+horreum	# ~a	@  	# ~ae	@  	f.	
+humus	# ~um	@  	neut.	
+hybrida	# (h)ib-	
+hydraula	# ~ēs	
+hyoscyamus	# ~os	@  	# ~ū	
+hypocisthis	# hypocistis	
+hypogeum	# -aeum	
+hysopites	# hyssōpītēs	
+hysopum	# hyssōpum,	@  	# ~us	@  	# ~ī	@  	f.	^ , 	# his-	
+Iasius1	# ~iōn	@  	# ~iōnis (~iōnos
+Icadius	# ~iōn
+Icarius1	# Īcarus
+icio	# īcō	
+Ida	# ~ē	@  	# ~ēs
+Idalium	# ~ia	@  	# ~iae	@  	f.
+idolon	# eidōlon	
+Idumaeus	# Idȳ-
+Idume	# Idȳ-
+Idus	# Eidūs	
+iecur	# iocur	@  	# ~ineris, ~inoris	
+iecusculum	# ioc-	
+ieiunitas	# iāi-	
+ientaculum	# iāent-,	@  	# iant-	
+iento	# iēient-,	@  	# iant-	
+ignesco	# igniscō	
+ignotitia	# innōtitia	
+Iguuini	# Īguīnī
+ilico	# ill-	
+Iliona	# ~ē	@  	# ~ēs
+Ilium	# ~ion	@  	neut.	^  or 	# ~ios	@  	f.
+illabefactus	# inl-	
+illabor	# inl-	
+illaboratus	# inl-	
+illaboro	# inl-	
+illacerabilis	# inl-	
+illacessitus	# inl-	
+illacrimabilis	# inl-	
+illacrimo	# ~or	@  	# ~ārī	@ , 	# inl-	
+illaesus	# inl-	
+illapsus	# inl-	
+1400
+illaqueatus	# inl-	
+illaqueo	# inl-	
+illargio	# inl-	
+illatabilis	# inl-	
+illatebro	# inl-	
+illatio	# inl-	
+illatro	# inl-	
+illaudabilis	# inl-	
+illaudatus	# inl-	
+illecebra	# inl-	
+illecebrosus	# inl-	
+illectamentum	# inl-	
+illectatio	# inl-	
+illecto	# inl-	
+illectus1	# inl-	
+illectus2	# inl-	
+illegitime	# inl-	
+illentesco	# inl-	
+illepide	# inl-	
+illepidus	# inl-	
+illex1	# inl-	
+illex2	# inl-	
+illibatus	# inl-	
+illiberalis	# inl-	
+illiberalitas	# inl-	
+illiberaliter	# inl-	
+illicio	# inl-	
+illicitator	# inl-	
+illicite	# inl-	
+illicitus	# inl-	
+illicium	# inl-	
+illido	# inl-	
+illigo	# inl-	
+illimo	# inl-	
+illino	# inl-	
+illiquefactus	# inl-	
+illisus	# inl-	
+illitteratus	# illiterātus,	@  	# inl-	
+illitus	# inl-	
+illocabilis	# inl-	
+illotus	# illautus,	@  	# illūtus,	@  	# inl-	
+illubrico	# inl-	
+illuceo	# inl-	
+illuctor	# inl-	
+illuculasco	# inl-	
+illudio	# inl-	
+illudo	# inl-	
+illuminate	# inl-	
+illuminatio	# inl-	
+illumino	# inl-	
+illuminus	# inl-	
+illunis	# inl-	
+illunius	# inl-	
+illusio	# inl-	
+illustramentum	# inl-	
+illustratio	# inl-	
+illustris	# inl-	
+illustrius	# inl-	
+illustro	# inl-	
+illutibarbus	# inl-	
+illutilis	# inl-	
+illuuies	# inl-	
+Illyricum	# Hil-
+Illyricus	# Hil(l)ur-
+Illyrii	# Hiluriī
+imaginor	# ~ō	@  	# ~āre	
+imbalnities	# inb-	
+imbarbesco	# inb-	
+imbecille	# inb-	@  	# ~ius.
+imbecillitas	# inb-	
+imbecillus	# ~is	@  	# ~is, ~e	@ , 	# inb-	
+imbellia	# inb-	
+imbellis	# inb-	
+imberbis	# ~us	@  
+imbibo	# inb-	
+imbito	# inb-	
+imbubino	# inb-	
+imitor	# ~o	@  	# ~āre	
+immaculatus	# inm-	
+immadesco	# inm-	
+immanis	# inm-	
+immanitas	# inm-	
+immaniter	# inm-	
+immansuetus	# inm-	
+immature	# inm-	@  	# ~ius.
+immaturitas	# inm-	
+immaturus	# inm-	
+immedicabilis	# inm-	
+immedicatus	# inm-	
+immeditate	# inm-	
+immeditatus	# inm-	
+immeio	# inm-	
+immemor	# inm-	
+immemorabilis	# inm-	
+immemoratus	# inm-	
+immemoria	# inm-		@  (dub.
+immensitas	# inm-	
+immensum1	# inm-	
+immensum2	# inm-	
+immensus	# inm-	
+1500
+immeo	# inm-	
+immerens	# inm-	
+immerenter	# inm-	
+immergo	# inm-
+immerito	# inm-	
+immeritus	# inm-	
+immersabilis	# inm-	
+immetatus	# inm-	
+immetuens	# inm-	
+immigro	# inm-	
+imminuo	# inm-	
+imminutio	# inm-	
+imminutus	# inm-	
+immisceo	# inm-	
+immiserabilis	# inm-	
+immisericorditer	# inm-	
+immisericors	# inm-	
+immissarium	# inm-	
+immissio	# inm-	
+immitis	# inm-	
+immitto	# inm-	
+immixtus	# inm-	
+immobilis	# inm-	
+immoderate	# inm-	@  	# ~ius.
+immoderatio	# inm-	
+immoderatus	# inm-	
+immodeste	# inm-	
+immodestia	# inm-	
+immodestus	# inm-	
+immodice	# inm-	
+immodicus	# inm-	
+immodulatus	# inm-	
+immolatio	# inm-	
+immolator	# inm-	
+immolitus	# inm-	
+immolo	# inm-	
+immorior	# inm-	
+immoror	# inm-	
+immortalis	# inm-	
+immortalitas	# inm-	
+immortaliter	# inm-	
+immortalitus	# inm-	
+immotus	# inm-	
+immoueo	# inm-	
+immugio	# inm-	
+immulgeo	# inm-	
+immunditia	# inm-	
+immundus	# inm-	
+immunio	# inm-	
+immunis	# immoenis	
+immunitas	# inm-	
+immunitus	# inm-	
+immurmuro	# inm-	
+immusulus	# inm-	
+immutabilis1	# inm-	
+immutabilis2	# inm-	
+immutabilitas	# inm-	
+immutabiliter	# inm-	
+immutatio	# inm-	
+immutatus	# inm-	
+immutesco	# inm-	
+immutilatus	# inm-	
+immuto	# inm-	
+impacatus	# inp-	
+impaenitendus	# inp-	
+impages	# inp-	
+impallesco	# inp-	
+impancro	# inp-
+impar	# inp-	
+imparatus	# inp-	
+imparens	# inp-	
+imparilitas	# inp-	
+impariter	# inp-	
+impascor	# inp-	
+impastus	# inp-	
+impatiens	# inp-	
+impatienter	# inp-	@  	# ~ius, ~issimē.
+impatientia	# inp-	
+impauide	# inp-	
+impauidus	# inp-	
+impeccabilis	# inp-	
+impedatio	# inp-	
+impedimentum	# inp-	
+impedio	# inp-	
+impeditio	# inp-	
+impedito	# inp-	
+impeditus	# inp-	
+impedo	# inp-	
+impello	# inp-	
+impendeo	# inp-	
+impendio	# inp-	
+impendiosus	# inp-	
+impendium	# inp-	
+impendo	# inp-	
+impenetrabilis	# inp-	
+impenetralis	# inp-	
+impennatus	# inp-	
+impensa	# inp-	
+impense	# inp-	
+impensus	# inp-	
+1600
+imperabiliter	# inp-	
+imperator	# inp-	
+imperatorius	# inp-	
+imperatrix	# inp-	
+imperatum	# inp-	
+imperceptus	# inp-	
+imperco	# inp-	
+impercussus	# inp-	
+imperditus	# inp-	
+imperfecte	# inp-	
+imperfectus	# inp-	
+imperfossus	# inp-	
+imperfundities	# inp-	
+imperialis	# inp-	
+imperiose	# inp-	
+imperiosus	# inp-	
+imperite	# inp-	
+imperitia	# inp-	
+imperitus	# inp-	
+imperium	# inp-	
+imperiuratus	# inp-	
+impermissus	# inp-	
+impermixtus	# inp-	
+impero	# inp-	
+imperpetuus	# inp-	
+imperspicuus	# inp-	
+imperterritus	# inp-	
+impertio	# inp-	@  	# ~ior, ~īrī	
+imperturbatus	# inp-	
+imperuius	# inp-	
+impetibilis	# inp-	
+impetiginosus	# inp-	
+impetigo	# inp-	
+impeto	# inp-	
+impetrabilis	# inp-	
+impetratio	# inp-	
+impetrio	# inp-	
+impetritum	# inp-	
+impetro	# inp-	
+impetus	# inp-	
+impexus	# inp-	
+impico	# inp-	
+impie	# inp-	
+impietas	# inp-	
+impiger	# inp-	
+impigre	# inp-	
+impigritas	# inp-	
+impilia	# inp-	
+impiliarius	# inp-	
+impingo	# inp-	
+impio	# inp-	
+impius	# inp-	
+implacabilis	# inp-	
+implacabiliter	# inp-	
+implacatus	# inp-	
+implacidus	# inp-	
+implecto	# inp-	
+impleo	# inp-	
+implexus	# inp-	
+implicatio	# inp-	
+implicatus	# implicitus,	@  	# inp-	
+implicisco	# inp-	
+implicite	# inp-	
+implico	# inp-	
+implorabilis	# inp-	
+imploratio	# inp-	
+imploro	# inp-	
+implumis	# inp-	
+impluo	# inp-	
+impluuiatus	# inp-	
+impluuium	# inp-	
+impolite	# inp-	
+impolitia	# inp-	
+impolitus	# inp-	
+impollutus	# inp-	
+impomenta	# inp-	
+impono	# inp-	
+imporcio	# inp-	
+imporcitor	# inp-	
+importator	# inp-	
+importo	# inp-	
+importune	# inp-	
+importunitas	# inp-	
+importunus	# inp-	
+importuosus	# inp-	
+impos	# inp-	
+impositicius	# inp-	
+impositio	# inp-	
+impositiuus	# inp-	
+impositor	# inp-	
+impossibilis	# inp-	
+impossibilitas	# inp-	
+impostor	# inp-	
+impostura	# inp-	
+impotens	# inp-	
+impotenter	# inp-	
+impotentia	# inp-	
+impraesentiarum	# inp-	
+impransus	# inp-	
+imprecatio	# inp-	
+1700
+imprecor	# inp-	
+imprensibilis	# inp-	
+impressio	# inp-	
+imprimis	# inp-**		@ ; often written as two words.
+imprimo	# inp-	
+improbabilis	# inp-	
+improbatio	# inp-	
+improbator	# inp-	
+improbatus1	# inp-	
+improbatus2	# inp-	
+improbe	# inp-	
+improbitas	# inp-	
+improbito	# inp-	
+improbo	# inp-	
+improbulus	# inp-	
+improbus	# inp-	
+improcerus	# inp-	
+improcreabilis	# inp-	
+improdictus	# inp-	
+improfessus	# inp-	
+improlis	# ~us	@  
+impromiscus	# inp-	
+impromptus	# inp-	
+improperatus	# inp-	
+impropero	# inp-	
+improperus	# inp-	
+improprie	# inp-	
+improprietas	# inp-	
+improprius	# inp-	
+impropugnatus	# inp-	
+improspere	# inp-	
+improsperus	# inp-	
+improtectus	# inp-	
+improuide	# inp-	
+improuidus	# inp-	
+improuiso	# inp-	
+improuisus	# inp-	
+imprudens	# inp-	
+imprudenter	# inp-	
+imprudentia	# inp-	
+impudens	# inp-	
+impudenter	# inp-	
+impudentia	# inp-	
+impudicatus	# inp-	@  	adj.	
+impudice	# inp-	
+impudicitia	# inp-	
+impudicus	# inp-	
+impugnatio	# inp-	
+impugno	# inp-	
+impulsio	# inp-	
+impulsor	# inp-	
+impulsus	# inp-	
+impuluereus	# inp-	
+impunctus	# inp-	
+impune	# inp-	
+impunitas	# inp-	
+impunite	# inp-	
+impunitus	# inp-	
+impuratus	# inp-	
+impure	# inp-	
+impuritas	# inp-	
+impuritia	# inp-	
+impurus	# inp-	
+imputatio	# inp-	
+imputator	# inp-	
+imputatus	# inp-	
+imputo	# inp-	
+imputresco	# inp-	
+inaffectatus	# inadf-	
+inanimus	# ~is	@  	# ~is, ~e	
+inassignatus	# -ads-	
+inassuetus	# -ads-	
+inaudio	# indaudiō	
+incido1	# incāsum	
+incitae	# ~a	@  	# ~ōrum	@  	neut. pl.	
+inclutus	# inclitus,	@  	# inclytus	
+incohatus	# inchoātus,	@  	# incoātus	
+incoho	# inchoō	
+incomparabilis	# -conp-	
+incompertus	# -conp-	
+incomposite	# -conp-	
+incompositus	# -conp-	
+incomprehensibilis	# incomprens-	
+increbresco	# incrēbescō	
+indago1	# ~or	@  	# ~ārī	
+indecor	# ~oris	@  	# ~oris, ~ore	
+indemnatus	# -damn-	
+indipiscor	# indipiscō	@  	# ~ere	@ , 	# indep-	
+indusiatus	# int-	
+indusium	# int-	
+indutiae	# indūciae,	@  	# indōtiae	
+induuiae	# induuiēs	@  	# ~ērum	
+inermis	# ~us	@  
+inexspectatus	# -exp-	
+inexstinctus	# -ext-	
+inexstinguibilis	# -ext-	
+inexsuperabilis	# inexuperābilis	
+infercio	# infarciō	
+inficete	# infacētē	
+inficetus	# infacētus	
+1800
+infimatis	# infum-	
+infimus	# infumus	
+infrenis	# ~us	@  
+infundibulum	# infid-	
+ingemesco	# ingemiscō	
+ingratiis	# ingrātīs	
+inicio	# iniiciō	@  	# ~iicere	
+iniucundus	# iniōc-	
+inopportunus	# inoportūnus	
+inquisitus	# inquaesītus	
+insaeptus	# inseptus	
+insalubris	# ~ber	
+insector	# ~ō	@  	# ~āre	
+insenesco	# ~iscō	
+insidior	# ~ō	@  	# ~āre, ~āuī	
+insilio	# insuliō	
+insipiens	# insap-	
+insipio	# insipō	@  	# ~pāre	@ , 	# insupō	
+inspergo	# inspargō	
+instrido	# ~eō	@  	# ~ēre	
+insubtilis	# insup-	
+insubtiliter	# insup-	
+insuco	# insuccō	
+integumentum	# integimentum	
+intellegentia	# intellig-	
+intellego	# intelligō	
+intemperies	# ~ae	@  	# ~ārum	@  	f. pl.	
+intentio	# -siō	
+intercalaris	# interkal-	
+intercalo	# interkalō	
+intericio	# interiaciō	
+interimo	# interemō	
+internecio	# interniciō	
+interneciuus	# internicīuus	
+interpolis	# ~us	@  
+intersaepio	# intersēpiō	
+interuerto	# interuortō	
+Intimilii	# Intemeliī
+intimus	# intumus	
+intinguo	# intingō	
+intremesco	# intremiscō	
+intrita	# ~um	@  	# ~ī	@  	neut.	
+introcurro	# intrō currō	
+introdo	# intrō dō	
+introduco	# intrō dūcō	
+introeo	# intrō eō	
+introfero	# intrō ferō	
+intromitto	# intrō mittō	
+introrsum	# intrōsum,	@  	# introrsus,	@  	# intrōsus	
+introspecto	# intrō spectō	
+introuoco	# intrō uocō	
+intubum	# ~us	@  	# ~ī	@  	m.	^ , 	# -tib-	
+intueor	# ~or	@  	# ~ī	
+inuerto	# inuortō	
+inueterasco	# inueterescō	
+inuicem	# in uicem	
+inunguo	# inungō	
+inuolucrum	# -cre	@  	# ~is	
+inuoluulus	# -olus	
+inurgeo	# inurgueō	
+inuulgo	# inuolgō	
+inuulnerabilis	# inuol-	
+ipsima	# ipsuma	
+ironia	# īrōnēa	
+irrado	# inr-	
+irrasus	# inr-	
+irrationabilis	# inr-	
+irreligatus	# inr-	
+irreligiose	# inr-	
+irreligiosus	# inr-	
+irremeabilis	# inr-	
+irremediabilis	# inr-	
+irremunerabilis	# inr-	
+irreparabilis	# inr-	
+irrepertus	# inr-	
+irrepo	# inr-	
+irreposcibilis	# inr-	
+irreprehensus	# inr-	
+irrepto	# inr-	
+irrequiebilis	# inr-	
+irrequietus	# inr-	
+irresectus	# inr-	
+irresolubilis	# inr-	
+irresolutus	# inr-	
+irrestinctus	# inr-	
+irretio	# inr-	
+irretortus	# inr-	
+irretusus	# inr-	
+irreuerens	# inr-	
+irreuerenter	# inr-	
+irreuerentia	# inr-	
+irreuocabilis	# inr-	
+irreuocatus	# inr-	
+irridenter	# inr-	
+irrideo	# inr-	
+irridicule	# inr-	
+irridiculum	# inr-	
+irridiculus	# inr-	
+irrigatio	# inr-	
+irrigiuus	# inr-	
+1900
+irrigo	# inr-	
+irriguus	# inr-	
+irrisio	# inr-	
+irrisor	# inr-	
+irrisus	# inr-	
+irritabilis	# inr-	
+irritabilitas	# inr-	
+irritamen	# inr-	
+irritamentum	# inr-	
+irritatio	# inr-	
+irritator	# inr-	
+irritatus	# inr-	
+irrito	# inr-	
+irritus	# inr-	
+irroborasco	# inr-	
+irroboro	# inr-	
+irrogatio	# inr-	
+irrogo	# inr-	
+irroro	# inr-	
+irrubesco	# inr-	
+irructo	# inr-	
+irrugo	# inr-	
+irrumabiliter	# inr-	
+irrumator	# inr-	
+irrumo	# inr-	
+irrumpo	# inr-	
+irruo	# inr-	
+irruptio	# inr-	
+irruptus	# inr-	
+irtiolus	# itriolus	
+ischiacus	# isci-	
+Ismara	# Ismarus	@  	# ~ī	@  	f.
+Isocrateus	# Isocratīus
+isodomus	# ~os	@  	# ~os, ~on	
+Ithaca	# Ithacē	@  	# ~ēs
+Itonus	# Itōn	@  	# ~ōnis	@  (? or 	# Itōnē	@  	# ~ōnēs	@ ) 	f.
+Ituraei	# Itȳr-
+Ituraeus	# Itȳr-
+iucunditas	# iōc-	
+iucundus	# iōc-	
+Iugulae	# ~a	@  	# ~ae	
+iugulum	# ~us	@  	# ~ī	@  	m.	
+iugumentum	# iugmentum	
+iuniperus	# iūnipirus	
+Iuppiter	# Iūpiter,	@  	# Iouis	
+iurgo	# iūrigō	
+kalendae	# cal-	
+kalendarium	# cal-	
+labasco	# ~or	@  	# ~ī	
+Labeates	# Labeātae	@  	# ~ārum
+Labicanus	# Lau-,	@  	# Lāu-
+labium	# ~ia,	@  	# ~ea	@  	# ~iae	@  	f.	
+laboriosus	# labōriossus	
+lac	# lact,	@  	# lacte	
+lacerta	# ~us	@  	# ~ī	@  	m.	
+lacertus1	# ~um	@  	# ~ī	@  	neut.	
+Laco	# ~n
+Laconica	# ~ē	@  	# ~ēs
+lacrima	# lacruma	
+lacrimo	# ~or	@  	# ~ārī	@ , 	# lacrumō	
+Laeetania	# Lācēt-,	@  	# Lālēt-
+Laeetanus	# Lācēt-,	@  	# Lālēt-
+laganum	# ~us	@  	# ~ī	@  	m.	
+lagona	# lagēna,	@  	# lagoena,	@  	# lagūna	
+lagonarius	# lagūn-	
+lamina	# lammina,	@  	# lamna	
+Lampsacum	# ~us,	@  	# ~os	@  	# ~ī	@  	f.
+lancula	# langula	
+lanicium	# lānitium	
+lanipendia	# lānipenda	
+lanipendius	# lānipendus	
+Lanuuinus	# Lānuīnus,	@  	# Lāniuīnus
+Laodamia	# Lāudamīa
+Laodicea	# Lāudicēa
+Laodicensis	# Lāu-
+Laodicenus	# Lāu-
+Laomedon	# Lāu-
+Laomedonteus	# Lāu-
+lapathium	# lapatium
+lapathum	# ~us	@  (	# ~os	@ ) 	# ~ī	@  	f.	^  (	m.**	^  	# Lucil.
+lapicidinae	# lapicaedīnae	
+lapsana	# ~um	@  	# ~ī	@  	neut.	
+Larisa	# Lārissa
+lasanum	# lasanus	@  	# ~ī	@  	m.	
+laser	# lāsar	
+laserpicium	# lāserpītium	
+laterculus	# latericulus	
+Lateritanus	# Lateritiānus,	@  	# Lateriānus,	@  	# Laterēsiānus
+latibulo	# ~or	@  	# ~ārī	
+laurea	# lōrea	
+laureola	# lōreola	
+lauretum	# lōrētum	
+Lautulae	# Lautolae
+lautumiae	# lātomiae	
+lautus	# lōtus	
+Lechaeum	# ~ae	@  	# ~ārum	@  	f. pl.
+Leda1	# ~ē	@  	# ~ēs
+lentiscus	# ~um	@  	# ~ī	@  	neut.	
+Leonidas	# Leōnidēs
+lepista	# lepesta	
+2000
+Leptis	# Lepcis
+Leptitanus	# Lepcitānus
+Lerna	# Lernē	@  	# ~ēs
+Lesbos	# Lesbus
+Letois	# Lāt-
+Letoius	# Lāt-
+Letous	# Lāt-
+leucacantha	# ~os	@  	# ~ī	@  	m.	
+Leucata	# ~ē	@  	# ~ēs
+Leucothea	# ~eē	@  	# ~eēs	@ , 	# oē	@  	# ~oēs
+leuir	# laeuir	
+leuiter2	# laeuiter	
+libens	# lubens	
+libenter	# lub-	@  	# ~ius, ~issimē.
+libentia	# lub-	
+Libentina	# Lub-
+libeo	# lubeō	
+libet	# lubet	
+libidinitas	# lub-	
+libidinose	# lub-	
+libidinosus	# lub-	
+libido	# lub-	
+libum	# ~us	@  	# ~ī	@  	m.	
+Libya	# ~ē	@  	# ~ēs
+licium	# līceum	
+lien	# liēnis	
+ligula	# lingula	
+ligurrio	# ligūriō	
+Ligus1	# Ligur
+limbus	# lembus	
+limus2	# ~is	@  	# ~is, ~e	
+limus3	# ~um	@  	# ~ī	@  	neut.	
+linea	# līnia	
+lineamentum	# līniā-	
+linearis	# līniāris	
+linter	# lunter	
+lintrarius	# lynt-	
+lintriculus	# lunt-	
+Lipara2	# ~ē	@  	# ~ēs	@  	f.	^ ; 	# ~ae	@  	# ~ārum	@  	f. pl.
+littera	# lītera	
+litterula	# līter-	
+litus	# littus	
+locusta1	# luc-	
+Locusta2	# Lūc-
+longinquus	# longincus	
+loquela	# loquella	
+lora	# lōrea	@  	# ~eae	
+lorum	# ~us	@  	# ~ī	@  	m.	
+Luceres	# Lucerēsēs	@  	# ~ēsium
+lucesco	# lūciscō	
+Lucetius	# Leuc-
+Lucomedius	# Lyc-
+luctor	# ~ō	@  	# ~āre, ~āuī	
+Lucumo	# Lucomō,	@  	# Lycmōn,	@  	# Lygmōn	@  	# ~ōnis	
+lucuntulus	# lucunculus	
+ludificor	# ~ō	@  	# ~āre, ~āuī, ~ātum	
+Lugdunensis	# Lugudūnensis
+Lugudunum	# Lugd-
+Lunensis	# Lūniensis
+lupinum	# ~us	@  	# ~ī	@  	m.	
+lurchinabundus	# lurcinābundus	
+lurco1	# lurchō,	@  	# ~or	@  	# ~ārī	
+lurco2	# lurchō	
+luscinia	# ~ius	@  	# ~iī	@  	m.	
+lutum2	# lutus	@  	# ~ī	@  	m.	
+luxuria	# luxuriēs	@  	# ~ēī	
+luxurio	# ~or	@  	# ~ārī, ~ātus	
+Lycium2	# Lycēum
+Lydius	# Lūdius
+Lyrceus	# ~īus
+macellum	# ~us	@  	# ~ī	@  	m.	
+maceria	# ~ēs	@  	# ~ēī	
+maceriola	# -eola	
+machaera	# macch-	
+Maeander	# ~drus	@  or 	# ~dros
+maena	# mēna	
+maenianum	# mēn-	
+magistro	# magisterō	
+magnifice	# magnuficē	
+magnifico	# magnuficō	
+magnificus	# magnuficus	
+magniloquus	# -locus	
+magno opere	# magnopere	
+maiestus	# maii-	
+maleficus1	# malif-	
+maleuolentia	# maliu-	
+maleuolus	# maliu-	
+maltha	# malta	
+mamilla	# mammilla	
+mammeatus	# mammi-	
+mancipatio	# mancup-	
+mancipium	# mancupium	
+mancipo	# mancupō	
+manduco1	# ~or	@  	# ~ārī	
+manifesto1	# manufestō	
+manifestus	# manufestus	
+manipularis1	# manipl-	
+manipularis2	# manipl-,	@  	# manupl-	
+manipularius	# manupl-	
+manipulatim	# maniplātim	
+2100
+manipulus	# maniplus,	@  	# manuplus	
+mantisa	# mantissa	
+manubrium	# mani-	
+manuciolum	# ~us	@  	m.	
+manupretium	# manipretium,	@  	# manuspretium,	@  	# manūs pretium	
+manus2	# mānuus	
+Marcomani	# Marcomannī
+marculus1	# martulus	
+maritimus	# maritumus	
+Maronea	# Marōnīa
+marrubium	# marruuium	
+Marspiter	# Maspiter	
+marsuppium	# marsīpium	
+Marsyas	# Marsu-,	@  	# ~-ya
+mastruca	# manstrūca	
+mataris	# materis,	@  	# matara	@  	# ~ae	
+mateola	# matiola	
+materia	# ~ēs	@  	# ~ēī	
+mathematica	# ~ē	@  	# ~ēs	
+Matianus	# Mattiānus
+Matius	# Matt-
+matrimonium	# mātru-	
+Mauretania	# Maurītānia
+meconium	# mēcōnion	
+meddix	# medix	
+Medea	# Mēdīa,	@  	# Mēdē
+medela	# medella	
+mediastrinus	# mediastīnus	
+medica1	# mēdicē	
+medimnum	# ~us	@  	# ~ī	@  	m.	
+Mediolanensis	# ~iensis
+medipontus	# meli-	
+Medusaeus	# Medūsēus
+mefitis	# mephītis	
+Megalopolis	# Megalē polis	@**  	# (accusative Megalēn polin)
+Megara1	# Megara	@  	# ~ōrum	@  	neut. pl.	^ 
+mehercule	# mehercle,	@  	# meherculēs**		@ , and as two words.
+melandrya	# -drea	
+melanephore	# melanēporē	
+melanephorus	# melanēporus	
+Melanippa	# Menalippa
+Melanippus	# Menalippus
+melilotos	# ~um	@  	# ~ī	@  	neut.	
+Melita	# ~ē	@  	# ~ēs
+mellina1	# mēl-	
+melos1	# ~um	@  	# ~ī	@  	neut.	^ , 	# ~us	@  	# ~ī	@  	m.	
+membranula	# ~um	@  	# ~ī	@  	neut.	
+Menander	# ~dros
+mendico	# ~or	@  	# ~ārī	
+Menenius	# Menenn-
+menta	# mentha	
+mereo	# mereor	@  	# ~ērī, ~itus	
+meridio	# meridior	@  	# ~ārī, ~ātus	
+merula	# ~us	@  	# ~ī	@  	m.	
+merx	# mers	
+mesancylum	# mesancula	@  	# ~ae	@  	f.	
+Messalinus	# ~a	@  	# ~ae	@  	f.	^ , 	# -all-
+Messene	# ~a	@  	# ~ae
+metalepsis	# metalempsis	
+Metaurus	# ~um	@  	# ~ī	@  	neut.
+metuculosus	# metīc-	
+miliarium	# mill-	
+miliarius	# mill-	
+milifolium	# ~ia	@  	# ~iae	@  	f.	
+militia	# ~ēs	@  	# ~ēī	
+millesimum	# millēnsimum	
+millesimus	# mīlēnsimus	@ , 	# mīlēsimus,	@  	# mīllēnsimus	
+Milo1	# Milōn
+Mimas1	# Mimans
+Mimas2	# Mimans
+mina	# mna	@  	# ~ae	
+minime	# minumē	
+minimum	# minumum	
+minitor	# ~ō	@  	# ~āre	
+Minturnae	# Ment-
+Minturnensis	# Ment-
+minutia	# minūtiēs	@  	# ~ēī	
+miror	# mīrō	@  	# ~āre, ~āuī, ~ātum	
+miscellaneus	# -ill-	
+Misenensis	# Mīsēniensis
+Misenum	# ~us	@  	# ~ī	@ ; 	# ~ī	@  (or 	# ~a	@ ) 	# ~ōrum
+misereo	# misereor	@  	# ~ērī, ~itus (~tus)	
+miseror	# ~ō	@  	# ~āre, ~āuī, ~ātum	
+mitesco	# mītiscō	
+Mithras	# Mitrās,	@  	# Mythrās,	@  	# Mithrēs
+Mithridateus	# Mitr-,	@  	# -dātīus,	@  	# -dātīos
+miurus	# ~os	@  	# ~on	
+mixtura	# mistūra	
+mixtus	# mistus	
+mnemonicum	# nēmonicum	
+moderor	# ~ō	@  	# ~āre	
+modifico	# ~or	@  	# ~ārī	@  	intr.	
+modius	# ~ium	@  	# ~(i)ī	@  	neut.	
+molesto	# ~or	@  	# ~ārī	
+molior	# ~iō	@  	# ~īre	
+mollitia	# ~ēs	@  	# ~ēī	
+Molossus2	# ~os
+monaulus	# ~os	
+monedula	# monērula	
+monobiblos	# -byblos	
+2200
+monogrammus	# ~os	@  	# ~os, ~on	
+monolithus	# -litus	
+monstro	# most-	
+monstruose	# monstrōsē	
+monstruosus	# monstrōsus	
+montuosus	# montōsus	
+monumentum	# monimentum	
+morigeror	# ~ō	@  	# ~āre	
+moror	# ~ō	@  	# ~āre	
+Mosellicus	# Mosall-
+Moyses	# Mōsēs
+mucosus	# mucc-	
+mucus1	# muccus	
+Mugio2	# Mūciō
+multaticus	# molt-	
+multiforus	# ~is	@  	# ~is, ~e	
+multiiugus	# ~is	@  	# ~is, ~e	
+multinummus	# multun-	
+Muluius	# Moluius
+munditia	# ~ēs	@  	# ~ēī	
+mundus2	# ~um	@  	# ~ī	@  	neut.	
+munero	# ~or	@  	# ~ārī, ~ātus	
+munia	# moenia	
+munio	# moeniō	
+munis	# moenis	
+Munychius	# Mūnichius
+Murcius	# Murtius
+murena1	# mūraena	
+murex	# mūrix	
+muria	# muriēs	@  	# ~ēī	
+muricidus	# murr-
+murmillo	# myrmillō	
+murmuro	# ~or	@  	# ~ārī, ~ātus	
+murra1	# myrr(h)a	
+murreus1	# myrrheus	
+murrinus1	# myrrinus	
+murrinus2	# myrrhinus	
+murus	# moerus	
+musarius	# mus(e)iārius	
+muscipulum	# ~a	@  	# ~ae	@  	f.	
+museum1	# mūsaeum,	@  	# mūsīum	
+museum2	# musaeum	
+Museus1	# Mūsaeus	
+musica	# ~ē	@  	# ~ēs	
+musimo	# musmō	
+mustaceus	# mustāceum,	@  	# -ācium	@  	# ~ī	@  	neut.	
+mutinus1	# moet-	
+mutto	# mūtō	
+mutuor	# ~ō	@  	# ~āre, ~āuī, ~ātum	
+Mycenae	# Mycēnē,	@  	# Mycēna	@  	# ~ēs (~ae)	@  	f.
+myisca	# myiscus	@  	# ~ī	@  	m.	
+myoctonon	# myocton	
+myosota	# myosōtis	@  	# ~idis	@  	f.	
+Myron	# Myrō
+myrrhis	# myrris	
+myrrhiza	# myrriza	
+myrta	# murta	
+myrtatum	# murt-	
+myrteolus	# murt-	
+myrtetum	# murt-	
+myrteus	# murteus	
+myrtum	# murtum	
+myrtus	# murtus,	@  	# mirtus	
+mystes	# mustēs,	@  	# mistēs	
+Mytilenae	# ~ē	@  	# ~ēs	@  	f.	^ , 	# Mityl-
+Mytilenaeus	# Mityl-
+Mytilenensis	# Mityl-
+Nabata	# ~ēs
+Nabataeus	# Nabath-
+Naeuius	# Nēuius
+naeuulus	# naeuol-	
+nancio	# ~ior	@  	# ~ī	
+naphtha	# naphtās	@  	# ~ae	@  	m.	
+nardus	# ~um	@  	# ~ī	@  	neut.	
+naris	# nārēs	@  	# ~ium	@  	f. pl.	
+Narniensis	# Narnensis
+narro	# nārō	
+nascor	# gn-	
+nasturcium	# nasturtium	
+nasus	# ~um	@  	# ~ī	@  	neut.	^ , 	# nass-	
+nata	# gnāta	
+natis	# ~ēs	@  	# ~ium	@  	f. pl.	
+natus	# gnātus	
+nauale	# nāuālia	@  	# ~ium	@  	neut. pl.	
+naucum	# ~us	@  	# ~ī	@  	m.	
+naufylax	# nao-,	@  	# nauph-	
+nauicula	# naucula	
+nauicularius	# nāuiclārius,	@  	# nauclārius	
+nauiter	# gnā-	
+nauo	# gn-	
+nausea	# nausia	
+nauseator	# nausiātor	
+nauseo	# nausiō	
+nauseosus	# nausiōsus	
+nauus	# gnāuus	
+Naxus	# ~os
+ne2	# nae	
+necopinans	# nec opīnans,	@  	# neque opīnans	
+necopinato	# nec opīnātō	
+necopinatus	# nec opīnātus	
+2300
+necubi	# nē cubi	
+Necyomantea	# -tīa	
+neglectus1	# nec-	
+neglectus2	# nec-	
+neglegens	# nec-	
+neglegenter	# nec-	
+neglegentia	# nec-	
+neglego	# nec-	
+Nemausensis	# Nemausiensis
+Nemausus	# ~um	@  	# ~ī	@  	neut.
+Nemea1	# Nemeē	@  	# ~ēs
+nenia	# naenia	
+neque	# nec	
+nequiquam	# nēquicquam,	@  	# necquicquam	
+nequitia	# nēquitiēs	@  	# ~ēī	
+Nerio	# Neria	@  	# ~iae	@ , 	# Nerienis	@ , 	# ~ienes
+Neruolaria	# Neruulāria	
+nesapius	# nesapus	
+neue	# neu	
+nicto	# nictor	@  	# ~ārī, ~ātus	
+nigritia	# ~ēs	@  	# ~ēī	@  	f.	
+nihil	# nīl	
+nihilum	# nīlum	
+ningit	# ninguit	
+Nioba	# Niobē	@  	# ~ēs
+Niseus	# Nīsaeus
+nitela2	# nītella	
+Nixi	# Nixae	@  	# ~ārum	@  	f. pl.**		^  (see also nixus2).
+noenum	# noenu	
+nomenclator	# nōmenculātor	
+nonagesimus	# -ensimus	
+nonagiens	# nōnāgiēs	
+nongentesimus	# nung-,	@  	# -ensimus	
+nongentus	# nungentus	
+nonnihil	# nōnnīl,	@  	# nōnnihilum**		@  often written as two words.
+nonnumquam	# -unq-**		@  often as two words.
+nosco	# gnoscō	
+nostras	# nostrātis	
+notitia	# ~ēs	@  	# ~ēī	
+Notus2	# Notos	
+nouale	# ~is	@  	# ~is	@  	f.	
+nouendialis	# nouemd-	
+Nouensides	# Nouensilēs	
+nouiens	# nouiēs	
+nubilarium	# nūbilar	@  or 	# nūbilāre	@  	# ~āris	@  	neut.	
+nucleus	# nuculeus	
+Numicius	# ~us	@  	# ~ī
+numquam	# nunquam	
+nunciam	# nunc,	@  	# iam	
+nuptiae	# nubtiae	
+nuptialis	# nubt-	
+nupturio	# nubturiō	@  	intr.	
+nutricius	# -ītius	
+nutrico	# ~or	@  	# ~ārī, ~ātus	
+nutrio	# ~ior	@  	# ~īrī, ~ītus	
+nyctegreton	# ~os	@  	# ~ī	@  	f.	
+nympha	# nymphē	@  	# ~ēs	
+obagito	# obigitō	
+obesus	# -essus	
+obiurgo	# obiūrigō	
+oblino	# ~iniō	@  	# ~inīre, ~iniī, ~inītum	
+obliquus	# -quos,	@  	# -cus	
+oblitteratio	# obliterātiō	
+oblittero	# oblitero	
+oblitterus	# obliterus	
+obmento	# omm-	
+obmisceo	# omm-	
+obmolior	# omm-	
+obmoueo	# omm-	
+obmutesco	# omm-	
+oboedientia	# obēd-	
+obolus	# ~os	
+obrepo	# opr-	
+obrussa	# -uza	
+obsaepio	# -sēp-,	@  	# -sīp-	
+obscaeuo	# ops-	
+obscena	# obscaena	
+obscene	# obscaenē	
+obscenitas	# obscaen-	
+obscenus1	# ops-,	@  	# obscaen-	
+obscuro1	# ops-	
+obscurus	# ops-	
+obsecratio	# ops-	
+obsecro	# ops-	
+obsecula	# ops-	
+obsecundo	# ops-	
+obsequella	# -ēla	
+obsequens	# ops-	
+obsequenter	# ops-	
+obsequiosus	# ops-	
+obsequium	# ops-	
+obsequor	# ops-	
+obsero2	# ops-	
+obseruatio	# ops-	
+obseruo	# ops-	
+obses	# opses	
+obsessor	# ops-	
+obsianus	# ops-	
+obsideo	# ops-	
+obsidio	# ops-	
+2400
+obsidium1	# ops-	
+obsigno	# ops-	
+obsisto	# ops-	
+obsitus	# ops-	
+obsonator	# ops-	
+obsonatus	# ops-	
+obsonium	# ops-	
+obsono1	# ~or	@  	# ~ārī	@ , 	# ops-	
+obsorbeo	# ops-	
+obstetricius	# ops-	
+obstetrix	# ops-	
+obstino	# ops-	
+obsto	# ops-	
+obstrepo	# ops-	
+obstrigillo	# -string-	
+obstringo	# ops-	
+obstruo	# ops-	
+obstupidus	# ops-	
+obsum	# ops-	
+obtaedescit	# opt-	
+obtego	# opt-,	@  	# optigō	
+obtempero	# opt-	
+obtendo	# opt-	
+obtentus	# opt-	
+obtero	# opt-	
+obtestor	# opt-	
+obticeo	# opt-	
+obticesco	# opt-	
+obtineo	# opt-	
+obtingo	# opt-	
+obtorpesco	# opt-	
+obtorqueo	# opt-	
+obtrectatio	# opt-,	@  	# obtract-	
+obtrectator	# opt-	
+obtrudo	# opt-,	@  	# obst-,	@  	# opst-	
+obtrunco	# opt-	
+obtueor	# ~or	@  	# ~ī	@ , 	# opt-	
+obtundo	# opt-	
+obturamentum	# opt-	
+obturbo	# opt-	
+obturo	# opt-	
+obtusus	# obtūnsus	
+obtutus	# opt-	
+occaeco	# obc-	
+occallesco	# obc-	
+occensus	# obc-	
+occento	# obc-,	@  	# -cant-	
+occino	# occanō	@  	# ~canere, ~canuī	
+occipio	# occup-	
+occludo	# obc-	
+occumbo	# obc-	
+occurro	# obc-	
+occurso	# obc-	
+ocimum	# ~us	@  	# ~ī	@  	m.	
+ocquinisco	# oquiniscō	
+octiens	# octiēs	
+octingentiens	# -iēs	
+octogiens	# octōgiēs	
+octoginta	# octāgintā	
+Odrysae	# Odrusae
+Oedipus	# ~us	@  	# ~ī
+Oeneus2	# Oenīus
+oenophorum	# oenoforum	
+oesypum	# oesopum	
+Oeta	# Oetē	@  	# ~ēs
+offero	# obf-	
+offirmate	# obf-	
+offoco	# offūcō	
+offreno	# obf-	
+offringo	# obf-	
+offula	# offla	
+offundo	# obf-	
+oggannio	# obg-	
+oleaster	# ~trum	@  	# ~trī	@  	neut.	
+oleo	# olō	@  	# ~ere	
+olfacio	# olefaciō	
+olfacto	# olefactō	
+olfactus	# ole-	
+olitor	# holitor	
+olitorius	# holitorius	
+ollarius2	# ōlārius	
+ollula	# aulula	
+omasum	# omassum	
+ominor	# ōminō	@  	# ~āre	
+Omphale	# ~a	@  	# ~ae
+onager	# onagrus	
+onochilon	# onochīlis,	@  	# -ēlis	@  	# ~is	@  	f.	
+onotheras	# onothēra	
+Ophiusa2	# Ophiussa
+ophthalmias	# opthalmiās	
+opilio	# ūpiliō	
+Opilius	# Opillus
+opinor	# opīnō	@  	# ~āre	
+opiparus	# ~is	@  	# ~is, ~e	
+opitulor	# ~ō	@  	# ~āre	
+oporothece	# ~a	@  	# ~ae	
+oppeto	# obp-	
+oppexus	# obp-	
+oppono	# obp-	
+opportune	# oport-	
+2500
+opportunitas	# oport-	
+opportunus	# oport-	
+opprimo	# obp-	
+opprobrium	# obp-	
+opprobro	# obp-	
+oppugnatio	# obp-	
+oppugnator	# obp-	
+oppugno	# obp-	
+optimas	# optumās	
+optime	# optumē	
+opulentus	# opulens	@  	# opulentis	
+oraculum	# ōrāclum	
+oreae	# oriae**		@ ; see also aureae.
+orichalcum	# aurichalcum	
+Oricum	# Ōricos	@  	# ~ī	@  	f.
+Ortygia	# Ortygiē	@  	# ~ēs
+oryza	# oriza	
+oscito	# -or	@  	# ~ārī	
+osculor	# ~ō	@  	# ~āre, ~āuī, ~ātum	
+ossiculum	# ossuculum	
+ossuarium	# ossārium	
+Ostia	# ~a	@  	# ~ōrum	@  	neut. pl.
+ostrea	# ostreum	@  	# ~ī	@  	neut.	
+ostrearium	# ostri-	
+ostreosus	# ostri-	
+ostrum	# austrum	
+Otos	# ~us
+Oxus	# ~os
+oxymyrsine	# ~a	@  	# ~ae	
+ozaena	# ozēna	
+Pachynum	# ~os	@  	# ~ī	@  	f.
+Pacuuius	# Pācuius
+Paean	# Paeōn
+paedagogus	# pēd-	
+paedicator	# pēd-	
+paedico1	# pēd-	
+paedico2	# pēd-	
+paedor	# ped-	
+paelex	# pēl-,	@  	# pell-	
+paelicatus	# pēl-	
+Paeligni	# Pēl-
+Paelignus	# Pēl-
+paeninsula	# paeneinsula	
+paenitentia	# poen-	
+paeniteo	# poen-	
+paenultimus	# pēn-	
+paeonicus	# paeon-	
+Pagasa	# ~ae	@  	# ~ārum
+Pagasaeus	# Pagasēus
+Palaemon	# Palaemō
+Palatinus	# Pāl-
+Palatium	# Pāl-
+palatum	# ~us	@  	# ~ī	@  	m.	
+paliurus	# ~os	
+palmipedalis	# palmo-	
+palmipes1	# palmo-	
+palumbes	# ~us	@  	# ~ī	@  	m.	
+palus1	# ~um	@  	# ~ī	@  	neut.	
+panaces	# panax	@  	# ~cis	@  	m.	^  	(f.)	^ , 	# ~ces	@  	# ~cis	@  	neut.	
+Pandateria	# -tāria
+Panhormitanus	# Panorm-
+panicula1	# pānu-	
+panis	# ~e	@  	# ~is	@  	neut.	
+pannuceus	# ~ius	@  	# ~ia, ~ium	
+pannus	# ~um	@  	# ~ī	@  	neut.	
+Panope1	# ~a	@  	# ~ae
+Pantagias	# ~ēs
+Panthus	# ~ous
+papyrus	# ~um	@  	# ~ī	@  	neut.	
+parabola	# ~ē	@  	# ~ēs	
+paralius	# ~os	@  	# ~on	
+Parhalus	# Paralus
+Parilia	# Palīlia	
+Parilis1	# Palīlis	
+Parisii	# Parisī
+Parnasius	# ~assius
+Parnasus	# ~os,	@  	# -ass-
+paropsis	# -apsis,	@  	# -asis	
+Paroreia	# -īa
+participo	# ~or	@  	# ~ārī, ~ātus	
+partio2	# ~ior	@  	# ~īrī, ~ītus	
+pascalis	# pastalis	
+pasco	# ~cor	@  	# ~cī	
+Pasiphae	# -aa	@  	# ~ae
+passiolus	# passe-
+pastophorus	# -forus	
+Patara	# ~a	@  	# ~ae (f.
+patibulum	# ~us	@  	m.	
+patricius2	# ~ia	@  	# ~iae	@  	f.	
+pauciens	# ~iēs	
+paulatim	# paullātim	
+Paulianus	# Paulliānus
+Paulinus	# ~a	@  	# ~ae	@  	f.
+paulisper	# paullisper	
+paullulus	# poll-	
+paulo	# paullō	
+paululo	# paullulō	
+paululum1	# paullulum,	@  	# poll-	
+paululum2	# paullulum	
+paulum1	# paullum	
+2600
+paulum2	# paullum	
+paulumper	# paullumper	
+paulus1	# paullus	
+Paulus2	# Paullus
+pauo	# ~us	@  	# ~ī	
+pausa	# paussa	
+pauxillus	# -sillus	
+peciolus	# petiolus	
+pedatus1	# ~um	@  	# ~ī	@  	neut.	
+pedetemptim	# pedetemtim	
+pediculus2	# -uculus,	@  	# -uclus	
+pedisequus	# -cus	
+peiero	# pēii-,	@  	# pēi(i)ūrō,	@  	# perierō,	@  	# periūrō	
+pelamys	# ~is	@  	# ~idis	
+Pelias2	# ~a
+Pella	# ~ē	@  	# ~ēs
+pellecebra	# perl-	
+pellicio	# perl-	
+pellicius	# -eus	
+Peloponnensis	# -ēsis
+Peloponnesiacus	# -en-siacus
+Penelope	# ~a	@  	# ~ae
+Peneus	# ~īos	@  	# ~īī
+penicillus	# ~um	@  	# ~ī	@  	neut.	^ , 	# ~is	@  	# ~is	@  	m.	
+penuria	# paen-	
+penus	# ~um	@  	# ~ī	@ , 	# ~us	@  	# ~oris	@  	neut.	
+peplus	# ~um	@  	# ~ī	@  	neut.	
+percieo	# ~iō	@  	# ~īre	
+percrebresco	# percrēbescō	
+perenno	# perannō	
+periculum	# perīclum	
+perillustris	# -inl-	
+perimbecillus	# -inb-	
+perimo	# peremō	
+peristroma	# peristrōmum	@  	# ~mī	@  	neut.	
+perlectio	# pell-	
+perlego	# pellegō	
+perlibens	# -lub-	
+perlibet	# -lub-	
+perluceo	# pellūceō	
+perlucidus	# pell-	
+perluo	# pelluō	
+peropportune	# -oport-	
+peropportunus	# -oport-	
+perpendiculum	# -culus	@  	# ~ī	@  	m.	
+Perperna	# Perpenna
+perpluo	# perplouō	
+perpulcher	# perpulcer	
+perpurgo	# -pūrigō	
+Perses1	# Persa
+Perses2	# Persa
+perspergo	# perspargō	
+pertempto	# pertentō	
+pertracto	# pertrectō	
+pertusus	# pertussus	
+peruagor	# ~ō	@  	# ~āre	
+peruerse	# peruorsē	
+peruersus	# peruorsus	
+peruerto	# peruortō	
+perungo	# perunguō	
+peruulgatus	# -uolg-	
+peruulgo	# -uolg-	
+petaurum	# peteurum	
+Petelia	# Petīlia
+Petelini	# Petīlīnī
+Petillius	# Petīlius
+petorritum	# petōritum	
+Phacelinus	# Fac-
+phaecasium	# phaecasia	@  	# ~ae	@  	f.	
+phago	# ~n	
+phalanga	# palanga	
+phalangarius	# pal-	
+Phalantheus	# Phalantēus
+Phalanthinus	# Phalantīnus
+Phalanthus	# Phalantus
+phalaris1	# -ēris	
+phalerae	# ~a	@  	# ~ōrum	@  	neut. pl.	
+Phariacus	# Far-
+phaseolus	# fas-,	@  	# -iolus
+phasiana	# ~us	@  	# ~ī	@  	m.	
+Philemo	# Philēmōn
+Philippensis	# -iensis
+Philippus1	# Fil-
+Philistion	# Philistiō
+Philo	# Philōn
+Philolaus	# -leōs
+philyra1	# philu-	
+Phineius	# Fin-
+phoca	# ~ē	@  	# ~ēs	
+Phoenice1	# ~a	@  	# ~ae
+Phorcus	# ~ys	@  	# ~yos
+Phraates	# Phrātēs
+phrygio	# fryg-	
+Phthia	# ~ē	@  	# ~ēs
+Phthioticus	# Pthīōticus
+phthiriasis	# pthīriāsis	
+phthisicus	# pthisicus	
+phthisis	# pthisis	
+Phthius	# Pthīus
+phthongus	# pthongus	
+2700
+phthorius	# pthorius	
+phu	# phūn	
+physicus1	# ~os	@  	# ~ē, ~on	
+pignero	# -orō	
+pigritia	# ~ēs	@  	# ~ēī	
+pigro	# ~or	@  	# ~ārī	
+Pimpleis	# Piplēis
+Pimpleus	# Pimplēius,	@  	# Piplēius,	@  	# Piplēus
+pinacotheca	# ~ē	@  	# ~ēs	
+pinoteres	# pīnothērās	
+pinso	# pinsō	@  	# ~āre, ~āuī, ~ātum	@ , 	# pīsō	
+pinus	# ~us	@  	# ~ī	
+pipulus	# ~um	@  	# ~ī	@  	neut.	
+Piraeus1	# Pīraee͡us	@  	m.	^ , 	# Pīraea	@  	# ~ōrum	@  	neut. pl.
+Pirene	# ~a	@  	# ~ae
+Pirithous	# Pērithous
+Pisa	# ~ae	@  	# ~ārum	@  	f. pl.
+piscinensis	# piscīniensis	
+pisculentus	# -olentus	
+pistillus	# ~um	@  	# ~i	@  	neut.	
+Pithecusa	# Pithēcūssa
+Pittheius	# -ēus
+planities	# ~a	@  	# ~ae	
+Plato	# ~n
+plaudo	# plōdō	
+plausor	# plōs-	
+plaustralis	# plost-	
+plaustrarius	# plos-	
+plaustrum	# plostrum	
+Plautius	# Plōt-
+plautus1	# plōt-	
+plebecula	# plēbic-	
+plebs	# ~ēbēs	@  	# ~ēbēī	@ , 	# ~eps	
+ploxenum	# -xin-	
+plurimum	# plūrum-	
+plurimus	# plūrum-	
+pluteus	# ~um	@  	# ~ī	@  	neut.	
+Poeas	# Poeans
+poetica	# ~ē	@  	# ~ēs	
+poeticus	# poeēticos	@  	# ~ē, ~on	
+Polemo	# ~n
+polliceor	# ~eō	@  	# ~ēre	
+pollinctor	# -ictor	
+pollio2	# polio	
+Polycliteus	# -ētēus,	@  	# -ētius
+Polyclitus	# -ētus
+Polymnestor	# Polymestōr
+Polyphemus	# ~os
+polythrix	# ~trichon	@  	# ~trichī	@  	neut.	
+Polyxena	# ~ē	@  	# ~ēs
+pomerium	# pōmoer-	
+Pompeii	# Pompēī
+pomum	# ~us	@  	# ~ī	@  	f.	
+pontifex	# pontufex	
+Popilius	# Popillius
+Poplifugia	# Populi-	
+poppysma	# poppysmus	@  	# ~ī	@  	m.	
+populneus	# -nus	
+Populonia1	# -ōna
+Populonia2	# ~ium	@  	# ~iī	@  	neut.
+populor	# ~ō	@  	# ~āre, ~āuī, ~ātum	
+populus1	# poplus	
+porcellus	# -illus	
+porcilaca	# -llāca
+porricio	# poriciō	
+porrigo1	# porgō	
+porrum	# porrus	@  	# ~ī	@  	m.	
+Porsenna	# Porsena,	@  	# Porsina
+porticula	# ~us	@  	# ~ī	@  	m.	
+posia	# pausia,	@  	# pōsea,	@  	# pausea,	@  	# pūsea	
+post1	# poste	
+postmeridianus	# posmerīdiānus	
+praecanto	# praecent-	
+praecerpo	# -arpō	@  	# ~ere	
+praefiscini	# -nē,	@  	# -fascinē	
+praegnas	# ~ns	@  	# ~ntis	
+praestigia	# -strīg-	
+praestigiator	# -strīg-	
+praestigiatrix	# -strīg-	
+praestolor	# ~ō	@  	# ~āre	
+praetoriolum	# ~us	@  	# ~ī	@  	m.	
+precarius	# -eus	
+precia	# pret-,	@  	# praec-	
+prehendo	# prendō	
+prelum	# praelum	
+Priene	# ~a	@  	# ~ae
+primipilaris	# prīmo-	
+pristis	# pistris		@  pistrix2.
+prober	# prob	
+Proca	# ~as
+procestria	# prōcastria	
+Prochyta	# ~ē	@  	# ~ēs
+procliui	# ~e	
+procliuis	# ~us	@  
+Procne	# Prognē
+proco	# ~or	@  	# ~āri	
+Proconnesius	# -ensius
+proelior	# ~ō	@  	# ~āre	
+profluuius	# prōfluius	
+promereo	# ~eor	@  	# ~ērī, ~itus	
+2800
+promiscue	# prōmiscē	
+promiscuus	# prōmiscus	
+promptarius	# promptuārius	
+promulsidare	# prōmulsidār	
+promunturium	# prōmuntorium,	@  	# prōmontorium	
+prooemior	# prohoemior	
+prooemium	# prohoemium,	@  	# prohēmium	
+proquam	# prō quam	
+prorsa1	# prōsa	
+prorsum	# prōsum	
+prorsus1	# prōsus	
+prorsus2	# prōsus	
+proscaenium	# -scēn-	
+prosicies	# ~ium	@  	# ~iī	@  	neut.	
+Psammetichus	# Psammēticus
+Ptolomaeum	# Ptolem-
+Ptolomaeus	# Ptolem-
+Ptolomais	# Ptolem-
+Publicola	# Popl-
+publicus1	# popl-	
+pueritia	# puertia	
+pugilatus	# pugillātus	
+pugillares	# ~ia	@  	# ~ium	@  	neut. pl.	
+pugillo	# ~or	@  	# ~ārī, ~ātus	
+pulcher1	# pulcer	@  	# ~cra, ~crum	
+Pulcher2	# Pulchra	@  	# ~chrae	@  	f.
+pulchritudo	# pulcr-	
+punicans	# poenicans	
+Punice	# Poenicē
+puniceus1	# poeniceus**		@  and see phoenīceus1.
+Puniceus2	# Poenicius
+Punicus	# Poenicus
+punitor	# poenītor	
+Pupinius	# Pōpinius
+purgo	# pūrigō	
+purpuriticus	# -ēticus	
+pusula	# pussula,	@  	# pustula	
+pusulatus	# pustulātus	
+pusulosus	# pustulōsus	
+putesco	# pūtiscō	
+puteus	# ~um	@  	# ~ī	@  	neut.	
+Pyracmon	# Pyragmōn
+Pyrrho	# ~n,	@  	# Pyrrō,	@  	# Pyrrōn
+Pyrrhoneus	# Pyrrōnēus,	@  	# ~īus
+pyrrhopoecilos	# pyrropoecilos	
+Pyrrhus	# Pyrrus
+Pythagoreus	# -īus
+Pytho	# Pȳthōn
+pyxidicula	# pux-	
+pyxis	# puxis	
+quacumque	# -cunque	
+quadragesimus	# -gens-	
+quadragiens	# ~iēs	
+quadriangulus	# quadran-	
+quadriduum	# quat-	
+quadrifinium	# ~ia	@  	# ~iae	@  	f.	
+quadriiugus	# ~is	@  	# ~is, ~e	
+quadrimestris	# quadrimenstris	
+quadringentesimus	# -tensimus	
+quadringenti	# quadrig-	
+quadringentiens	# quadringentiēs	
+quadripertito	# -partītō	
+quadripertitus	# quadru-	
+quadriuium	# quadru-	
+quadriuius	# quadru-	
+quadrupedans	# quadri-	
+quadrupedus	# quadri-	
+quadrupes	# quadri-	
+quadruplator	# quadri-	
+quadruplex	# quadri-	
+quadruplicato	# quadri-	
+qualibet	# ~lubet	
+qualiscumque	# -cunque	
+qualitercumque	# -cunq-	
+qualus	# ~um	@  	# ~ī	@  	neut.	
+quamde	# quande	
+quamquam	# quanquam	
+quandocumque	# -cunque	
+quantopere	# quantō opere	
+quantuscumque	# ~cunque	
+quare	# quā rē	
+quartadecimani	# -decumānī	
+quasillum	# ~us	@  	# ~ī	@  	m.	
+querela	# querella	
+querquerus	# quercerus	
+quicumque	# -cunque,	@  	# -quomque	
+quilibet1	# -lubet	
+quilibet2	# -lubet**		@ ; sometimes written as two words.
+Quinctius	# Quintius
+quindeciens	# -iēs	
+quingentiens	# -iēs	
+quinquagesimus	# -ensimus	
+quinquagiens	# ~ies	
+quinquatrus	# quinquātria	@  	neut. pl.	
+quinquemestris	# quinquemenstris	
+quinquertium	# quinquartium	
+quinquiens	# quinquiēs	
+quintadecimanus	# -decumānus	
+Quintilis	# Quinctīlis	
+quirito1	# ~or	@  	# ~ārī	
+2900
+quoqueuersus	# ~um**		@  and as two words.
+quoquouersus	# -uersum,	@  	# -uorsum**		@  and as two words.
+quotienscumque	# quotiēs-,	@  	# -cunque,	@  	# -quonque	
+radio	# ~or	@  	# ~ārī	
+ramex	# ~es	@  	# ~itis	
+Ramnes	# Rham-,	@  	# ~enses	@  	# ~ensium
+ratiaria	# -tāria	
+ratiarius2	# -tārius	
+raudus	# rōdus,	@  	# rūdus	
+Raudusculana	# Rūd-,	@  	# Rōd-
+raudusculum	# rūd-	
+recido1	# recc-	
+recino	# recanō	
+recolligo1	# reconl-	
+recompono	# recon-	
+recordor	# ~ō	@  	# ~āre, ~āuī	
+redamptruo	# -ant-	
+reduco	# redd-	
+reduuia	# rediuia	
+redux	# redd-	
+refercio	# refarciō	
+refragor	# ~ō	@  	# ~āre	
+refriuus	# referīuus	
+Regillum	# ~ī	@  	# ~ōrum	@  	m. pl.
+Reginus	# Rhēg-
+reglisco	# -glescō	
+reliquor	# ~ō	@  	# ~āre, ~āuī	@  	tr.	
+reluctor	# ~ō	@  	# ~āre	
+remuneror	# ~ō	@  	# ~āre	
+renes	# riēnēs	
+renuo	# rennuō	
+repositus	# repostus	
+reprehendo	# reprendō	
+reprehensio	# reprensiō	
+reseco	# resicō	
+resegmen	# resigmen	
+respergo	# respargō	
+reticulum	# ~us	@  	# ~ī	@  	m.	
+retroago	# retrō agō	
+retrocedo	# retrō cēdō	
+retrodo	# retrō dō	
+retroduco	# retrō dūcō	
+retroeo	# retrō eō	
+retrogradior	# retrō gradior	
+retrorsus2	# retrorsum	
+retrouersus	# ~um	
+reuersio	# reuorsiō	
+reuiuesco	# reuīuiscō	
+rhagadia	# rag-	
+Rhamnusius	# Ramn-
+Rhamses	# Rhamsēsis
+Rhea2	# Rēa
+Rhenus	# ~um	@  	# ~ī	@  	neut.	^ 
+Rhesus	# Rhessus
+rheumaticus	# reum-	
+rhinoceros	# rīn-
+Rhodanus	# Rodanus
+Rhodiensis	# Rod-
+rhododendron	# ~os	@  	# ~ī	@  	f.	
+Rhoetus	# Rhoecus
+rhonchus	# roncus	
+rhythmicus	# rythmicus	
+riciniatus	# rēc-	
+ricinium	# rēcinium	
+rictus	# rictum	@  	# ~ī	@  	neut.	
+rimor	# rīmō	@  	# ~āre	
+Ripaeus	# Rīphaeus,	@  	# Rhī-
+riuulus	# rīuolus	
+rixosus	# rixiōsus	
+robeus	# rōbius	@  	# ~ia, ~ium	@ , 	# rūbeus,	@  	# rūbius	
+robigo	# rūbīgō	
+roboreus	# rōbureus	
+rogus	# ~um	@  	# ~ī	@  	neut.	
+Romilius	# Rōmul-
+Rosalia	# Rosāria
+Rosea	# Rōsia
+rotunditas	# rutunditās	
+rotundo	# rutundō	
+rotundus	# rutundus	
+Rubico	# ~n
+ructo	# ~or	@  	# ~ārī	
+rumino	# ~or	@  	# ~ārī, ~ātus	
+rumis	# rūma	@  	# ~ae	@  	f.	
+ruro	# rūror	@  	# ~ārī	
+rursus	# rūs-,	@  	# russ-	
+ruscus	# ~um	@  	# ~ī	@  	neut.**		^  See also rustum.
+sabucus	# samb-	
+sabulum	# ~ō	@  	# ~ōnis	@  	m.	
+Sacae	# Sagae
+saccharon	# saccaron	
+sacoma	# ~a	@  	# ~ae	@  	f.	
+sacrifico	# ~or	@  	# ~ārī	
+saecularis	# saecl-	
+saeculum	# saeclum	
+saepes	# sēp-	
+saepicula	# sēp-	
+saepimen	# sēp-	
+saeptum	# sēp-	
+saeta	# sēta	
+saetiger	# sēt-	
+3000
+saetosus	# sēt-	
+sagum	# ~us	@  	# ~ī	@  	m.	
+Saguntum	# ~us	@  (	# ~os	@ ) 	# ~ī	@  	f.
+Salamis	# ~īn
+Salapia	# Salpia
+Salapinus	# Salpīnus
+Salentinus	# Sallentīnus
+salio3	# salliō	
+Salonae	# ~a	@  	# ~ae
+salpuga	# solipūg(n)a	
+salum	# ~us	@  	m.	
+samera	# sama-	
+Samothraca	# ~ē	@  	# ~ēs, ~ia, ~iae
+sampsa	# samsa	
+sampsuchum	# ~us	@  	# ~ī	@  	m.	^  	f.	^ , 	# samsūchum,	@  	# sampsūcum	
+Sancus	# Sangus
+sandaserion	# ~os	@  	# ~ī	@  	f.	^  var.
+sanguinolentus	# sanguinu-	
+sanguis	# ~en	@  	# ~inis	@  	neut.	
+sappirus	# sapph-	
+sapsa	# sumpse	@  	(accusative sg. m.) pron.	
+sarcophagus	# sarcof-	
+sarculum	# ~us	@  	# ~ī	@  	m.	
+Sardanapalus	# Sardanapallus
+sario	# sarr-	
+sarisa	# sarīssa	
+sarisophorus	# sarīssophorus	
+Sason	# ~is
+Sassinas	# Sars-
+satura	# satira	
+satyricus	# satur-	
+saxum	# ~us	@  	# ~ī	@  	m.	
+scabillum	# ~ellum	
+scabritia	# scabritiēs	@  	# ~ēī	
+Scadinauia	# Scatinauia
+scaena	# scēna	
+scaenicus	# scēnicus	
+scalpellum	# ~us	@  	# ~ī	@  	m.	
+scalprum	# scalper	@  	# ~prī	@  	m.	
+scamillum	# ~us	@  	# ~ī	@  	m.	
+scaphium	# scafium	
+scarabaeus	# -bēus	
+scariphatio	# scarīfātiō	
+scaripho	# scarīfō	
+scateo	# scatō	@  	# ~ere	
+scaturriginosus	# scatūrīg-	
+scaturrigo	# scatūrīgō	
+scaturrio	# scatūriō	
+schida	# scida	
+schoenus	# ~um	@  	# ~ī	@  	neut.	
+scirpea	# sirp-,	@  	# ~ia	
+scirpiculus1	# sirp-	
+sciscitor	# ~ō	@  	# ~āre	
+scratta	# scrapta,	@  	# scratia	
+scribilita	# scriblīta	
+scribilitarius	# scriblītārius	
+scriptor	# scribtor	
+scripulum	# scriptulum	
+scruppeda	# scruppida,	@  	# scrūpeda	
+sculponeae	# ~iae	@  	# ~iārum	
+scutum	# scūtus	@  	# ~ī	@  	m.	
+Scythice	# ~a	@  	# ~ae
+se2	# sēd	
+sebacium	# sēu-	
+sebum	# sēuum	
+secreto	# sēcrētē	
+securicula	# -cla	
+sed1	# set	
+sedecim	# sexd-	
+sedum	# sad-	
+segnitia	# ~ēs	@  	# ~ēī	
+Seleucia	# ~ēa
+seliquastrum	# sil-	
+Semele	# ~a	@  	# ~ae
+semestris	# sēmenstris	
+semianimis	# ~us	@  
+semiclausus	# -clūs-	
+semiermis	# ~us	@  
+seminex	# sēmin	
+Semiramis	# Sam-
+semisomnus	# ~is	@  	# ~is, ~e	
+semiustilo	# semustilō,	@  	# ~ulō	
+semiustus	# sēmustus	
+seorsum	# sorsum,	@  	# ~us	
+sepia	# saep-	
+Seplasia	# ~ae	@  	# ~ārum	@  	f. pl.	^ , 	# ~a	@  	# ~ōrum	@  	neut. pl.
+septemdecim	# -tend-	
+septentriones	# septemt-
+septiens	# ~iēs	
+septimus	# ~umus	
+septizonium	# -ōdium	
+septuagesimus	# -gens-	
+sepulcralis	# -chrālis	
+sepulcretum	# -chrētum	
+sepulcrum	# -chrum	
+sequester	# ~ter	@  	# ~tris, ~tre.
+sequius	# secius	
+Serapio	# Sar-
+Serapis	# Sar-
+sermonor	# ~ō	@  	# ~āre	
+3100
+serpullum	# -yl-,	@  	# -il-	
+serracum	# sarr-	
+sesama	# -sim-,	@  	# -sum-,	@  	# ~ē	@  	# ~ēs	
+sescenties	# sescentiēns,	@  	# sexcentiēns,	@  	# sexcentiēs	
+seselis	# ~i	@  	# ~is	@  	neut.	
+Sesostris	# Sesōsis	@  	# ~idis
+sesquiplex	# sescup-	
+sesquiplus	# sescup-	
+sexagesimus	# sexagēnsimus,	@  	# ~sumus	
+sexagiens	# sexāgiēs	
+sexiens	# sexies	
+sibilus1	# ~um	@  	# ~ī	@  	neut.	
+sicut	# sīcutī	
+sideritis	# ~ēs	@  	m.	
+Sigeum	# ~on
+Sigeus	# -ēius
+Silarus	# Silerus,	@  	# Siler
+silus	# ~ō	@  	# ~ōnis	
+simpuuium	# simpuium
+singillatim	# singulātim	
+sinistrorsum	# sinistrōsum,	@  	# ~ōrsus	
+Sinope	# ~a	@  	# ~ae
+Sinuessa	# Sinoessa
+sinum	# ~us	@  	# ~ī	@  	m.	
+siparum	# sīph-	
+sipho	# sīpō,	@  	# sīfō	
+siphonarius	# sīpōn-,	@  	# sīfōn-	
+siphunculus	# sīpunculus	
+siphus	# sīfus	
+Sipontinus	# Sīpunt-
+siremps	# sirempse	
+Sithonii	# Sītonī
+smilax	# mil-	
+smyrnium	# zm-,	@  	# -ion	
+socera	# socra	
+solacium	# sōlātium	
+solearius	# soliārius	
+soleatus	# soliātus	
+soliferreum	# solli-	
+sollemnis	# sōlemnis	
+sollers	# sōlers	
+sollertia	# sōlertia	
+somnio	# ~ior	@  	# ~ārī	
+somnolentus	# somnulentus	
+sonchus	# soncus,	@  	# ~os	
+sophistes	# ~a	@  	# ~ae	
+sophisticus	# ~os	@  	# ~ē, ~on	
+Soracte	# Saur-
+sorbum	# soruum	
+sorbus	# soruus	
+sorex	# saur-	
+sororio	# ~iō	@  	# ~īre	
+sortior	# ~iō	@  	# ~īre, ~iī or ~īuī, ~ītum	
+sospes	# sisp-	
+Sospita	# Sisp-
+Sparta	# ~ē	@  	# ~ēs
+sparus1	# ~um	@  	# ~ī	@  	neut.	
+specio	# spiciō	
+spectaculum	# -clum	
+specularius	# -ār(i)ārius	
+Spercheus	# ~os,	@  	# -īos
+sphaera	# spaera	
+sphaerita	# spaer-	
+sphondylus	# spon-	
+spica	# spīcum	@  	# ~ī	@  	neut.	^  and 	# spīcus	@  	# ~ī	@  	m.	
+spinturnix	# spintyrn-	
+spira	# spēra	
+spolio	# ~or	@  	# ~ārī	
+spongia	# ~ea	
+spongiosus	# sponge-	
+spurcitia	# ~ēs	@  	# ~ēī	
+stacta	# ~ē	@  	# ~ēs	
+Statoniensis	# -nensis
+statuliber	# ~era	@  	# ~erae	@  	f.	
+stela	# ~ē	@  	# ~ēs	
+stellio	# steliō	
+stephanites	# ~is	@  	# ~idis	@  	f.	
+sterculinum	# sterci-,	@  	# sterqui-,	@  	# -ium	
+stibi	# stibis	@ ?	f.	^ , 	# stibium	@  	# ~iī	@  	neut.	
+stigma	# ~a	@  	# ~ae	@  	f.	
+stillicidium	# stīli-	
+stlattarius	# stlātārius	
+storea	# storia	
+strebula	# stribula	
+strena	# strēnua	
+strido	# strīdeō	@  	# ~ēre	
+strufertarius	# struferctārius	
+struppus	# stroppus	
+strutheum	# strūtēum,	@  	# ~īum	
+styrax	# sturax	
+subaedanus	# -diānus	
+subarroganter	# subadr-	
+subassentior	# subads-	
+subcurator	# succ-	
+subices	# subii-	
+sublimis	# ~us	@  
+submano	# summ-	
+Submemmianus	# Summ-
+submergo	# summ-	
+subministro	# summ-	
+3200
+submisse	# summ-	@  	# ~ius.
+submissim	# summ-	
+submissus	# summ-	
+submitto	# summ-	
+submotus	# summ-	
+submoueo	# summ-	
+submurmuro	# summ-	
+submussus	# summ-	
+submuto	# summ-	
+subnixus	# subnīsus	
+suboleo	# ~ō	@  	# ~ere	
+suboles	# sob-	
+subpaenitet	# supp-	
+subpaetulus	# supp-	
+subpar	# supp-	
+subrepo	# surr-	
+subrepticius	# subruptīcius,	@  	# surr-	
+subreptio	# surr-	
+subrigo	# surr-	
+subripio	# surrip-,	@  	# surp-,	@  	# ~upiō	
+subscus	# sups-	
+subsellarius	# subselliārius	
+subsiciuus	# -sec-,	@  	# sup-	
+subsilio	# suss-,	@  	# sups-	
+subsulto	# suss-	
+subtemen	# subtegmen	
+subter1	# supter	
+subter2	# supter	
+subterduco	# supter-	
+subterfugio	# supter-	
+subtero	# supterō	
+subtilis	# suptīlīs	
+subtilitas	# supt-	
+subtiliter	# supt-	
+subtraho	# supt-	
+subtus	# suptus	
+subuerto	# subuortō	
+succenturio	# subc-	
+succerno	# subc-	
+succidaneus	# succēd-	
+succidia	# sucīdia	
+succido1	# subc-	
+succingulum	# subc-	
+succlamo	# subc-	
+succresco	# subc-	
+succubo1	# subc-	
+succumbo	# subc-	
+sucus	# succus	
+Suebus	# Suēuus
+sufferuefacio	# subf-	
+suffragor	# ~ō	@  	# ~āre, ~āuī	
+Sugamber	# Syg-,	@  	# Syc-,	@  	# Sig-,	@  	# Sic-
+suggillatio	# sūgill-,	@  	# subgill-	
+suggrunda	# subgr-,	@  	# sugr-	
+sulpur	# sulphur**	@  (sometimes written 	# sulfur	
+sulpuratus	# sulph-	
+sulpureus	# sulph-	
+supellectilarius	# supellecticārius	
+supellex	# supp-	
+superficies	# superficium	@  	# ~iī	@  	neut.	
+superimpono	# -inpōnō**		@  and as two words.
+superinungo	# superinunguō	
+supersedeo	# ~ideō	
+superuacaneus	# superuacuāneus	
+superungo	# superunguō	
+suppalpor	# subp-	
+suppateo	# subp-	
+suppingo	# subp-	
+suppudet	# subp-	
+supra1	# superā	
+supra2	# superā	
+Susa	# ~a	@  	# ~ae	@  	f.
+suscipio	# succipio	
+suspicio2	# suspītiō	
+suspicor	# ~ō	@  	# ~āre
+Symaethus	# ~um	@  	# ~ī	@  	neut.
+symbola	# ~ē	@  	# ~ēs	
+Synnada	# Synnas	@  	# ~ados	@  	f.
+syrma	# ~a	@  	# ~ae	@  	f.	
+tabernacularius	# tabernāclārius	
+tabulinum	# tablīnum	
+taeda	# tēd-	
+Taenarius	# -eus
+taenia	# taenea	
+taeter	# tēter	
+talassio	# thal-	
+Talassius	# Talassus,	@  	# Thal-
+Tamesis	# ~a	@  	# ~ae	@  	f.
+Taranucus	# Taranucnus
+Taras	# Tarāns
+Tarentum1	# ~us,	@  	# ~os	@  	f.
+Tarraco	# ~n
+Tartessiacus	# Tartēsiacus
+Tartessis	# Tartēsis
+Tartessius	# Tartēsius
+Tartessus	# Tartēsus,	@  	# ~os
+Tauromenium	# -num
+Taygete	# ~a	@  	# ~ae
+Taygetus	# ~a	@  	# ~ōrum	@  	neut. pl.
+techina	# techn-	
+3300
+tegimen	# tegum-,	@  	# tegm-	
+tegimentum	# tegum-,	@  	# tegm-	
+Telamon2	# Telamō
+Temese	# ~a	@  	# ~ae
+temperi	# temporī	
+tempto	# tent-	
+teneresco	# -ascō	
+tensa	# thensa	
+tensarium	# thēsārium	
+tensio	# tentiō	
+tensus	# tent-	
+Tentyra	# ~is	@  	f.
+Teretinus	# Tērentīnus
+tergeo	# tergō	@  	# ~gere	
+Tergeste	# ~um	@  	# ~ī
+terricula	# ~um	@  	# ~ī	@  	neut.	
+tessellarius	# tessalārius	
+tessello	# tesellō,	@  	# teselō,	@  	# tesselō	
+testu	# testum	@  	# ~ī	
+testudinatus	# testūdineātus	
+tetarte	# tetarton	@  	# ~ī	@  	neut.	
+tethea	# tētheon	@  	# ~ī	@  	neut.	
+tetradium	# tetradeum	@  	# ~eī	
+Teucer	# Teucrus
+Thamyras	# Thamyris
+Thebae	# Thēbē	@  	# ~ēs	@  	f.
+Theiodamas	# Thīo-,	@  	# Thēo-
+Thelis	# Telis
+Thera	# Thērē	@  	# ~ēs
+Therapnae	# ~ē	@  	# ~ēs	@  	f.
+thesaurarius	# thens-	
+thesaurus	# thensaurus	
+thetates	# tētates	
+thoracium	# tōrācium	
+Thracia	# Thraecia,	@  	# Thrēcia
+Thracius	# Thraecius,	@  	# Thrēcius
+Thracus	# Thraecus
+Thraecidicus	# Thrēc-	
+thrascias	# thrāciās	
+Thrax	# Trax	@ ; 	# T(h)raex	@  	# ~aecis	@ ; 	# T(h)rex	@  	# ~ēcis
+Thule	# T(h)ȳlē
+Thurii	# Thūrium	@  	# ~iī	@  	neut.	^ , 	# Thūriae	@  	# ~iārum	@  	f. pl.
+thya	# thyon	@  	# ~ī	@  	neut.	
+Thyias	# Thyas	
+Thynicus	# Tunnicus
+tiara	# ~ās	@  	# ~ae	@  	m.	
+Ticinus	# ~a	@  	# ~um	@  	adj.
+tigris1	# is	@  	# ~idis	
+tinea	# -ia	
+tineosus	# tini-	
+Tingis	# ~i,	@  	# ~ē
+tingo	# guō	@  	# ~guere	
+tintinnabulum	# tintinābulum	
+tintinno	# tintinō	@ ,	# ~iō, ~īre	
+Tiresias	# Tēr-
+tirunculus	# ~a	@  	# ~ae	@  	f.	
+tisana	# ptis-	
+Titan	# nus	@  	# ~nī
+Titaresos	# Titarēssos
+tithymalus	# ~um	@  (	# ~on	@ ) 	neut.	^ , 	# ~os,	@  	# -mallus	
+Titinius	# Titinnius
+Tolosanus	# Toloss-
+tolutaris	# ius	@  	# ~ia, ~ium	
+tomaculum	# -clum	
+Tomis2	# ~ī	@  (	# ~oe	@ ) 	# ~ōrum	@  	m. pl.
+tomix	# thōmix	
+Tomyris	# Tham-,	@  	# Tam-
+tonitrualis	# -trāl-	
+tonsilla	# tōsilla	
+tonsillae	# tōsillae	
+tonsor	# tōsor	
+tonstrina	# tostrīna	
+torris	# ~us	@  	# ~ī	
+totiens	# totiēs	
+trabecula	# -icula	
+Trachin	# Trēchīn
+tractum1	# ~a	@  	# ~ae	@  	f.	
+traduco	# transd-	
+tragacantha	# ~um	@  	# ~ī	@  	neut.	^ , 	# tracanta,	@  	# ~um	
+tragoriganum	# ~us	@  	# ~ī	@  	m.	
+transcribo	# transs-	
+transcripticius	# transs-	
+transcriptio	# transs-	
+transenna	# trās-	
+transero	# transs-	
+transfero	# trāf-, supine trāl-.
+transilio	# transs-	
+translaticius	# trāl-	
+translatio	# trāl-	
+translatiuus	# trāl-	
+translatus	# trāl-	
+transloquor	# trāl-	
+transluceo	# trāl-	
+translucidus	# trāl-	
+transmarinus	# trām-	
+transmeo	# trām-	
+transmigro	# trām-	
+transmitto	# trām-	
+transnato	# tranatō	
+transno	# trānō	
+3400
+transpectus1	# transs-	
+transpectus2	# tras-	
+transpicio	# transs-	
+transuectio	# trāu-	
+transueho	# trāu-	
+transuersarius	# trāu-	
+transuersum	# -uors-	
+transuersus	# trāu-	
+transuerto	# trāu-	
+transumptio	# transs-	
+trapetus	# ~um	@  	# ~ī	@  	neut.	^ , 	# ~es	@  	# ~um	@  	m. pl.	
+trecenties	# trecentiēns,	@  	# tric-	
+Treueri	# Trēuirī	@  and sg.
+Treuericus	# Treuir-
+trias	# tria	
+Triboci	# ~ēs
+tribolus	# tribul-	
+tribulum	# ~a	@  	# ~ae	@  	f.	
+tricesimus	# trīcēnsimus	
+trichila	# triclia,	@  	# triclea	
+triciens	# trīciēs	
+tricliniaris	# -nāris	
+trifinium	# ~ia	@  	# ~iae	@  	f.	
+trimestris	# trimenstris	
+trimetrus	# ~os	
+trincus	# trinquus	
+triorches	# ~is	@  	# ~is	@  	f.	
+tristimonia	# ~ium	@  	# ~iī	@  	neut.	
+tristitia	# ~ēs	@  	# ~ēī	
+tritauia	# triauia	
+triticeus	# -ius	
+triumphe	# triumpe	
+Troas	# Trōias
+Trogodytae	# Trōgl-
+Trogodyticus	# Trōgl-
+Trogodytis	# Trōgl-
+trulleus	# ~um,	@  	# trūleum	@  	# ~ī	@  	neut.	
+tubur	# tuber	@  	# ~eris	
+tuburchinabundus	# tuburcinābundus	
+tueor	# tuor	@  	# ~ī	
+tumultuor	# ~ō	@  	# ~āre	
+turarius	# thūr-	
+turinum	# thūrinum,	@  	# tīrinum	
+turturella	# turturilla	
+tutor2	# tūtō	@  	# ~āre	
+tympanum	# typanum	
+Tyrrhenicus	# Tyrrēnicus
+Tyrrhenus	# Tyrrēnus
+uacillo	# uaccillō	
+uaciuus	# uocīuus	
+uacuus	# uacuos	
+uadum	# uadus	@  	# ~ī	@  	m.	
+uagor1	# uagō	@  	# ~āre, ~āuī	
+ualetudo	# ualītūdō	
+ualles	# uallis	
+uallus2	# uallum	@  	# ~ī	@  	neut.	
+uas2	# uāsum	@  	# uāsi	@  	neut.	
+uecordia	# uae-	
+uecors	# uae-	
+uehemens	# uēm-	
+uehementer	# uēm-	
+ueia	# ueiāriī	@  	# ~ōrum	@  	m. pl.	^ , 	# ueiātūra	@  	# ~ae	@  	f.	
+uelifico	# ~or	@  	# ~ārī, ~ātus	@  	intr.	
+uelitor	# ~ō	@  	# ~āre	
+uelut	# uelutī	
+ueneror	# ~ō	@  	# ~āre	
+uennuculus	# uennunculus,	@  	# uēnūculus	
+uentrale	# ~is	@  	# ~is	@  	m.	^  (or 	f.	
+uentriculus	# uenterc-	
+uermino	# ~or	@  	# ~ārī	
+uerro	# uorrō	
+uersicapillus	# uors-	
+uersipellis	# uors-	
+uerso	# uorsō	
+uersoria	# uorsōria	
+uersura	# uorsūra	
+uersus1	# uorsus	
+uersus2	# uorsus,	@  	# uersum,	@  	# uorsum	
+uersutus	# uors-	
+uertex	# uortex	
+uerto	# uortō	
+uertragus	# uertrāha	@  	# ~ae	@  	f.	
+ueruex	# uerbex,	@  	# berbex	
+uesania	# uaes-	
+uesanus	# uaes-	
+uesper	# ~era	@  	# ~erae	@  	f.	
+ueto	# uotō	
+uetustesco	# -iscō	
+uicessis	# uīcēsis,	@  	# uīgēsis	
+uiciens	# uīciēs	
+uigiliarium	# uigilā-	
+uilica	# uill-	
+uilicatio	# uill-	
+uilico1	# ~or	@  	# ~ārī	@ , 	# uill-	
+uilico2	# uill-	
+uilicus	# uill-	
+uinaceus	# ~ius	
+uinculum	# uinclum	
+uinea	# uīnia	
+uineola	# uīniola	
+3500
+uinolentia	# uīnul-	
+uinolentus	# uīnul-	
+uiridiarium	# uiridārium	
+uiscum1	# uiscus	@  	# ~ī	@  	m.	
+uispillo	# uespillō	
+uitrearius	# uitri-	
+uiueradix	# uīui-	
+umbraculum	# -clum	
+umecto	# hūm-	
+umectus	# hūm-	
+umidus	# hūm-	
+umquam	# unq-	
+unaetuicesima	# ūnaetuīcēnsima,	@  	# ūnet-,	@  	# ūniet-	
+undecentesimus	# undēcentēnsimus	
+undecies	# undeciēns	
+undeuicesimus	# undēuīcēnsimus	
+unetuicesimani	# ūnae-,	@  	# -cēnsi-	
+ungo	# unguō	
+uniuersus	# -uors-	
+uniuira	# ~ia	
+uociferor	# ~ō	@  	# ~āre	
+uolucris	# ~cer	@  	# ~cris	@  	m.	
+urgeo	# urgueō	
+urinor	# ~ō	@  	# ~āre	
+uruca	# ūrīca,	@  	# ērūca	
+uruo	# urbō	
+uruum	# urbum	
+ustilis	# ost-	
+ustulo	# ustilō	
+usuarius	# ūsārius	
+usucapio2	# ūsūscapiō	
+usureceptio	# ūsūsreceptiō	
+ut	# utī	
+utcumque	# utcunque,	@  	# utquomque
+uterus	# uterum	@  	# ~ī	@  	neut.	
+utricularius	# utriclārius	
+utroqueuersum	# -uors-,	@  	# ~us	
+utrubique	# utrob-	
+uulgaris	# uolg-	
+uulgarius	# uolg-	
+uulgatus	# uolg-	
+uulgo1	# uolgō	
+uulgo2	# uolg-	
+uulgus	# uolg-	
+uulnerarius	# uoln-	
+uulneratio	# uoln-	
+uulnero	# uoln-	
+uulnus	# uoln-	
+uulpes	# uolp-	
+uulpinus	# uolp-	
+uultur1	# uolt-	
+uultus	# uolt-	
+uulua	# uolu-	
+uuluula	# uolu-	
+Uardaicus	# Bardaicus
+Uarus4	# ~um	@  	# ~ī	@  	neut.
+Ueiouis	# Vēdiouis	
+Uelia1	# ~ae	@  	# ~ārum	@  	f. pl.
+Uenedi	# Venet(h)ī
+Ueronensis	# Vērōniensis
+Uertumnus	# Vortumnus
+Uesuuius	# Vesuius,	@  	# Vesbius
+Ueturius	# Vetusius
+Ufens	# Ouf-
+Ufentinus	# Ouf-
+Uiriathinus	# Viriātīnus
+Uiriathus	# Viriātus
+Uiridomarus	# Virdomarus,	@  	# Virdu-
+Urania	# ~ē	@  	# ~ēs
+Xerxes	# Xers-
+xystus	# ~ um	@  	# ~ī	@  	neut.	
+zaeus	# zēus	
+Zalmoxis	# Zamolxis
+Zeno	# Zēnōn
+Zethus	# Zētos
+zingiberi	# zimpiberi	
+ab	# aps, af	
+Adramyttium	# ~ion, ~ēum, ~ēos 	(f.)
+absum	# aps-	
+as	# assis	
+abactiuus	# abactīus	
+abarceo	# -erc-	
+Abdera	# Abdēra ~ae 	f.	^ 
+Abellanus	# Auel-
+abiegnus	# -gne- 	@ or 	# -gni-, -gine-	
+abito	# ābaetō	
+ablaqueo	# -cuo	
+Abnoba	# Abnoua
+abominor	# abōminō	
+abscedo	# aps-	
+abscido	# aps-	
+abscondo	# aps-	
+absens	# aps-	
+absentia	# aps-	
+absoluo	# aps-	
+absonus	# aps-	
+absorbeo	# aps-	
+abstergeo	# aps-, ~gō ~gere	
+absterreo	# aps-	
+abstineo	# aps-	
+3600
+absto	# aps-	
+abstraho	# aps-	
+abstrudo	# aps-	
+abstrusus	# aps-	
+absumedo	# aps-	
+Absyrtis	# Apsyrtos
+Absyrtus	# Absyrtius
+Abydos	# ~um ~ī 	neut.
+accanto	# accentō	
+accedo	# ad-	
+acceleratio	# adc-	
+accelero	# adc-	
+accessio	# adc-	
+accessus	# adc-	
+Accius	# Att-
+acclamatio	# adc-	
+acclamo	# adc-	
+acclaro	# adc-	
+acclinis	# adc-	
+acclino	# adc-	
+accliuis	# ~us ~a, ~um	@ , 	# adc-	
+accliuitas	# adc-	
+accognosco	# adc-	
+accola	# adc-	
+accolo	# adc-	
+accommodatio	# adc-	
+accommodatus	# adc-	
+accommodo	# adc-	
+accommodus	# adc-	
+accredo	# adc-	
+accresco	# adc-	
+accretio	# adc-	
+accretus	# adc-	
+accubitio	# adc-	
+accubitus	# adc-	
+accubo	# adc-	
+accudo	# adc-	
+accumbo	# adc-	
+accumulatio	# adc-	
+accumulator	# adc-	
+accumulo	# adc-	
+accuratio	# adc-	
+accuratus	# adc-	
+accuro	# adc-	
+accurro	# adc-	
+accursus	# adc-	
+acharna	# acarna, ~ē	
+Achelous	# ~os
+Acheruns	# Acch-
+Acherunticus	# Acch-
+Acherusius	# Acch-
+achetas	# ācheta	
+Achillea
+Achilles	# ~eus
+acinus	# ~um ~ī 	$@ neut	
+acnua	# agn-	
+acquiesco	# adq-	
+acquiro	# adq-	
+acquisitio	# adq-	
+acquisitrix	# adq-	
+acquisitus	# adq-	
+Acragantinus	# Agr-
+Acragas	# Agr-
+acrolithos	# ~us ~a, ~um	
+adbibo	# abb-	
+addictus2	# addicta ~ae 	$@ f	
+adeps	# adips	
+adesurio	# adēssuriō	
+Adiabenicus	# Azabenicus
+adiicio	# adiciō	
+adiuto	# ~or ~ārī	
+adminiculum	# amm-	
+administer	# amm-	
+administro	# amm-	
+admiror	# amm-	
+admoneo	# amm-	
+admoueo	# amm-	
+admurmuro	# ~or ~ārī	
+adnato	# ann-	
+adnitor	# ann-	
+adno	# ann-	
+adnumero	# ann-	
+adnuntio	# ann-	
+adnuo	# ann-	
+adolesco2	# adul-	
+Adonis	# Adōn ~is 	m.
+adoptiuus	# ~os	
+adoreum	# ~ium	
+adoria	# ~ea	
+adorior	# ~iō ~īre	
+Adramyttenus	# Adramytēnus
+adsum	# assum	@  	# affui 	intr.	
+adueho	# aru-	
+adueneror	# ~o	@  	# ~āre	
+aduersabilis	# aduors-	
+aduersarius1	# aduors-	
+aduersarius2	# aduors-	
+aduersatrix	# aduors-	
+aduersitor	# aduors-	
+aduerso	# aduors-	
+3700
+aduersor	# aduors-	
+aduersum1	# aduors-	
+aduersus1	# aduorsus	
+aduersus2	# aduorsus	
+aduerto	# aduor-	
+adulescens2	# adol-	
+adulescentia	# adol-	
+Aeacus	# ~os
+Aeaea	# ~ē
+aedificiolum	# ēd-	
+aedilicius2	# ēd-	
+aedilis	# ēd-	
+aeditumus	# -tim-	
+aedon	# aēdō	
+Aedui	# Haed-
+Aeeta	# Aeētēs, Aeētās
+Aefulanus	# Aefl-
+Aegae	# -gaeae, -geae	@ , and 	# -giae
+Aegaeus	# Aegēus	@  and 	# Ēgēus
+Aegimurus	# -moeroe 	pl.
+Aegium	# -ion
+Aegoceros	# -ceros ~ī	
+Aemilianus	# Aim-
+Aemilius	# Aim-
+aemulor	# aemulō	
+aeneator	# aēnātor, aēniātor	
+aeneum	# ahēn-	
+aeneus	# ahēn-	
+Aeolis2	# ~ēs
+Aequimaelium	# Aequimelium
+aequiperabilis	# ~parābilis	
+aequipero	# -parō	
+aequus	# aecus
+aerius	# ~eus	
+Aerope	# Āeropa ~ae
+aesculetum	# esc-	
+aesculus	# esc-	
+aestimatio	# aestu-	
+aestimo	# -tum-	
+aetas	# aeuitās	
+aeternus	# aeuiternus	
+aetherius	# ~eus	
+Aetna	# ~ē ~ēs
+aetoma
+aeuum	# ~us	
+affaber	# adf-	
+affabilis	# adf-	
+affabilitas	# adf-	
+affamen	# adf-	
+affatus	# adf-	
+affectatio	# adf-	
+affectator	# adf-	
+affectio	# adf-	
+affecto	# adf-	
+affectus1	# adf-	
+affectus2	# adf-	
+affero	# adf-	
+afficio	# adf-	
+afficticius	# adf-	
+affigo	# adf-	
+affiguro	# adf-	
+affingo	# adf-	
+affinis1	# adf-	
+affinis2	# adf-	
+affinitas	# adf-	
+affirmatio	# adf-	
+affirmator	# adf-	
+affirmo	# adf-	
+affixa	# adf-	
+afflatus	# adf-	
+afflecto	# adf-	
+affleo	# adf-	
+afflexus	# adf-	
+afflictatio	# adf-	
+afflicto	# adf-	
+afflictor	# adf-	
+afflictrix	# adf-	
+afflictus1	# adf-	@  	# ~ior.
+afflictus2	# adf-	
+affligo	# adf-	
+afflo	# adf-	
+affluens	# adf-	
+affluentia	# adf-	
+affluo	# adf-	
+affodio	# adf-	
+affor	# adf-	
+afformido	# adf-	
+affrango	# adf-	
+affremo	# adf-	
+affrico	# adf-	
+affrictus	# adf-	
+affrio	# adf-	
+affulgeo	# adf-	
+affundo	# adf-	
+afluo	# abf-	
+Agamemnon	# Agamemnō
+aggemo	# adg-	
+aggero1	# adg-	
+aggestus	# adg-	
+agglomero	# adg-	
+3800
+agglutino	# adg-	
+aggrauesco	# adg-	
+aggrauo	# adg-	
+aggredior	# adg-	
+aggrego	# adg-	
+aggressio	# adg-	
+aggressor	# adg-	
+aggressura	# adg-	
+aggressus	# adg-	
+agguberno	# adg-	
+agnascor	# adn-, adgn-	
+agnata	# adgn-	
+agnatio	# adgn-	
+agnatum	# adgn-	
+agnatus1	# adgn-	
+agnitus	# adgn-	
+agnomen	# adgn-	
+agnomentum	# adgn-
+agnosco	# ad(g)n-	
+Agrigentini	# Agragant-
+Agrippa	# ~as	@  nominative sg.
+agrius	# agrios	
+Alabanda	# Alabanda ~ae 	f.
+alabaster	# alabastrum ~ī 	$@ neut	
+alabetes	# alabēt	
+Albensis	# Albesis
+albico	# ~or ~ārī	
+Alcmena	# ~ē ~es	@  	f.
+alcyon	# halcyōn	
+Alcyone1	# Halcyonē
+alcyoneum	# ~īum	
+alec	# allec	@ , 	# halec, hallec, ~ex ~ēcis 	$@ f	
+Alexandrea	# Alexandrīa ~īae
+alica	# hal-	
+alicarius1	# hal-	
+alicarius2	# hal-	
+alicastrum	# hal-	
+alimentarius1	# alum-	
+alimentum	# alum-	
+alium	# all-	
+allabor	# adl-	
+allaboro	# adl-	
+allacrimo	# adl-	
+allambo	# adl-	
+allapsus	# adl-	
+allatro	# adl-	
+allaudabilis	# adl-	
+allaudo	# adl-	
+allauo	# adl-	
+allectatio	# adl-	
+allecto1	# adl-	
+Allecto2	# Ālectō
+allector	# adl-	
+allegatio	# adl-	
+allegatus	# adl-	
+allego1	# adl-	
+allego2	# adl-	
+alleuamentum	# adl-	
+alleuatio	# adl-	
+alleuo1	# adl-	
+alleuo2	# adl-	
+allicefacio	# adl-	
+allicio	# adl-	
+allido	# adl-	
+alligatio	# adl-	
+alligator	# adl-	
+alligatura	# adl-	
+alligo	# adl-	
+allino	# adl-	
+alliuesco	# adl-	
+allocutio	# adl-	
+alloquium	# adl-	
+alloquor	# adl-	
+allubentia	# adl-	
+allubesco	# allib-, adl-	
+alluceo	# adl-	
+alluctor	# adl-	
+alludio	# adl-	
+alludo	# adl-	
+alluo	# adl-	
+alluuies	# adl-	
+alluuio	# adl-	
+Alpheus1	# ~ēos, ~īus
+altercor	# altercō ~āre	
+alteruter	# alter uter	
+alucinatio	# hāl-	
+alucinor	# hāl-	
+Amalthea	# ~aea
+Amaltheum	# ~īum
+amando	# āmendo	
+amaracus	# ~um ~ī 	$@ neut	
+ambrosius	# -eus	
+ambubaia2	# -bēia	@  	f.	
+amethystus	# -os	
+amia	# amiās 	$@ m	
+Aminaeus	# Amīnēus, Aminnēus, Aminnius, Ammīnēus
+ammento	# āmentō	
+ammentum	# āmentum	
+ammonitrum	# hammonitrum	
+amnensis	# amnēsis	
+3900
+amomum	# amōmon	
+amphimallum	# -ium	
+Amphion	# Amphīō
+amphitapos	# amphitapa ~ae 	$@ f	
+Amphitryon	# -truō
+amplector	# -ctō	
+amplexor	# amplexō ~āre	
+Ampsanctus	# Amsanctus
+amptruo	# amt-, ant-	
+amuletum	# amolētum	
+amurca	# amurga	
+amussium	# amusium	
+amygdala	# ~ē	
+amylum	# amilum, amulum, amylon	
+Amynclae	# Amycl-
+Amynclanus	# Amunc-
+Anacreontius	# ~os, -ēus
+Anactorius	# ~cus
+analectris	# anale(m)ptris	
+anapauomenos	# ~ē ~ēs 	$@ f	
+Anapus	# ~is
+anaticula	# anet-	
+anatinus	# anet-	
+Anaximander	# ~drus
+Anchises	# Ancīsēs 	@ and 	# Anchīsa
+Ancona	# Ancōn ~ōnis
+ancora	# anchora	
+anculus
+Andecaui	# Andēs, Andī
+Androgeos	# ~ōn ~ōnos	@ , 	# ~us ~ī
+anesum	# anīsum	
+anethum	# anētum	
+anfractus2	# amf-	
+angiportum	# ~us ~ūs 	$@ m	
+angularius	# angol-	
+angulatus	# angl-	
+Aniensis	# Aniēsis
+animaduerto	# animum	@  (or 	# animos	@ ) 	# aduertō, -uortō
+Anio	# ~ēn ~ēnis
+anisocycla	# ~ī 	$@ m.
+anniculus	# -uculus	
+antecessus	# anti-	
+anteeo	# antideō	
+antelucanus	# antil-	
+antemna	# antenna ~ae	
+Antemnae
+antepartum	# -pertum	
+antesto	# anti-	
+anteuerto	# ~or ~ī	@  (deponent), 	# -uort-	
+anthyllium	# ~ion	
+antichthones	# -ctho-, -cto-	
+Anticlea	# -īa
+antidotum	# ~os ~ī 	f.	^ , 	# ~us ~ī 	$@ f	
+Antigona	# ~ē ~ēs 	f.	^ 
+Antiochensis1	# -ēsis, -iensis
+Antiochia
+Antiochius	# ~ēus
+Antiopa	# ~ē ~ēs	@  	f.
+Antiphon	# Antiphō
+antiqui	# -īcī	
+antiquus	# antīcus, -cuus	
+antirrinum	# antirrhīnon	
+apalus	# hap-	
+Apelles	# ~ēs ~ētis	@ , 
+Apenninicola	# App-	
+Apenninigena	# App-	
+Apenninus1	# App-
+Apenninus2	# App-
+apheliotes	# apēliōtēs	
+Aphidnae
+aphractus	# ~um ~ī 	$@ neut	
+aphthae	# apthae	
+apluda	# app-, adp-	
+aplustre	# aplustrum ~ī	
+apochatus	# apoca-	
+apodyterium	# ~ion	
+apparatio	# adp-	
+apparator	# adp-	
+apparatorium	# adp-	
+apparatus1	# adp-	
+apparatus2	# adp-	
+apparens	# adp-	
+appareo	# adp-	
+appario	# adp-	
+apparitio	# adp-	
+apparo	# adp-	
+appello1	# adp-	
+appello2	# adp-	
+appendo	# adp-	
+appetens	# adp-	
+appetentia	# adp-	
+appetibilis	# adp-	
+appetisso	# adp-	
+appetitio	# adp-	
+appetitus	# adp-	
+appeto1	# adp-	
+appiciscor	# adp-	
+appingo	# adp-	
+applaudo	# adp-, applōdō	
+applausus	# adp-	
+4000
+applicatio	# adp-	
+applicatus	# adp-	
+applicitus	# adp-	
+applico	# adp-	
+apploro	# adp-	
+applumbator	# adp-	
+applumbo	# adp-	
+appono	# adp-	
+apporrectus	# adp-	
+apportatio	# adp-	
+apporto	# adp-	
+appositus2	# adp-	@  	f.	
+appotus	# adp-	
+apprecor	# adp-	
+apprehendo	# adp-** 	@ contracted 	# apprendō	
+apprenso	# adp-	
+apprimo	# adp-	
+apprimus	# adp-	
+approbatio	# adp-	
+approbator	# adp-	
+approbo	# adp-	
+approbus	# adp-	
+appromissor	# adp-	
+appromitto	# adp-	
+approno	# adp-	
+appropero	# adp-	
+appropinquatio	# adp-	
+appropinquo	# adp-	
+appugno	# adp-	
+appulsus	# adp-	
+apricula	# apriculus ~ī 	$@ m	
+aprugnus	# aprūnus	
+apsinthites	# abs-	
+apsinthium	# abs-	
+apsinthius	# abs-
+apsis	# abs-, haps-	
+Apuleius	# Appulēius
+Apulia	# App-
+Apulus	# App-
+apyrenus	# apȳrinus	
+aquarius2	# acu-	
+aquifolia	# aquifolium ~ī 	$@ neut	
+Aquinius	# Aquīnus ~ī
+aquola	# acula, aquu-	
+Arar	# Araris
+arbitrium	# arbiterium	
+arboreus	# -ius	
+Arcesilas	# Arcesilāus
+arcessitor	# accers-	
+arcessitus1	# accers-	
+arcesso	# accersō	
+archetypum	# ~on	
+archium	# archīuum	
+arcipotens	# arqui-	
+arcitenens	# arqui-	
+Arctos	# ~us	
+arcuatura	# arqu-	
+arcuatus1	# arqu-	
+arcus	# arquus	
+Areopagites	# Arīo-	
+Areus	# Arīus	
+argemonia	# argi-	
+argenteolus	# -iolus	
+Argeus	# ~eius ~īus	
+Argi	# Argos	@  	$ neut.
+Argia	# ~ā
+Argiletum	# Argī lētum
+Arginusae	# Arginūssae
+argutiae	# argūtia	@  	# ~ae	
+Ariadna	# ~ē ~ēs
+Ariadnaeus	# -nēus
+Ariane
+aridus	# ardus	
+Arimaspi	# ~oe
+Ariminensis	# Arīminiensis
+Aristarchei	# ~īī
+Aristo	# ~on
+aristolochia	# aristolocia	
+Aristotelius	# -ēus
+arithmetica	# ~ē ~ēs	
+armamenta	# ~um	
+Armenia	# Arminia
+Arminius	# Armenius
+arquatus	# arcu-	
+arrepo	# adr-	
+arrhenicum	# arre-		@ , arsenicon.
+arrideo	# adr-	
+arrigo1	# adr-	
+arripio	# adr-	
+arrisio	# adr-	
+arrisor	# adr-	
+arrodo	# adr-	
+arrogans	# adr-	
+arroganter	# adr-	
+arrogantia	# adr-	
+arrogatio	# adr-	
+arrogator	# adr-	
+arrogo	# adr-	
+arrosor	# adr-	
+arruo	# adr-	
+4100
+Arsinoe	# ~a	@  	# ~ae
+arte	# arctē	
+artifex1	# artufex	
+arto	# arct-	
+arum	# ~on, har-	
+arytaena	# arutaena, artaena	
+ascendo	# adsc-	
+ascensus	# ads-	
+ascia	# ascea	
+ascio2	# ads-	
+ascisco	# ads-	
+ascribo	# ads-	
+ascripticius	# ads-	
+ascriptio	# ads-	
+ascriptiuus	# ads-	
+ascriptor	# ads-	
+Asculum	# Asclum
+Asiagenus	# Asiāgenēs	@  	# ~is
+aspectus	# ads-	
+Aspendius	# ~os ~os, ~on
+aspergo1	# aspargō, ads-	
+aspergo2	# aspargō, ads-	
+asphodelus	# ~um ~ī 	$@ neut	
+aspicio	# ads-	
+aspiramen	# ads-	
+aspiratio	# ads-	
+asplenos	# ~on ~ī 	$@ neut	
+aspuo	# ads-	
+assectatio	# ads-	
+assectator	# ads-	
+assector	# ads-	
+assecula	# ads-, assecla	
+assensio	# ads-	
+assensor	# ads-	
+assensus	# ads-	
+assentatio	# ads-	
+assentatiuncula	# ads-	
+assentator	# ads-	
+assentio	# ads-	
+assentior	# ads-	
+assentor	# ads-	
+assequor	# ads-	
+asserculus	# ~um ~ī	@  	$ neut	
+assero1	# ads-	
+assero2	# ads-	
+assertio	# ads-	
+assertor	# ads-	
+asseruio	# ads-	
+asseruo	# ads-	
+assessio	# ads-	
+assessor	# ads-	
+assessorium	# ~ia ~iōrum 	$@ neut.
+assessura	# ads-	
+assestrix	# ads-	
+asseueranter	# ads-	
+asseueratio	# ads-	
+asseuero	# ads-	
+assibilo	# ads-	
+assiccesco	# ads-	
+assicco	# ads-	
+assideo	# ads-	
+assido	# ads-	
+assidue	# ads-	
+assiduitas	# ads-	
+assiduus	# ads-	
+assignatio	# ads-	
+assignator	# ads-	
+assignifico	# ads-	
+assigno	# ads-	
+assilio	# ads-	
+assimilis	# ads-	
+assimulatio	# ads-	
+assimulo	# assimilō, ads-	
+assipio	# ads-	@  	verb	
+assisto	# ads-	
+assitus2	# ads-	
+associo	# ads-	
+assoleo	# ads-	
+assono	# ads-	
+assubrigo	# ads-	
+assuefacio	# ads-	
+assuesco	# ads-	
+assuetudo	# ads-	
+assuetus	# ads-	
+assugo	# ads-	
+assulto	# ads-	
+assultus	# ads-	
+assumo	# ads-	
+assumptio	# ads-	
+assumptiuus	# ads-	
+assuo	# ads-	
+assurgo	# ads-	
+assuscipio	# ads-	
+assuspiro	# ads-	
+astator	# ads-	
+Asteria2	# Asteriē ~ēs
+asterno	# ads-	
+astipulatio	# ads-	
+astipulator	# ads-	
+astipulatus	# ads-	
+4200
+astipulor	# ads-	
+astituo	# ads-	
+asto	# ads-	
+astragalus	# ~um ~ī 	$@ neut	
+astrepo	# ads-	
+astricte	# ads-	
+astrictio	# ads-	
+astrictorius	# ads-	
+astrictus	# ads-	
+astrido	# astrīdeō, ads-	
+astringo	# ads-	
+astruo	# ads-	
+astupeo	# ads-	
+Astur	# ~yr
+Atalanta	# ~ē ~ēs
+Atalantaeus	# -ēus
+atauus	# ~os	
+Athena	# ~āna	@  (	# Petr.
+Atheos	# ~us	
+Athesis	# Atesis
+Atlanticus	# Athl-
+Atlas	# Atlāns
+atomus1	# ~os	
+Atrides	# ~a
+attactus	# adt-	
+attagen	# attagēna ~ae 	$@ f	
+attempero	# adt-	
+attempto	# adt-, attento	
+attendo	# adt-	
+attente	# adt-	
+attentus	# adt-	
+attenuatio	# adt-	
+attenuo	# adt-	
+attero	# adt-	
+attestatio	# adt-	
+attestatus	# adt-	
+attestor	# adt-	
+attexo	# adt-	
+attibernalis	# adt-	
+Attica1	# Atticē ~ēs
+Atticus1	# ~os ~ē, ~on
+attineo	# adt-	
+attingo1	# adt-	
+attollo	# adt-	
+attondeo	# adt-	
+attonitus	# adt-	
+attono	# adt-	
+attorqueo	# adt-	
+attractus	# adt-	
+attraho	# adt-	
+attrectatio	# adt-	
+attrecto	# adt-, attracto	
+attremo	# adt-	
+attrepido	# adt-	
+attribuo	# adt-	
+attributio	# adt-	
+attritus1	# adt-	
+attritus2	# adt-	
+attumulo	# adt-	
+attuor	# adt-	
+aucupor	# aucupō	
+audacter	# audāciter	
+Auentinus1	# Auentīnum 	neut.
+auerro	# āuorrō	
+auersor1	# auorsor	
+auersus	# āuorsus	
+auerto	# āuortō	
+auguro	# ~or ~ārī, ~ātus	
+aulicoctus	# ~cius, ~quis	
+auresco	# ōr-	
+auricula	# ōr-	
+auricularius	# ōr-	
+aurifex	# aurufex	
+aurificina	# aure-	
+auriga	# ōr-	
+aurigo	# ~or ~ārī	
+auspicor	# ~ō ~āre, ~āuī, ~ātum	
+austerus	# austēr ~ēre	
+autopyrus	# ~os	
+autumnalis	# autumnal	
+autumnitas	# auct-	
+autumnus1	# ~um 	neut.	^ , 	# auct-	
+auulsio	# āuolsiō	
+auunculus	# aunc-, auonc-	
+auxilior	# ~ō ~āre	
+Axenus	# Axīnus
+axis2	# assis	
+adamas	# ~ans	
+Bedriacus	# Bebr-
+blendium	# blendius	@  	# ~(i)ī	@  	m.	
+collacero	# conl-	
+iambus	# ~os	
+Iapydes	# Ĭāpu-
+Iapydia	# Ĭāpu-
+Iarbas	# Ĭarba
+Iason	# Ĭāsō
+Iazyges	# Ĭāzu-
+ibi	# ibei		@  (usu.
+Ionicus	# ~os	@  	# ~ē, ~on
+irraucesco	# inr-	
+4300
+Laertius	# Lartius
+Mamurius	# Māmurrius
+occuro	# obc-	
+Phaethon	# Phaĕtōn
+Phaethontiades	# Phaĕtontiades
+Pleias	# Plīas,	@  	# Plēas
+siquidem	# sī quidem	
+Solitannus	# Solitānus
+thiaso	# tiasō	
+elleborum	# ~us	@  	# ~ī	@  	m.	
+sagapenum	# sacopēnium	@  	# ~(i)ī	@  	neut.	
+catafractes	# cataph-	
+Cyrenae	# ~ē	@  	# ~ēs	@  	f.
+Lilybaeum	# ~a	@  	# ~ōrum	@  	neut. pl.
+spondeus	# ~īus	@  	# ~īos	
+gobius	# gōbiō,	@  	# cōbiō	@  	# ~iōnis	
+gorytos	# cōrȳtos	
+Gyaros	# ~a	@  	# ~ae	@  	f.	^ , 	# ~a	@  	# ~ōrum	@  	neut. pl.
+octogesimus	# octāg-	
+Ophiuchus	# Ophiūcus	
+Hypermestra	# ~ē	@  	# ~ēs
+peiurus	# periūrus	
+Pelorus	# ~um	@  	# ~ī	@  	neut.
+Olearos	# Ōliaros
+digamma	# ~os,	@  	# ~us	@  	f.	
+culullus	# ~a	@  	# ~ae	@  	f.	
+silphium	# silpium	
+Caphereus2	# Caphār-
+cyperos	# ~um,	@  	# ~on	@  	# ~ī	@  	neut.	
+Proconnesos	# -ensus
+trochlea	# trochilēa,	@  	# troclea	
+fringilla	# fringillus	@  	# ~ī	@  	m.	
+solistimus	# soll-	
+Gnosos	# Cnōsos,	@  	# Gnossos
+orchites	# orchītis,	@  	# orcītis	@  	# ~is	@  	f.	
+Rhodus	# Rod-
+Maenalus	# ~a	@  	# ~ōrum	@  	neut. pl.
+Scylaceum	# -ll-
+introuorsus	# intrō uorsus
+psyllion	# ~eum	@  	# ~eī	
+Uologesus	# ~ēs	@  	# ~is
+obstipesco	# ops-	
+olla	# aul(l)a	
+caepa	# caepe,	@  	# cepe	@  	neut.	
+praeuerto	# ~tor	@  	# ~tī, ~sum	
+Colminius	# Culm-
+supplosio	# -plūsiō	
+Mettius	# Mettus	@  	# ~ī
+Hippodamia	# ~ē	@  	# ~ēs
+Tarracinenses	# -iensēs
+sursum	# sursus,	@  	# sūsus	
+punio	# pūnior,	@  	# poenior	@  	# ~īrī, ~ītus	
+oestrus	# ~um	@  	# ~ī	@  	neut.	
+praesepe	# ~ēs	@  	# ~is	@  	f.	
+Syrus2	# ~a	@  	# ~ae	@  	f.	^ 
+Tarracina	# ~ae	@  	# ~ārum	@  	f. pl.
+iniquus	# inīcus	
+eryngion	# ērung-	
+sinapi	# sināpis	@  	# ~is	@  	f.	
+schola	# ~ē	@  	# ~ēs	
+collinio	# conl-	
+psilothrum	# psīlōtrum	
+melothrum	# mēlōtrum	
+sauior	# ~ō	@  	# ~āre, ~āuī, ~atum	
+Regium	# Rhēg-
+synhodus	# synod-	
+Rhodius	# Rod-
+Cyzicus	# Cyzicum	@  	# ~ī	@  	neut.
+Orchomenos	# ~on	@  (	# ~um	@ ) 	# ~ī	@  	neut.
+trychnum	# ~os	@  	# ~ī	@  	f.	
+Tmolus	# Timōlus
+dictamnus	# ~um	@  	# ~ī	@  	neut.	
+Stymphalus	# ~um	@  	# ~ī	@  	neut.
+elephantus	# elephā(n)s	@  	# ~ntis	
+coquus	# cocus	@  	# ~cī	
+marathrum	# ~(r)us	@  	# ~ī	@  	m.	
+Hermioneus	# ~ius
+peiurium	# periūr-	
+pyrricha	# ~ē	@  	# ~ēs	
+Didymaeum	# Didymeum
+episcaenus	# -scēn-	
+impubes	# inp-	
+forctis	# ~us	@  
+Thrace	# Thrēcē
+beryllus	# bērul-	
+Pteleum	# ~os	@  	# ~ī	@  	f.
+glaucium	# ~ēum	@  	# ~ēī	
+Teutatis	# Toutātis
+crystallum	# ~us	@  (	# ~os	@ ) 	# ~ī	@  	f.	
+scamonia	# scamm-,	@  	# scamōnium	@  	# ~iī	@  	neut.	
+Pheneus	# ~on	@  	# ~ī	@  	neut.
+tritauus	# triauus	
+Cnidos	# Gn-
+suggillo	# sūgillō	
+clatri	# ~a	@  	# ~ōrum	@  	neut. pl.	
+Tarentum2	# ~os	@  	# ~ī	@  	m.
+setanius	# sīt-	
+percontor	# ~ō	@  	# ~āre, ~āuī, ~ātum	
+coniunx	# coniux
+Pergamum2	# ~os	@  	# ~ī	@  	f.
+4400
+tapete	# tapēs	@  	m.	
+melanthium	# melantium	
+Taenarus	# ~a	@  	neut. pl.
+retusus	# retunsus	
+chirographum	# ~us	@  	# ~ī	@  	m.	
+rhythmus	# rythmus	
+quorsum	# quorsus	
+pilleus	# ~um	@  	# ~ī	@  	neut.	
+stacton	# ~us	@  	# ~ī	@  	m.	
+zophorus	# ~um	@  	# ~ī	@  	neut.	
+Cherronesus	# -nessus,	@  	# -nensus
+colostra	# ~um	@  	# ~ī	@  	neut.	
+cuias	# cūiātis,	@  	# quōiātis	
+Panhormus	# ~um	@  	# ~i	@  	neut.	^ , 	# Panorm-
+grabatus	# crab-	
+smaragdus	# zmaragd-	
+cynorrhodon	# ~a	@  	# ~ae	@  	f.	
+Odyssea	# Odiss-
+unanimus	# ~is	@  	# ~is, ~e	
+Tegea	# ē	@  	# ~ēs
+miliens	# mill-	
+schema	# ~a	@  	# ~ae	@  	f.	
+Olisipo	# Vlis-
+Peloponnesus	# -ensus
+sphondylion	# spon-	

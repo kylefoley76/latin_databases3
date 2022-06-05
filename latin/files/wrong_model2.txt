@@ -1,0 +1,39 @@
+! if it the word does not start with / then it belongs to the 'sono' model
+/circumdō	circumded	circumdat	circumdaātūra	circumdaātūrā	circumdaātā	circumdaāta	circumdanda	circumdandā
+concrepō	concrepu	concrepit	concrepiātūra	concrepiātūrā	concrepiātā	concrepiāta	concrepandā	concrepanda
+cōnsonō	cōnsonu	cōnsonīt	cōnsonīātūrā	cōnsonīātūra	cōnsonīātā	cōnsonīāta	cōnsonanda	cōnsonandā
+crepō	crepu	crepit	crepiātūra	crepiātūrā	crepiātā	crepiāta	crepandā	crepanda
+cubō	cubu	cubit	cubiātūrā	cubiātūra	cubiāta	cubiātā	cubanda	cubandā
+dēcumbo	dēcubu	dēcubit	dēcubiātūrā	dēcubiātūra	dēcubiāta	dēcubiātā	dēcumbanda	dēcumbandā
+domō	domu	domit	domiātūra	domiātūrā	domiāta	domiātā	domanda	domandā
+excubō	excubu	excubit	excubiātūra	excubiātūrā	excubiātā	excubiāta	excubandā	excubanda
+īnstō	īnstit	īnstāt	īnstāātūra	īnstāātūrā	īnstāāta	īnstāātā	īnstandā	īnstanda
+juvō	jūv	jūt	jūātūra	jūātūrā	jūātā	jūāta	juvandā	juvanda
+perdomō	perdomu	perdomit	perdomiātūrā	perdomiātūra	perdomiātā	perdomiāta	perdomandā	perdomanda
+personō	personu	personit	personiātūra	personiātūrā	personiāta	personiātā	personanda	personandā
+prōstō	prōstit	prōstāt	prōstāātūrā	prōstāātūra	prōstāātā	prōstāāta	prōstanda	prōstandā
+/stō	stet	stat	staātūrā	staātūra	staātā	staāta	standa	standā
+subdomo	subdomu	subdomit	subdomiātūra	subdomiātūrā	subdomiāta	subdomiātā	subdomanda	subdomandā
+incubō	incubu	incubit	incubiātūra	incubiātūrā	incubiātā	incubiāta	incubandā	incubanda
+sonō	sonu	sonit	soniātūra	soniātūrā	soniāta	soniātā	sonanda	sonandā
+accubō	accubu	accubit	accubiātūra	accubiātūrā	accubiātā	accubiāta	accubanda	accubandā
+subcubo	subcubu	subcubit	subcubiātūra	subcubiātūrā	subcubiāta	subcubiātā	subcubandā	subcubanda
+attonō	attonu	attonit	attoniātūrā	attoniātūra	attoniāta	attoniātā	attonanda	attonandā
+concrucifīgo	concrucifīx	concrucifīx	concrucifiātūra	concrucifiātūrā	concrucifiātā	concrucifiāta	concrucifīganda	concrucifīgandā
+dissono	dissonu	dissonit	dissoniātūra	dissoniātūrā	dissoniātā	dissoniāta	dissonanda	dissonandā
+ēdomō	ēdomu	ēdomit	ēdomiātūra	ēdomiātūrā	ēdomiāta	ēdomiātā	ēdomandā	ēdomanda
+occubō	occubu	occubit	occubiātūrā	occubiātūra	occubiātā	occubiāta	occubandā	occubanda
+percrepo	percrepu	percrepit	percrepiātūrā	percrepiātūra	percrepiāta	percrepiātā	percrepanda	percrepandā
+/pessumdo	pessumded	pessumdat	pessumdaātūrā	pessumdaātūra	pessumdaātā	pessumdaāta	pessumdanda	pessumdandā
+/pessundo	pessunded	pessundat	pessundaātūrā	pessundaātūra	pessundaātā	pessundaāta	pessundanda	pessundandā
+prōsico	prōsicu	prōsect	prosecātūrā	prosecātūra	prosecāta	prosecātā	prōsicanda	prōsicandā
+refricō	refricu	refricāt	refricāātūrā	refricāātūra	refricāātā	refricāāta	refricandā	refricanda
+/satisdo	satisded	satisdat	satisdaātūra	satisdaātūrā	satisdaāta	satisdaātā	satisdandā	satisdanda
+sēcubō	sēcubu	sēcubit	sēcubiātūra	sēcubiātūrā	sēcubiāta	sēcubiātā	sēcubanda	sēcubandā
+/superdo	superded	superdat	superdaātūrā	superdaātūra	superdaāta	superdaātā	superdanda	superdandā
+/vēnumdō	vēnumded	vēnumdat	vēnumdaātūrā	vēnumdaātūra	vēnumdaātā	vēnumdaāta	vēnumdandā	vēnumdanda
+/vaenumdo	vaenumded	vaenumdat	vaenumdaātūra	vaenumdaātūrā	vaenumdaātā	vaenumdaāta	vaenumdanda	vaenumdandā
+/vēnumdō	vēnunded	vēnundat	vēnundaātūrā	vēnundaātūra	vēnundaāta	vēnundaātā	vēnumdandā	vēnumdanda
+/vēnumdō	vaenunded	vaenundat	vaenundaātūrā	vaenundaātūra	vaenundaātā	vaenundaāta	vēnumdandā	vēnumdanda
+prōseco	prōsecu	prōsect	prōsecātis	prosecātīs	prosecāte	prōsecāte	prōsecātō	prosecātō	prosecātūrā	prosecātūra	prosecāta	prosecātā	prōsecandā	prōsecanda
+īnsecō	īnsecu	īnsect	īnsecātis	insecātīs	insecāte	īnsecāte	insecātō	īnsecātō	insecātūra	insecātūrā	insecātā	insecāta	īnsecanda	īnsecandā

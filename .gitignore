@@ -1,0 +1,12 @@
+latin/htmlcov/
+latin/old/
+.idea/
+latin/i_scrape_old.py
+.coverage
+latin/h_fact_organizer.py
+latin/k_macr_txt.py
+latin/v_reading.py
+latin/large_files/
+lwe/
+.DS_Store
+latin/.DS_Store

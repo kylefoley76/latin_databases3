@@ -1,0 +1,33 @@
+__superus
+perf	summ,suprēm
+model	superus
+__inferus
+model	superus
+perf	im,infim
+__posterus
+model	superus
+perf	postrēm
+__exter
+model	superus
+perf	extrēm
+__consto	
+model	sono
+perf	constit
+__obsto	
+model	sono
+perf	obstit
+__resto	
+model	sono
+perf	restit
+__praesto
+model	sono
+perf 	praestit
+__exsto
+perf	exstit
+model	sono
+__persto	
+perf	perstit
+model	sono
+__substo	
+perf	substit
+model	sono

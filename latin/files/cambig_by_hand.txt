@@ -1,0 +1,973 @@
+!!! a # number followed by ! means to delete that entry
+1
+__sed
+#
+sed
+inv
+
+
+but, on the contrary, but also, but even, but in fact, not only, not merely . . . but, but also, but even, but indeed, not only not . . . but even, non, ne . . . quidem, I will not say virtuous men, but the most virtuous, but, yet, however, but, now, I say, quid autem, but why in the world?, vero, but in fact, but actually, enim, but, for, but, for she had heard, but, but in fact, but also but, but also; yet; however, but in fact/truth; not to mention; yes but; but, yet a - pour marquer l'opposition, la restriction : mais, au contraire. b - pour marquer la transition, la correction, le retour à une pensée : mais, mais enfin, du reste, dis-je. c - pour marquer l'objection : mais, mais peut-être. d - pour marquer la gradation : mais, et cela, et même, et de plus.
+#2
+sēd
+inv
+
+
+Without
+2
+__ara
+#
+āra
+vita
+
+
+a structure for sacrifice, altar, hearth and home, altars and fires, protection, refuge, shelter, a funeral pile, The Altar, low in the south, A monument altar, structure for sacrifice, pyre; sanctuary; home; refuge, shelter; an altar. - a - autel (du foyer). - b - refuge, protection, asile, secours. - c - pierre funéraire.
+#2
+ara
+vita
+
+
+- a - porcherie. - b - poulailler. - c - ordure (à propos de qqn).
+3
+__aedes
+#
+aedēs
+civis
+āēd
+
+L temple, shrine; tomb; apartment, room; house (pl.), abode, dwelling; household; aedes, aedis, a building for habitation., fire-place, hearth; 1 - au sing. - a - foyer, pièce où l'on fait du feu. - b - chambre, appartement. - c - temple, sanctuaire (pièce unique). 2 - au plur. - a - ensemble d'appartements, pièces, édifice, maison, demeure, palais; cellules (des abeilles). - b - Plaut. habitants de la maison, famille, maisonnée.
+#2
+aedes
+civis
+aed
+
+see aedis.
+4
+__odium
+#
+odium
+templum
+
+
+hatred, grudge, ill-will, animosity, enmity, aversion, incur the hatred, excite, appease, what quarrel had I?, is so hated by, was so imbittered against, had offered as a prize for hostility, on an empty stomach, An object of hatred, offence, aversion, nuisance, one who hates him, I hate and am hated by, Discontent, dissatisfaction, disgust, Offensive conduct, odious language, importunity, insolence, vexatiousness, by insolent importunity, with that hateful conduct of yours, in insolence - hate/hatred/dislike/antipathy; odium, unpopularity; boredom/impatience; hatred, grudge, illwill, animosity, enmity, aversion, pass., obj. gen. - a - haine, aversion, antipathie, ressentiment. - b - antipathie naturelle (entre les choses), répugnance. - c - désagrément, ennui. - d - objet de haine, objet d'aversion; homme haïssable.
+#2
+ōdīum
+templum
+
+
+odéon (édifice où avaient lieu les concours de poésie et de musique).
+5
+__uerum
+#2
+verum
+templum
+
+
+A spit, broach c. veru (Plaut. Rud. 1302; 1304).
+#3*
+vērum
+templum
+
+
+the truth, reality, fact, respecting fact, from the truth, Genit, similis or similitudo, plausible, probable, Honor, duty -I. what is true, real, the truth, the reality, the fact. -II. Speaking, containing the truth, true, veracious. la vérité, la réalité, le fait.
+6
+__penitus
+#2
+pēnītus
+doctus
+
+
+furnished with, having a tail
+#3
+penitus
+doctus
+
+
+inward, inner, interior, Comp., Sup., subst. qui est au fond, intérieur, profond, enfoncé, reculé.
+7
+__continens
+#2
+continēns
+civis
+continent
+
+a mainland, continent, the chief point the mainland, continent the mainland, continent (Lebaigue P. 289 et P. 290)
+#3
+continens
+mare
+continent
+
+that on which something rests or depends, the chief point, hinge that on which something rests or depends, the chief point, hinge
+8
+__pristinus
+#
+prīstinus
+doctus
+
+
+former, early, original, primitive, pristine, n., a former condition, Preceding, previous, of yesterday former, oldtime, original; pristine; former, early, original, primitive, pristine, Subst. a - d'auparavant, d'autrefois, précédent, primitif. b - qui a précédé immédiatement. c - = priscus.
+#2
+pristīnus
+doctus
+
+
+of or belonging to, the Whale de la baleine.
+9
+__fabula
+#
+fābula
+vita
+
+
+a narration, narrative, account, story, tale, the common talk, news, let us return to our story, conversation, An affair, concern, matter, talk, how deaf I am to his talk, what does this mean?, A fictitious narrative, tale, story, fiction, fable, tales!, A dramatic poem, drama, play, when the play opens, A fable, story with a lesson, talk of the devil, A plot, action, story story, tale, fable; play, drama; [fabulae! => rubbish!, nonsense!]; a narration, narrative, account, story; the subject of common talk. 1 - a - récit, histoire, discours, nouvelle, entretien, bruit public; sujet d'entretien public. b - fiction, conte, aventure imaginaire, récit fabuleux. c - fable, mythologie; fable, apologue. d - pièce de théâtre, tragédie. e - chose, affaire, incident. g - objet sans réalité, fantôme, néant. 2 -  petite fève.
+#2
+fabula
+vita
+
+
+petite fève
+__luo
+#
+luō
+lego
+lu
+lŭit
+to loose, free, pay off, to suffer, undergo, was undergoing banishment as a punishment, To atone for, expiate, avert by expiation to wash, lave; to cleanse, purge (L+S); to loose, let go, set free. 1 - tr. - a - délier d'une dette (= solvo). b - payer, acquitter. c - subir un châtiment, racheter, expier, éloigner par des expiations. 2 - [lavo] - tr. - laver, baigner (cf. abluo, alluo, diluo...).
+#2
+luō
+lego
+lu
+
+to wash, lave.
+11
+__irrito
+#
+irrītō
+amo
+
+
+to excite; to exasperate, provoke, aggravate, annoy, irritate; to incite, excite, stimulate, instigate, provoke, exasperate, irritate. - tr. - a - irriter, aigrir, mettre en colère. - b - exciter, stimuler, provoquer, enflammer.
+#2
+irritō
+amo
+
+
+to make void, invalidate - tr. - annuler.
+12
+__moratus
+#
+mōrātus
+doctus
+
+
+mannered, of morals, constituted, conditioned, circumstanced, insatiable, expressive of character, with accurate characterization Mannered, of morals, constituted, conditioned, circumstanced - a - qui a telles ou telles moeurs. - b - où le caractère est bien rendu.
+#2
+morātus
+doctus
+
+
+belated, delayed, lingering.&mdash;Plur, loiterers part. passé de moror.
+13
+__moror
+#
+moror
+imitor
+
+morāt
+to delay, tarry, stay, wait, remain, linger, loiter, I have no objection, by slow degrees, why make a long story?, to be brief, without long delay, in tearful thought, may linger, I will immediately, brood, To delay, retard, impede, detain, cause to wait, hinder, detain, not, keep waiting, To fix the attention of, delight, delay, amuse, entertain, arrest, P. pass., To hinder, prevent, impede, person, not to detain, let go, dismiss, release, withdraw my accusation against, said he had nothing against, thing, clause, to let go, not value, disregard, care nothing for, have nothing to say against, Ph, I don't care for that, I care not, attach no value to quantity to delay, tarry, stay, wait, remain, linger, loiter a - intr. - s'attarder, agir avec lenteur, tarder à; s’arrêter, séjourner, demeurer, rester. b - tr. - retarder, retenir, empêcher, différer, s'opposer à. c - tr. - avec une négation ne pas s'opposer (à une chose), pas être attaché (à une chose), ne pas y tenir, ne pas s'en soucier (non moror, nihil moror...). d - tr. - retenir l'attention de, intéresser, captiver, charmer.
+#2
+mōror
+imitor
+
+
+to be foolish, be a fool Plaut. Suet. être fou, extravaguer, déraisonner.
+14
+__sordes
+#!
+sordes
+civis_pl
+sord
+
+filth, dirt, uncleanness, squalor; meanness, stinginess; humiliation, baseness;
+#2*
+sordēs
+civis_pl
+sord
+
+dirt, filth, uncleanness, squalor dirt, filth, uncleanness, squalor - 1 - ordure, saleté, malpropreté, crasse. - 2 - aspect négligé, tenue négligée. - 3 - tenue de deuil, deuil (tenue négligée en cette circonstance), affliction, douleur. - 4 - misère, pauvreté. - 5 - un être hideux, un être ignoble, rebut, déchet (de la société). - 6 - tache, souillure, ignominie, déshonneur. - 7 - action honteuse, turpitude, bassesse. - 8 - basse condition, lie du peuple. - 9 - avarice sordide, mesquinerie.
+15
+__fretus
+#2
+fretus
+manus
+
+
+see fretum -I. a strait, sound, channel. -II. a strait;
+#3
+frētus
+manus
+
+
+reliance, confidence fretu) : secours, appui.
+16
+__desidia
+#
+dēsidia
+vita
+
+
+a sitting idle, idleness, inactivity, sloth - idleness, slackness; inactivity; remaining in place; leisure; indolence, - ebbing; subsiding; (process of); retiring (L+S); a sitting, long, remaining - a - position d'une personne qui reste longtemps assise, longue position assise. - b - oisiveté, inaction, paresse, indolence, apathie. - c - repos (de la terre).
+#2!
+dēsīdia
+vita
+
+
+a subsiding, retiring action de se retirer, retraite.
+17
+__despicatus
+#
+dēspicātus
+doctus
+
+
+in contempt, despised, Contemptible, despicable pass., despised part. passé de despicor. - a - qui a méprisé. - b - sens passif : méprisé.
+#2
+despīcātus
+doctus
+
+
+percé d'un pieu.
+18
+__latitudo
+#
+lātitūdō
+miles
+lātitūdin
+
+breadth, width, a broad slope, Breadth, extent, size, compass, A broad pronunciation latitude; breadth, width - 1 - largeur; étendue. - 2 - latitude. - 3 - ampleur (du style). - 4 - pesanteur (du débit).
+#2
+latitūdo
+miles
+lātitūdin
+
+C.-Aur. action de se tenir caché.
+19
+__conditor
+#
+conditor
+miles
+conditor
+
+a maker, builder, framer, establisher, founder, author, compiler, author of the Fasti, the universal creator - original builder, founder; originator/creator; author; preserver; organizer; a maker, builder, framer, establisher, founder, author, compiler. Personified : Conditor a rural deity who presided over the laying up of fruits qui fonde, qui institue, fondateur, auteur; créateur.
+#2
+condītor
+miles
+conditor
+
+a seasoner, pickler one who prepares a thing in a savory manner, a seasoner celui qui apprête un mets, cuisinier, pâtissier, confiseur.
+__morosus
+#
+mōrōsus
+doctus
+
+
+wayward, peevish, fretful, capricious, captious, hypercritical, stubborn hard to please, persnickety; peevish, fretful, wayward, capricious, captious, morose - 1 - morose, chagrin, maussade, bourru, bizarre, fantasque. - 2 - scrupuleux, exigeant, difficile, délicat. - 3 - incommode, désagréable, ennuyeux, pénible.
+#2
+morōsus
+doctus
+
+
+lingering, slow, slow in coming
+21
+__dolium
+#
+dōlium
+templum
+
+
+a large, wide - mouthed, globular jar, new wine large earthenware vessel (~60 gal. wine/grain); hogshead (Cas); tun/cask; a very large jar of globular form, with a wide mouth, wine from the jar, new, not yet drawn off, to talk in vain - a - jarre, tonneau. - b - météore igné.
+#2
+dolium
+templum
+
+
+Commod. douleur, chagrin.
+22
+__detestatio
+#
+dētestātiō
+miles
+dētēstātion
+
+the invocation of a curse, An averting by sacrifice, deprecation castration; removal of testes; renunciation; 1 - [detestor] a - imprécation, malédiction. b - exécration, détestation, répulsion, horreur. c - renonciation solennelle sous serment. 2 - [de + testis] castration.
+#2!
+dētestātio
+miles
+dētēstātion
+
+the removal of the testes, castration
+23
+__meum
+#
+meum
+templum
+
+
+mine, my property, my daughter, it is my affair, my concern, my duty, my custom mine, my property, my daughter, it is my affair, my concern, my duty, my custom ville sur le Nil
+#2
+mēum
+templum
+
+
+an umbelliferous plant, bear-wort la berce (plante).
+24
+__solarium
+#
+sōlārium
+templum
+
+
+a sun-dial, the sun-dial in the Forum.&mdash;A clock, either a sun-dial or a water-clock sundial, other timers; sunny part of house, terrace; top of house (Vulgate); A sundial 1 - [sōl] - a - (s.-ent. horlogium) cadran solaire. - b - lieu exposé au soleil : appartement, balcon, terrasse. - c - clepsydre.
+#2
+solārium
+templum
+
+
+a ground-rent [solum] (s.-ent. vectigal) Dig. impôt foncier.
+25
+__confuto
+#
+confutō
+amo
+
+
+[arch., fréq. de confuo], int., se produire, avoir lieu souvent
+#2*
+cōnfūtō
+amo
+
+
+to check, repress, dampen, suppress, diminish, To put down, put to silence, confute, refute, overthrow to check, repress a boiling liquid, to suppress, restrain, check - tr. - 1 - calmer (un liquide en ébullition). - 2 - réprimer, contenir. - 3 - réfuter.
+26
+__rebellio
+#
+rebelliō
+miles
+rebelliōn
+
+a renewal of war, revolt, rebellion rebellion; a renewal of war, a revolt, rebellion reprise des hostilités, révolte, rébellion, insurrection, soulèvement.
+#2!
+rebellio
+miles
+rebelliōn
+
+one who revolts, an insurgent, rebel Gloss. celui qui reprend les hostilités, rebelle.
+27
+__torus
+#
+torus
+lupus
+
+
+a swelling, protuberance, fleshy part, muscle, brawn, a raised ornament, prominence, A stuffed bolster, cushion, couch, sofa, bed, bier, the bridal-bed, spouse, take the river-banks for beds swelling, protuberance; mussel, brawn; bed, couch, stuffed bolster, cushion; a round, swelling, or bulging place, an elevation, protuberance, prominence a - petite corde, tronçon de corde, toron. - b - renflement, bourrelet, protubérance, gonflement. - c - grosseur, épaisseur (d'une branche, d'un cep de vigne); tige, branche, rameau. - d - talus, rebord, éminence (dans un terrain). - e - tore, bâton (moulure à la base d'une colonne). - f - ce qu'on étend pour se coucher, couche, coussin, lit. - g - lit funèbre. - h - lit nuptial; mariage, hymen.
+#3
+tōrus
+lupus
+
+
+Fest c. torrus, tison ardent.
+28
+__miliarius
+#
+miliārius
+aureus
+
+
+of or belonging to millet, millet- relatif au mil.
+#2
+mīlīārīus
+doctus
+
+
+containing, comprising a thousand.
+29
+__miliarium
+#
+mīliārium
+templum
+
+
+a mile-stone, the golden mile-stone placed by Augustus in the forum milestone, column resembling a milestone, the one at the Forum; a Roman mile; A mile-stone, the mile-stone set up by Augustus in the forum, as the terminal point of all military roads, Plur
+#2
+miliarium
+templum
+
+
+a short and thick pillar which stood in the centre of the basin of an oil-mill to support the cupa; In baths, a tall and narrow vessel for drawing and warming water vase étroit et long pour chauffer l'eau; colonne servant de pivot à un pressoir.
+__sera
+#
+sera
+vita
+
+
+a bar, cross-bar, bolt bar (for fastening doors); rail of post and rail fence; lock (Cal); a bar, Sing., Plur. I. barre de clôture; serrure, verrou mobile, cadenas. II. Séra (cap des Sères).
+#2
+sēra
+vita
+
+
+a late hour, the evening hour le soir.
+31
+__quirito
+#
+quīrītō
+amo
+
+
+v. quirrito.
+#2*
+quirītō
+amo
+
+
+to call the Quirites, call to the rescue, wail to cry - intr. - 1 - appeler, convoquer les citoyens (les Quirites). - 2 - crier au secours.
+32
+__aereus
+#
+aereus
+aureus
+
+
+of copper, of bronze, with bronze beak - made of/bound with/armored with/of the color of copper/bronze/brass; - of/produced in/existing in/flying in air, airborne/aerial; towering/airy; blue; Made of copper; Subst. m. a bronze coin - a - d'airain, de cuivre, de bronze. - b - garni d'airain. - c - semblable à l'airain.
+#2
+āereus
+doctus
+
+
+Pertaining to the air, a&euml;rial, the heavens
+33
+__leuamentum
+#
+levāmentum
+templum
+
+
+an alleviation, mitigation, consolation alleviation, mitigation, consolation; an alleviation, mitigation, consolation, comfort soulagement, allégement, consolation, réconfort.
+#2
+lēvāmentum
+templum
+
+
+niveau, équerre.
+34
+__temo
+#
+tēmō
+miles
+tēmōn
+
+a pole, beam, the tongue, the beam, tongue, A wagon, the Wagon of Bo&ouml;tes, Charles's Wain -I. a sum of money paid instead of furnishing recruits, commutationmoney -II. a beam, pole, tongue a - timon, flèche (d'une voiture, d'une charrue). b - char. c - le Chariot, la grande Ourse (constellation). d - perche, traverse.
+#2
+temo
+miles
+tēmōn
+
+impôt de recrutement (payé par les recruteurs).
+35
+__peredo
+#2
+peredō
+lego
+perēd
+perēs
+to consume, devour to eat up, consume to eat up, consume - tr. - a - dévorer, manger entièrement. - b - ronger, miner, consumer.
+#
+peredo
+lego
+perēd
+perēs
+to give forth to give forth - tr. - achever de produire, achever de composer.
+36
+__cornus
+#2
+cornus
+lupus
+
+
+a cornel cherry-tree, Cornel-wood, A javelin I. a city on the western coast of Sardinia II. a cornel cherry-tree I. Cornus (ville de Sardaigne). II. cornouiller; javelot, lance.
+#3
+cornus
+manus
+
+
+a horn. I. cornus, m. = cornu. II. cornouiller; javelot, lance.
+37
+__uirosus
+#?
+virōsus
+doctus
+
+
+fond of men, longing after men, med. qui recherche les hommes.
+#2?
+vīrōsus
+doctus
+
+
+of a vile odor, stinking, fetid Full of, covered with slime, slimy, Sup. infect, fétide, envenimé, empoisonné.
+38
+__nitens
+#
+nitens
+infans
+nitent
+
+shining, glittering, brilliant, bright, Fine, in good condition, handsome, blooming, sleek, illustrious, brilliant, elegant shining, Part., P a. part.-adj. de niteo. a - luisant, brillant, éclatant. b - gras, bien nourri, vigoureux, en pleine végétation, florissant. c - orné, brillant (style).
+#2
+nītens
+infans
+nitent
+
+P. of nitor pressing upon, against, Part. part. prés. de nitor.
+39
+__stagno
+#
+stāgnō
+amo
+
+
+to cover the land as a lake, become a pool, stagnate, is covered, made a pool to form/lie in pools; to be under water; I. Neutr., to form a pool of standing water, to stagnate, be stagnant;to be overflowed or inundated; Act.,  to cause to stand, to make stagnant; to cover with water, to overflow, inundate a place II. v. a., to overlay, plate with stannum; to make fast, strengthen, fortify 1 - intr. - a - être stagnant, séjourner (en parl. des eaux dormantes). - b - être inondé, être submergé. - c - tr. - inonder, submerger. 2 - tr. - a - recouvrir d'étain, étamer. - b - au fig. Just. consolider, fortifier, endurcir, prémunir.
+#2
+stagnō
+amo
+
+
+int., être stagnant, former une nappe stagnante / être couvert d'une nappe stagnante, être inondé, submergé
+__feralis
+#
+fērālis
+fortis
+fērāl
+
+of a funeral, of funeral rites, of the dead, funereal, for the dead, as of death, of the festival of the dead, Neut. plur, the festival of the dead, Deadly, fatal, dangerous funereal; deadly, fatal; of or belonging to the dead, to corpses, funereal - a - qui a rapport aux dieux mânes, de la fête des dieux mânes. - b - qui a rapport aux funérailles, de funérailles, funèbre. - c - lugubre, funeste; fatal, dangereux, mortel.
+#2
+ferālis
+fortis
+fērāl
+
+Aug. de bête sauvage.
+41
+__pilatus
+#2
+pīlātus
+doctus
+
+
+armed with javelins -I. closepressed, thick, dense -II. armed with javelins 1 - armé d'un pilum (javelot). 2 - part. passé de pilo ( 2 ); pressé, épais, en rangs serrés; dense, compact. 3 - part. passé de pilo ( 3 ); pillé.
+#3!
+pilātus
+doctus
+
+
+part. passé de pilo ( 1 ); dégarni de poils, chauve.
+42
+__leuatus
+#
+levātus
+doctus
+
+
+P. of 1 levo part. passé de lĕvo. - a - soulevé, levé, élevé. - b - déchargé, soulagé. - c - enlevé, écarté, ôté.
+#2
+lēvātus
+doctus
+
+
+P. of 2 lēvo - a - part. passé de lēvo. - b - adjt poli, lisse.
+43
+__molitor
+#2
+mōlītor
+miles
+mōlītor
+
+a framer, contriver one who undertakes, an attempter, author, framer, contriver celui qui construit, celui qui trame, celui qui ourdit, artisan de.
+#
+molitor
+miles
+mōlītor
+
+one who undertakes to do a thing, an attempter, author, framer, contriver a miller meunier.
+44
+__balnearia
+#
+balneāria
+mare_pl
+balneār
+
+bathing utensils ustensiles de bain.
+#2
+balneāria
+templum_pl
+
+
+a place for bathing, a bathing-room, bath salle de bains, bains, local de bains.
+45
+__fatuor
+#
+fatuor
+imitor
+
+
+to talk foolishly - 1 - Justin. être saisi d'un délire prophétique, être inspiré. - 2 - divaguer, extravaguer, faire l'impertinent, parler sottement.
+#2
+fātuor
+imitor
+
+
+to be inspired
+46
+__pilo
+#
+pīlō
+amo
+
+
+to ram down;, to thrust home 1 - tr. - appuyer sur, enfoncer. 2 - tr. - piller, voler.
+#2
+pilō
+amo
+
+
+- a - intr. - se couvrir de poils. - b - tr. - épiler.
+47
+__melica
+#
+melica
+vita
+
+
+a lyric poem, ode
+#2
+mēlica
+vita
+
+
+a kind of vessel
+48
+__anas
+#
+anas
+miles
+ānat
+
+wild-duck, O. duck; gen. plur., the duck canard, cane.
+#3
+anās
+miles
+ānat
+
+disease of old women Fest. maladie des vieilles femmes.
+49
+__molitio
+#
+mōlītio
+miles
+mōlītion
+
+a removing, demolition, A building, making grinding; a putting in motion, moving, removing; a laborious undertaking, preparation, contrivance, a working, ploughing, digging, a building, making, an enterprise, undertaking - a - action de remuer, de déplacer, entreprise difficile. - b - démolition. - c - machination.
+#2
+molitio
+miles
+mōlītion
+
+a grinding Ambr. mouture.
+__trigon
+#
+trigōn
+miles
+trīgon
+
+a ball stuffed with hair, playing-ball a kind of ball for playing with balle pour trois joueurs placés en triangle.
+#2
+trīgōn
+miles
+trīgon
+
+v. trygon.
+51
+__appingo
+#
+appingō
+lego
+appinx
+appict
+to paint upon (very rare): to paint upon, to add by writing, to, write - tr. - peindre sur, ajouter (en écrivant), écrire.
+#2
+appingō
+lego
+
+
+to fasten, joint to - tr. - attacher, fixer (qqch à qqch, aliquid alicui rei).
+52
+__iris
+#2
+īris
+civis
+īr
+
+hérisson
+#3
+iris
+civis
+ir,irid
+
+- a - arc-en-ciel. - b - l'iris, le glaïeul (plante). - c - iris (une pierre précieuse).
+53
+__obsono
+#
+obsōnō
+amo
+
+
+to buy provisions, cater, purvey to buy food, get/purchase provisions/(things for meal); to go shopping; to feast - a - acheter les provisions, faire son marché. - b - faire bonne chère, se régaler.
+#2*
+obsonō
+amo
+
+
+to interrupt by a sound; - intr. avec dat. - interrompre par un bruit, couvrir la voix de.
+54
+__seria
+#
+sēria
+vita
+
+
+a cylindrical earthen vessel, large jar, tun, cask large earthenware jar; a cylindrical earthen vessel, a large jar vase de terre, cruche, jarre.
+#3
+seria
+vita
+
+
+Séria (ville de Bétique). c. series
+#4
+sēria
+templum_pl
+
+
+earnestness, seriousness; serious matters, discourse, Plur.
+55
+__prosero
+#
+prōserō
+lego
+prōseru
+prōsert
+to stretch forth, extend - tr. - faire paraître, montrer.
+#2
+prōserō
+lego
+prōsēv
+prōsat
+to bring forth, produce by sowing. - tr. - a - produire, faire pousser. - b - faire naître, créer.
+56
+__curio
+#2
+cūrio
+miles
+cūrion
+
+a surname in the gens Scribonia a surname in the I. Curion. - a - partisan de César. - b - autres du même nom. II. maigri par les soucis.
+#
+cūriō
+miles
+cūrion
+
+the priest of a curia, over all the curiae -I. The priest of a curia -II. wasted by sorrow, lean, emaciated - a - curion (prêtre d'une curie). - b - crieur public.
+57
+__melina
+#
+melina
+vita
+
+
+mead hydromel, breuvage miellé.
+#2
+mēlīna
+vita
+
+
+a purse, wallet of marten-skin sac en peau de blaireau.
+58
+__suppingo
+#2
+suppingō
+lego
+suppēg
+suppāct
+to fasten underneath, to clout to fasten underneath, to clout - tr. - a - Plaut. ficher sous, clouer sous. - b - garnir en dessous.
+#
+suppingō
+lego
+suppinx
+suppict
+to paint over, suffuse - tr. - Avien. colorer légèrement.
+59
+__barditus
+#
+bardītus
+lupus
+
+
+the warsong of the Germans, Ta. the war-song of the Germans
+#2
+bardītus
+manus
+
+
+the war-cry of the Germans;, battle-cry bardit (chant de guerre, cri de guerre des Germains).
+__lora
+#
+lora
+vita
+
+
+a small, thin wine made of the husks of grapes, after-wine piquette.
+#2
+lōra
+vita
+
+
+a thong; the mouth of a skin, leathern bag
+#3
+lōra
+templum_pl
+
+
+the reins of a bridle, A whip, lash, scourge
+61
+__pediculus
+#
+pediculus
+lupus
+
+
+-I. a little foot. -II. a louse, another name for the, med. 1 - a - petit pied. - b - pédoncule. 2 - pou, vermine.
+#2
+pēdiculus
+lupus
+
+
+pou
+62
+__labia
+#
+labia
+vita
+
+
+Apul. lèvre.
+#2
+labia
+templum_pl
+
+
+plur. de labium.
+63
+__allex
+#2
+allex
+miles
+allic
+
+the great toe; the great toe; gros orteil.
+#
+allex
+corpus
+allēc
+
+saumure de poisson.
+64
+__luto
+#
+lūtō
+amo
+
+
+to pay s'acquitter [envers les dieux].
+#2
+lutō
+amo
+
+
+to bedaub with mud, clay - tr. - a - enduire de boue, d'argile. - b - enduire, oindre, frotter.
+65
+__frigo
+#2*
+frīgō
+lego
+frīx
+frīct
+to roast, parch, fry to roast, parch, fry to roast, parch, fry - tr. - faire griller, faire rôtir, faire frire.
+#
+frigō
+lego
+
+
+-I. to squeak, squeal -II. to erect -I. to squeak, squeal -II. to erect 1 - intr. - crier, vagir. 2 - tr. - lever, dresser.
+66
+__cataplasma
+#
+cataplasma
+corpus
+cataplasmat
+
+poultice; plaster; cataplasme.
+#2
+cataplasma
+vita
+
+
+cataplasme
+67
+__praepilatus
+#
+praepilātus
+doctus
+
+
+tipped with a ball, carrying a button, blunied having button in front (of foils, etc.); furnished in front, tipped with a ball, button 1 - à la pointe arrondie, moucheté; émoussé, inoffensif. 2 - participe passé de praepilo; lancé.
+#2!
+praepīlātus
+doctus
+
+
+lancé
+68
+__libraria
+#
+librāria
+vita
+
+
+bookstore; A female scribe - a - boutique de libraire, librairie. - b - femme copiste, secrétaire.
+#2
+lībrāria
+vita
+
+
+she who weighs out tasks, forewoman she that weighed out the wool, a forewoman, head-spinner intendante, celle qui pèse la laine et distribue la tâche aux esclaves.
+69
+__papas
+#
+pāpās
+vita_g1
+
+
+a governor, tutor a governor, tutor
+#2
+pāpās
+miles
+pāpat
+
+c. papa.

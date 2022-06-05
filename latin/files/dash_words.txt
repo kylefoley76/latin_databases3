@@ -1,0 +1,18 @@
+! if ends with * then it is a typo and the head word must be replaced
+! if value = p then it is a prefix
+! frūd- might be a typo perhaps frūdo was meant which in L&S is an archaic form of 'fraudo'
+acanthus1, -os	acanthos
+acipenser, acup-	acupenser
+aduersus3, -um	aduersum3
+aduersus4, -um	aduersum4
+adulescens1 ~ntis, -ntior	adulescens1 ~ntis, ~ntior*
+Aesōpīus, -ēus	Aesōpēus
+aggretus, adg-	adgretus
+alȳpon -ī	alȳpon ~ī*	
+amblygōnius, ambli-	ambligōnius
+ammoniacum, -us	ammoniacus
+Amphilochius, -icus	Amphilochicus
+Amphrȳsius, -īsius	Amphrīsius
+armoracia, -cea	armoracea
+arrogans ~ntis, ~ntior, -ntissimus	arrogans ~ntis, ~ntior, ~ntissimus*
+assūdescō, -ascō	assūdascō
