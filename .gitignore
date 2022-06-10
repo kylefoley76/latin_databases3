@@ -10,3 +10,17 @@ latin/large_files/
 lwe/
 .DS_Store
 latin/.DS_Store
+latin/files/word2clas.pkl
+latin/files/.DS_Store
+latin/files/lem2forms_ui.pkl
+latin/files/lem2forms_pos.pkl
+latin/files/old_word2def_orig.pkl
+latin/files/old_lst.pkl
+latin/files/lem2forms.pkl
+latin/files/old_word2def.pkl
+latin/files/old_wonum.pkl
+latin/files/macronizer_new.pkl
+latin/files/old_wdef.pkl
+latin/files/lasla_db2.pkl
+latin/files/old_wonum5.pkl
+latin/files/lasla_db.pkl

@@ -1,6 +1,13 @@
+from latin.gglobal import *
 import subprocess
-from abbreviations import *
-import very_general_functions as vgf
+
+
+if public:
+    from latin.general.abbreviations import *
+    import latin.general.very_general_functions as vgf
+else:
+    from abbreviations import *
+    import very_general_functions as vgf
 
 
 
@@ -154,6 +161,7 @@ def from_lst2txt(lst, file_name, has_slash_n=False, ofile=False):
 def from_txt2dct_1d(file):
     lst = from_txt2lst_tab_delim(file)
     return {x[0]: x[1] for x in lst}
+
 
 
 

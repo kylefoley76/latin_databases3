@@ -1,5 +1,5 @@
-from gglobal import *
 import add_path
+public = 1
 if not public:
     from general import *
     fold = f'{vol}documents/pcode/latin/latin/files/'
@@ -10,7 +10,6 @@ else:
     fold = 'files/'
     lfold = ''
 
-
 import copy
 from unidecode import unidecode
 from collections import defaultdict
@@ -18,7 +17,7 @@ from collections import defaultdict
 
 bfold = f'old/old_files/'
 lafold = f'{lfold}lasla/'
-lafold2 = 'latin/lasla/'
+lafold2 = 'lasla/'
 
 cobr = chr(774)  # both hat and lemma
 conu = chr(7909)

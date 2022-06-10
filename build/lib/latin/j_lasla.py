@@ -416,15 +416,9 @@ class convert2txt(parse_words):
         bpn = f'{lafold}bpn/'
         self.auth2work = defaultdict(dict)
         b = 0
-        p (f"""
-        now looping through the lasla files and putting
-        them into a python user-friendly format
-""")
-
-        tot = len(os.listdir(bpn))
         for x in os.listdir(bpn):
             b += 1
-            vgf.print_intervals(b, 5, None,tot)
+            vgf.print_intervals(b, 5)
             if x[0] != '.':
                 auth = x[:x.index('_')]
                 work = x[x.index('_') + 1:-4]
@@ -581,11 +575,6 @@ class convert2txt(parse_words):
         self.adjacent3 = 1
         self.paren2loc = {}
         self.delay_sum = 0
-        p (f"""
-        now looping through the lasla database
-        and normalizing it
-""")
-
         for self.auth, works in self.auth2work.items():
             for self.work, self.infos in works.items():
                 b += 1

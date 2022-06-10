@@ -114,7 +114,6 @@ class pedecerto:
         self.get_atts()
         self.make_class()
         self.researchj()
-        self.output_p()
         # self.weed_out()
 
     def begin2(self):
@@ -132,11 +131,6 @@ class pedecerto:
             self.macronizer_pc = pi.open_pickle(f'{fold}macronizer_pc', 1)
             self.pros_stats = pi.open_pickle(f'{fold}pros_stats', 1)
 
-    def output_p(self):
-        pi.save_pickle(self.prosodic_stats, f'{fold}prosodic_stats_new', 1)
-
-
-
     def make_class(self):
         '''
         in order to use the ucons dict the macronizer has to be run
@@ -147,20 +141,21 @@ class pedecerto:
         '''
 
         b = 0
-        p (f"""
-        now converting the pedocerto database into a list
-        of python classes
-""")
+        pos_kinds = defaultdict(set)
 
         for x in self.prosodic:
             lst = vgf.strip_n_split(x, ";")
+            if lst[0] == 'VENTRIS':
+                bb = 8
+            # ins = pros(lst, 1, self.ucons_dct)
             ins = pros(lst, 1)
             self.prosodic_stats[ins.iu].append(ins)
             self.prosodic_stats_jv[ins.jv_no_mac].append(ins)
             b += 1
-            vgf.print_intervals(b, 5000, None, len(self.prosodic))
+            vgf.print_intervals(b, 5000)
             # if b > 10_000:
             #     break
+        pi.save_pickle(self.prosodic_stats, f'{fold}prosodic_stats_new', 1)
         return
 
     def researchj(self):
@@ -198,7 +193,12 @@ class pedecerto:
         self.macronizer = dct
         pi.save_pickle(self.ncol, f"{fold}macron_pc", 1)
 
-
+    def get_ucons_dct(self):
+        for k, v in self.macronizer.items():
+            for x, y in v.items():
+                if conu in x:
+                    idx = x.index(conu)
+                    self.ucons_dct[k] = idx
 
 
 
@@ -329,16 +329,11 @@ class long_by_pos:
         self.gfl_tot = 0
         self.gfl_rat = 0
         b = 0
-        p (f"""
-        now distinguishing between syllables which are
-        long by position and those that are not
-""")
-
         for k, self.ins in self.prosodic_stats.items():
             b += 1
             # if b > 10_000:
             #     break
-            vgf.print_intervals(b, 500,None,len(self.prosodic_stats))
+            vgf.print_intervals(b, 500)
             x = self.ins.wmac
             self.is_heavy(x)
             if len(self.wrong) > 100:
@@ -348,9 +343,13 @@ class long_by_pos:
 
     def is_heavy(self, x, kind=""):
         xo = x
+        if xo == 'abdūx':
+            bb = 8
 
         for s in self.singles:
             x = x.replace(s, s[0] + '_')
+        if '_' in x:
+            bb = 8
         y = unidecode(x)
 
         for s in self.singles:
@@ -547,11 +546,6 @@ class check_vowels(long_by_pos):
 
         '''
 
-        p (f'''
-        now determining which words have no ambiguities
-        in their vowel length
-''')
-
         self.unambig = {}
         self.ambig = {}
         errs = defaultdict(list)
@@ -573,11 +567,10 @@ class check_vowels(long_by_pos):
                     else:
                         errs[k].append(x)
                 if len(st) == 1:
+                    b += 1
                     self.unambig[k] = list(st)[0]
                 else:
                     self.ambig[k] = v
-            b += 1
-            vgf.print_intervals(b,20_000,None,len(self.macronizer))
 
         return
 
@@ -591,32 +584,25 @@ class check_vowels(long_by_pos):
         self.single = 1
         auth2wrong = {}
         a2perc = {}
-        p (f"""
-        we now use the pedecerto database to determine if
-        a dictionary author has correctly indicated vowel length
-""")
-
         for auth, dct in self.macronizer_each.items():
             b = 0
             p (f"""
-            now evaluating the following author: {auth}
+            {auth}
             """)
             self.unambig2 = {}
             for k, v in dct.items():
                 x = self.unambig.get(k)
-                b += 1
                 if x:
                     kind = 'c'
                     marked, orig = self.is_heavy(x, kind)
-                    vgf.print_intervals(b, 1000,None,len(dct))
+                    b += 1
+                    vgf.print_intervals(b, 1000,None,len(self.macronizer_each))
                     v = vow_marked(k, x, marked)
                     code = self.get_code(marked, kind)
                     v.nature = code
                     self.unambig2[k] = v
             auth2wrong[auth], perc = self.evaluate()
             a2perc[auth] = perc
-            p (f'{auth} has a success ratio of {perc}')
-
         return
 
 
@@ -625,11 +611,6 @@ class check_vowels(long_by_pos):
         self.single = 1
         lst = [self.prosodic_stats, self.unambig]
         self.unambig2 = {}
-        p(f"""
-        now seeing if we correctly understand how
-        pedecerto determines a long syllable 
-""")
-
         for e, dct in en(lst):
             b = 0
             if only_pro and e:
@@ -643,7 +624,7 @@ class check_vowels(long_by_pos):
                     kind = 'c'
                 marked, orig = self.is_heavy(x, kind) # marked has only the short and long vowels, string
                 b += 1
-                vgf.print_intervals(b, 1000, None, len(dct))
+                vgf.print_intervals(b, 1000)
                 if e == 0:
                     v.marked = marked
                 else:
@@ -689,6 +670,7 @@ class check_vowels(long_by_pos):
                     else:
                         wrong[x] = [y.marked, ins.marked, y, ins]
 
+        p(right / tot)  # 93.52%
         return wrong, right / tot
 
     def temp_conu(self, pro, col):
@@ -707,7 +689,7 @@ class check_vowels(long_by_pos):
 
 if eval(not_execute_on_import):
     if vgf.pycharm():
-        args = [0, 'all', '', 'IX', '', 0, 0]
+        args = [0, 'lbp', '', 'IX', '', 0, 0]
     else:
         args = vgf.get_arguments()
 
@@ -718,10 +700,5 @@ if eval(not_execute_on_import):
         ins = check_vowels()
         ins.begin()
     elif args[1] == 'cve':
-        ins = check_vowels()
-        ins.begin_e()
-    elif args[1] == 'all':
-        ins = long_by_pos()
-        ins.begin3()
         ins = check_vowels()
         ins.begin_e()

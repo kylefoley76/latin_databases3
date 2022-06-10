@@ -41,12 +41,10 @@ class colatinus():
 
 
     def get_atts(self):
-        p ('opening pickles')
         self.co_lemmas2 = pi.open_pickle(f'{fold}co_lemmas2')
         self.col_dct = pi.open_pickle(f'{fold}col_dct')
         self.mmodels = pi.open_pickle(f'{fold}mmodels')
         self.lem_freq_rank = pi.open_pickle(f'{fold}lem_freq_rank')
-
 
     def corrupting_alternates(self):
         '''
@@ -268,12 +266,11 @@ class colatinus():
         c = 0
         d = 0
         f = 0
-        p (f'now getting the gender of the nouns')
         self.co_lemmas2['bos']['model']='miles'
         self.co_lemmas2['bos']['pos']='n'
         for k, v in self.co_lemmas2.items():
             b += 1
-            vgf.print_intervals(b, 1000, None, len(self.co_lemmas2))
+            # vgf.print_intervals(b, 500)
             if v['pos'] == 'n':
                 itm = self.col_dct.get(k)
                 if not itm:

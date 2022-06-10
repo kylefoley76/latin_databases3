@@ -1,5 +1,4 @@
 import add_path
-import very_general_functions
 from lglobals import *
 from i_scrape_old import old_entry
 from collections import ChainMap
@@ -1272,8 +1271,7 @@ class match_colwlas(word2model):
             if l[0].isdigit():
                 pass
                 if not found and not lemma:
-                    if not public:
-                        p(f'you didnt hand select {lemma} in the match_miss_lasla sheet')
+                    p(f'you didnt hand select {lemma} in the match_miss_lasla sheet')
                 found = 0
             elif l[0].startswith('__'):
                 lemma = l[0][2:]
@@ -1754,6 +1752,7 @@ class match_colwlas(word2model):
                 word = itm
             itm = self.wrong_lemma.get((lem, word, pos))
             if itm:
+                p (f'got alius')
                 lem = itm
 
             word = word.replace(' ', '')
@@ -2360,10 +2359,7 @@ class match_colwlas(word2model):
             self.co_lemmas5 = pi.open_pickle(f'{fold}co_lemmas5')
         self.lem2forms_rev = {}
         lem2forms_ui = pi.open_pickle(f'{fold}lem2forms_ui')
-        c = 0
         for k, v in self.llem2clem.items():
-            c += 1
-            vgf.print_intervals(c, 200,None, len(self.llem2clem))
             for x, y in v.items():
                 clem = k + y
                 obj = lem2forms_ui[clem]
@@ -2372,6 +2368,7 @@ class match_colwlas(word2model):
                     pos = b[1]
                     dct[pos] = b[0]
                 self.lem2forms_rev[clem] = dct
+        p('done')
 
 
 class bottom_most_la(match_colwlas):

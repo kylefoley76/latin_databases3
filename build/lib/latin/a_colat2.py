@@ -94,10 +94,7 @@ class step_three(top_most):
             lemmas = self.lemmas
 
         auth_list = ['LS', 'GG', 'GJ', 'Ge', 'Lw', 'YO', 'PO']
-        b =0
         for k, obj in lemmas.items():
-            b += 1
-            vgf.print_intervals(b,1000, None, len(lemmas))
             if self.kind2 == 'e':
                 authors = auth_list
             else:
@@ -536,13 +533,8 @@ class step_two(step_three):
         self.mixed = defaultdict(dict)
         most = defaultdict(int)
         miss = defaultdict(dict)
-        p (f'now mapping participles to lemmas')
         self.diff_stem = defaultdict(dict)
-        b = 0
         for k, v in self.lem2part3.items():  # todo another interval here
-            b += 1
-            if self.kind == 'g':
-                vgf.print_intervals(b,200,None,len(self.lem2part3))
             for x, y in v.items():
                 if y[-1] == 0 and y[1]:
                     lemma = self.lemmas.get(k)
@@ -1114,8 +1106,7 @@ class step_one(step_two):
                     str1u = unidecode(str1)
 
                     if str1u != kd:
-                        if not public:
-                            p(f'ill-formed: {kd} {str1}')
+                        p(f'ill-formed: {kd} {str1}')
                     assert ' ' not in str1
                     v[3][2] = str1
                 try:
@@ -1156,10 +1147,7 @@ class step_one(step_two):
 
     def jv_others(self):
         p(f'putting the macrons into a standard form')
-        b = 0
         for k, v in self.col_dct.items():
-            b += 1
-            vgf.print_intervals(b,1000,None,len(self.col_dct))
             for i in range(0, 3):
                 if len(v[i]) > 2:
                     str1 = self.jv.replace(v[i][2])
@@ -1272,10 +1260,7 @@ class step_one(step_two):
         lst = [0, 1, 2, 3, 5, 6, 7]
         disg = {}
         disg2 = {}
-        b = 0
         for k, v in self.col_dct.items():
-            b += 1
-            vgf.print_intervals(b, 1000, None, len(self.col_dct))
             if k == 'xerxes':
                 bb = 8
             wrds = set()
@@ -1395,13 +1380,7 @@ class step_one(step_two):
                     dct[x][k] = v
         self.gen2stem = dct
         ratio = {}
-        p (f'now getting the genitive or perfect stem'
-           f' from the dictionary entry')
-        c =0
         for x, y in self.gen2stem.items():
-            if self.kind != 'p':
-                c += 1
-                vgf.print_intervals(c,200,None, len(self.gen2stem))
             wrong = 0
             for k, v in y.items():
                 if not v[1]:
@@ -1833,7 +1812,7 @@ class bottom_most(step_one):
         self.build_prefix_dct()
         self.begin_cl2()
         self.match_gen2stem()
-        self.auth_contr()
+        self.auth_contr()  ## need interval here
         self.ana_wo_prefix()
         self.ana_wo_prefix2()
         self.count_freq()
@@ -1842,10 +1821,9 @@ class bottom_most(step_one):
         self.final_test()
         if second:
             self.quick_fix()
-            self.fdiph_fu()
+            self.fdiph_fu() ## need interval
             self.check_jv()
             self.output(2)
-
 
 
 

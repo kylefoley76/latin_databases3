@@ -185,7 +185,7 @@ class colat(top_most):
         return
 
     def restore_perfect(self):  # 89 unkn 55 known
-        # p ('now fixing bad perfect stems')
+        p ('now fixing bad perfect stems')
         file = f'{fold}perfect_miss_old_miss'
         file2 = f'{fold}perfect_miss'
         lst3 = to.from_txt2lst_tab_delim(file)
@@ -734,7 +734,6 @@ class colat(top_most):
 
     def build_macronizer(self):
         self.macronizer_new = defaultdict(dict)
-        p ('now mapping words to their macrons')
         b = 0
         for k, forms in self.lem2forms.items():
             b += 1

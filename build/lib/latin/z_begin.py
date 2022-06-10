@@ -49,6 +49,8 @@ def begin():
     ins = e_pedocerto.long_by_pos()
     ins.begin3()
     ins = e_pedocerto.check_vowels()
+    ins.begin()
+    ins = e_pedocerto.check_vowels()
     ins.begin_e()
     if not public:
         ins = i_scrape_old.bottom_most()

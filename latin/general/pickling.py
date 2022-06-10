@@ -1,6 +1,9 @@
+from latin.gglobal import *
 import pickle, os
-
-from abbreviations import *
+if public:
+    from latin.general.abbreviations import *
+else:
+    from abbreviations import *
 
 
 

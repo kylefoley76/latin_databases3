@@ -1784,7 +1784,6 @@ class bottom_most(third_decl):
         third_decl.__init__(self)
 
     def begin(self, kind='ending', kind2=''):
-        p ('now building lists of data to memorize')
         self.get_atts(kind2)
         kind3 = 1
         if kind3:

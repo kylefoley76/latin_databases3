@@ -1,0 +1,12 @@
+exclude latin/htmlcov/
+exclude latin/old/
+exclud .idea/
+exclude latin/i_scrape_old.py
+exclude .coverage
+exclude latin/h_fact_organizer.py
+exclude latin/k_macr_txt.py
+exclude latin/v_reading.py
+exclude latin/large_files/
+exclude lwe/
+exclude .DS_Store
+exclude latin/.DS_Store
