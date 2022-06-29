@@ -1,9 +1,8 @@
-
 import add_path
 from lglobals import *
 import copy
 from i_scrape_old import old_entry
-from j_lasla2 import match_colwlas,bottom_most_la
+from j_lasla2 import match_colwlas, bottom_most_la
 from a_colat4 import bottom_most_a4
 
 
@@ -55,6 +54,7 @@ class topmost():
         self.lemma2decl = pi.open_pickle(f'{fold}lemma2decl', 1)
         self.lasla_dct = pi.open_pickle(f'{fold}lasla_dct')
         self.final_pos = pi.open_pickle(f'{fold}final_pos', 1)
+        self.las_lem_freq = pi.open_pickle(f'{fold}las_lem_freq')
         self.final_pos_rev = {v: k for k, v in self.final_pos.items()}
         self.mc_ins = match_colwlas()
         self.prop_dct = {}
@@ -94,6 +94,10 @@ class topmost():
         self.word2prop_third = {}
         self.third_anomalies = defaultdict(list)
         self.pas_type = {}
+
+    def output(self, kind, obj, file):
+        if kind == 1:
+            to.from_lst2txt_tab_delim(obj, file)
 
     def get_ddct(self):
         dct1 = {
@@ -477,6 +481,16 @@ class reg_decl(tests):
 
         return
 
+    def det_pos3(self, lst):
+        dct = defaultdict(int)
+        for k in lst:
+            pos = k[1]
+            pos2 = self.mc_ins.det_pos(pos)
+            dct[pos2] += k[2]
+
+        dct = sort_dct_val_rev(dct)
+        return vgf.dct_idx(dct)
+
     def ui_ends(self):
         dct4 = {}
         for k, v in self.ui_models.items():
@@ -625,6 +639,22 @@ class reg_decl(tests):
 
         self.tdec = self.dec
 
+    def del_models(self):
+        dct = {}
+        on = 0
+        self.bad_models = set()
+        for x, y in self.ui_models.items():
+            if x == 'miles':
+                on = 1
+            elif x == 'manus':
+                on = 0
+            if not on:
+                dct[x] = y
+            else:
+                self.bad_models.add(x)
+        self.ui_models = dct
+        return
+
     def get_irregs_ui(self):
         '''
         the * means that the lemma pos only has that form
@@ -647,6 +677,7 @@ class reg_decl(tests):
         self.get_las_w2l()
         # self.ui_ends()
         self.errors4 = defaultdict(dict)
+        self.bad_words = set()
         self.tot_pos = defaultdict(dict)
         for k, v in self.lalems2forms2.items():
             for lnum, dct in v.items():
@@ -662,6 +693,8 @@ class reg_decl(tests):
                             self.model = mod
                             if mod == 'inv':
                                 pass
+                            elif mod in self.bad_models:
+                                self.bad_words.add(self.lemma)
                             else:
                                 # the magnus model is not working
                                 self.main_loop_fd2(dct)
@@ -706,10 +739,31 @@ class reg_decl(tests):
                         break
                     else:
                         alt_ends.add(self.word[-len(end):])
+                if found:
+                    if self.model not in self.errors4['correct']:
+                        self.errors4['correct'][self.model] = defaultdict(dict)
+                    if self.pos not in self.errors4['correct'][self.model]:
+                        self.errors4['correct'][self.model][self.pos] = defaultdict(int)
+                    self.errors4['correct'][self.model][self.pos][end] += freq
+
+
+
                 if not found:
                     if kind:
                         errors += freq
                     else:
+                        if self.model not in self.errors4['correct']:
+                            self.errors4['correct'][self.model] = defaultdict(dict)
+                        if self.pos not in self.errors4['correct'][self.model]:
+                            self.errors4['correct'][self.model][self.pos] = defaultdict(int)
+                        self.errors4['correct'][self.model][self.pos]['bad'] += freq
+
+                        self.bad_words.add(self.lemma)
+                        if self.lemma not in self.errors4['anom']:
+                            self.errors4['anom'][self.lemma] = defaultdict(dict)
+                        if self.pos not in self.errors4['anom'][self.lemma]:
+                            self.errors4['anom'][self.lemma][self.pos] = defaultdict(dict)
+                        self.errors4['anom'][self.lemma][self.pos][self.word] = freq
                         for end in alt_ends:
                             if self.model not in self.errors4['wrong_end']:
                                 self.errors4['wrong_end'][self.model] = defaultdict(dict)
@@ -723,30 +777,12 @@ class reg_decl(tests):
                     hits += freq
 
         if kind:
-            lst = self.word2fit[self.clem][self.model]
+            lst = self.word2fit[self.lemma][self.model]
             tot = hits + errors
             lst[0] += hits
             lst[1] += tot
-            self.word2fit[self.clem][self.model] = lst
+            self.word2fit[self.lemma][self.model] = lst
         return
-
-        # dct = {}
-        # x = 'x'
-        # y = 'y'
-        # z = 'z'
-        # if x not in dct:
-        #     dct[x] = defaultdict(dict)
-        # if y not in dct[x]:
-        #     dct[x][y] = defaultdict(dict)
-        # if z not in dct[x][y]:
-        #     dct[x][y][z] = defaultdict(list)
-        # dct[x][y][z]['b'].append(defaultdict(int))
-        # dct[x][y][z]['b'][0]['g']+=1
-
-    def temp12(self):
-        for x in lst5:
-            xu, num = cut_num(x[0], 1)
-            p(self.llem2clem[xu][num])
 
     def anom_by_percent(self):
         '''
@@ -822,7 +858,7 @@ class reg_decl(tests):
                             self.las_w2l[word][lem] = defaultdict(dict)
                         self.las_w2l[word][lem][pos] = freq
 
-    def best_fit(self):
+    def best_fit3(self):
         self.llem2clem2 = {}
         for x, y in self.llem2clem.items():
             for k, v in y.items():
@@ -845,7 +881,6 @@ class reg_decl(tests):
                     if self.clem not in self.word2fit:
                         self.word2fit[self.clem] = defaultdict(dict)
                     self.word2fit[self.clem][self.model] = [0, 0]
-
                     self.main_loop_fd2(dct, 1)
                     lst = self.word2fit[self.clem][self.model]
                     try:
@@ -856,19 +891,124 @@ class reg_decl(tests):
 
         return
 
+    def best_fit(self):
+        self.llem2clem2 = {}
+        for x, y in self.llem2clem.items():
+            for k, v in y.items():
+                llem = x + k
+                clem = x + v
+                self.llem2clem2[llem] = clem
+
+        self.lalems2forms4 = defaultdict(dict)
+        self.word2fit = defaultdict(dict)
+        ex_models = ['isaac', 'inv', 'abraham', 'ego', 'tu', 'uos',
+                     'nos', 'se','licet','jesus']
+        for x in self.bad_words:
+            self.lemma = x
+            xu, num = cut_num(x, 1)
+            dct = self.lalems2forms2[xu][num]
+            lst5 = [[0, k, vgf.dct_idx(v, 0, 'v')] for k, v in dct.items()]
+            pos = self.det_pos3(lst5)
+            if x == 'coruus':
+                bb=8
+
+            for self.model, itms in self.ui_models.items():
+                if '_pl' in self.model:
+                    pass
+                elif self.model in ['puer','ager'] and not xu.endswith('er'):
+                    pass
+
+                elif pos == itms['pos'] and self.model not in ex_models:
+                    # self.temp_mod = copy.deepcopy(cdct)
+                    # self.temp_mod['model'] = self.mod_name
+                    self.word2fit[x][self.model] = [0, 0]
+                    self.main_loop_fd2(dct, 1)
+                    lst = self.word2fit[self.lemma][self.model]
+                    try:
+                        perc = percent(lst[0], lst[1])
+                    except ZeroDivisionError:
+                        perc = 0
+                    self.word2fit[x][self.model] = perc
+        return
+
     def best_fit2(self):
+        '''
+        word2fit2 are perfect matches of new models
+        word2fit3 are imperfect matches
+        '''
+
         b = 0
         self.word2fit2 = {}
         self.word2fit3 = {}
         for x, y in self.word2fit.items():
-            dct = {k: self.model_popularity.get(k,0) for k, v in y.items() if v == 100}
-            if dct:
-                mod = vgf.largest_member(dct)
-                self.word2fit2[x] = [mod, dct]
+            xu, num = cut_num(x, 1)
+            dct = {k: self.model_popularity.get(k, 0) for k, v in y.items() if v == 100}
+            obj = self.errors4['anom'].get(x, '')
+            if obj:
+                if dct:
+                    mod = vgf.largest_member(dct)
+                    self.word2fit2[x] = [mod, dct, self.lalems2forms2[xu][num], obj]
+                else:
+                    self.word2fit3[x] = [sort_dct_val_rev(y), obj]
+        self.get_old2new_model()
+        return
+
+
+    def print_models(self):
+        lst = []
+        for k,v in self.ui_models.items():
+            lst.append([f'__{k}'])
+            for x,y in v['R'].items():
+                lst1 = [x] + list(y)
+                lst.append(lst1)
+            lst.append(['abs',v['abs']])
+            lst.append([ 'suf',v['suf']])
+            lst.append(['sufd' ,v['sufd']])
+            lst.append(['pos', v['pos']])
+            if 'sim' not in v:
+                p (k)
             else:
-                self.word2fit3[x] = sort_dct_val_rev(y)
+                for x,y in v['sim'].items():
+                    lst1 = [x]
+                    for z in y:
+                        lst1 += list(z)
+                    lst.append(lst1)
+
+
+
+        file = f'{dwn_dir}adjust_models'
+        to.from_lst2txt_tab_delim(lst, file)
+        vgf.open_txt_file(file)
+
+
+    def get_old2new_model(self):
+        miss = set()
+        self.old2new = {}
+        lst5 = []
+        dct3 = {}
+        dct4 ={}
+        for x, y in self.word2fit2.items():
+            xu, num = cut_num(x, 1)
+            clem = self.llem2clem[xu].get(num)
+            if clem==None:
+                dct4[x]=y
+            elif not clem:
+                dct3[x]=y
+
+            else:
+                lst5.append([xu+clem, y[0]])
+
+
+
 
         return
+
+
+    def temp19(self):
+        lst = []
+        for x,y in self.old2new.items():
+            pass
+
 
     def get_model_popularity(self):
         self.model_popularity = {}
@@ -1053,16 +1193,6 @@ class memorize_cl(reg_decl):
 
         return
 
-    def det_pos3(self, lst):
-        dct = defaultdict(int)
-        for k in lst:
-            pos = k[1]
-            pos2 = self.mc_ins.det_pos(pos)
-            dct[pos2] += k[2]
-
-        dct = sort_dct_val_rev(dct)
-        return vgf.dct_idx(dct)
-
     def order_lalems(self):
         final_pos = pi.open_pickle(f'{fold}final_pos', 1)
         for k, v in self.lalems2forms.items():
@@ -1146,7 +1276,6 @@ class stem_patterns(memorize_cl):
     def __init__(self):
         memorize_cl.__init__(self)
 
-
     def use_review(self):
         '''
         it looks like puberes as pn and pa are adjectives
@@ -1173,7 +1302,7 @@ class stem_patterns(memorize_cl):
                 parent = lem[1:]
             else:
                 if not obl:
-                    self.no_stem_change[lem]=lem
+                    self.no_stem_change[lem] = lem
                 else:
                     self.lemm2ostem2[lem] = obl
 
@@ -1184,26 +1313,20 @@ class stem_patterns(memorize_cl):
 
     def add2lem2stem(self):
         missing = {}
-        for x,y in self.word2stems.items():
-            if x not in self.lemm2ostem2 and x not in self.no_stem_change\
+        for x, y in self.word2stems.items():
+            if x not in self.lemm2ostem2 and x not in self.no_stem_change \
                     and x not in self.alt_nom:
-                if len(y)>1:
-                    missing[x]=y
+                if len(y) > 1:
+                    missing[x] = y
                 else:
                     b = vgf.dct_idx(y)
                     xu = cut_num(x)
                     if b == xu:
-                        self.no_stem_change[x]=xu
+                        self.no_stem_change[x] = xu
                     else:
-                        self.lemm2ostem2[x]=b
-
-        # for x,y in self.third_variants.items():
-        #     if x != y.oblique and y.oblique:
-        #         self.lemm2ostem2[x] = y.oblique
+                        self.lemm2ostem2[x] = b
 
         return
-
-
 
     def use_more_nom_stems(self):
         file = f'{fold}more_nom_stems'
@@ -1220,8 +1343,6 @@ class stem_patterns(memorize_cl):
 
         return
 
-
-
     def get_plural_only_thirds(self):
         dctp = {}
         for k, v in self.lalems2forms2.items():
@@ -1234,12 +1355,11 @@ class stem_patterns(memorize_cl):
         self.plural_only_thirds = dctp
         return
 
-
     def use_more_third_variant_spellings(self):
         file = f'{fold}more_third_variant_spellings'
-        lst =to.from_txt2lst_tab_delim( file)
+        lst = to.from_txt2lst_tab_delim(file)
         for l in lst:
-            lem =l[0]
+            lem = l[0]
             obl = l[1]
             if lem.startswith('_'):
                 lem = lem[1:]
@@ -1254,11 +1374,12 @@ class stem_patterns(memorize_cl):
                 varus = cut_num(varu)
                 if varus == obl:
                     obl = ""
-                ins = alt_cls(varu,las_lem,obl)
+                ins = alt_cls(varu, las_lem, obl)
                 self.third_variants[varu] = ins
 
-
-
+    def clem_oblique_stems(self):
+        for k, v in self.lemm2ostem2.items():
+            pass
 
     def stem_patterns_fu(self):  # 403
         self.st_patterns = defaultdict(set)
@@ -1386,20 +1507,18 @@ class stem_patterns(memorize_cl):
 
 
                     else:
-                        remainder.append([lem,v])
+                        remainder.append([lem, v])
 
         self.order_st_patterns(remainder)
 
-
         return
 
-
     def order_st_patterns(self, remainder):
-        dct = {k:len(v) for k,v in self.st_patterns.items()}
+        dct = {k: len(v) for k, v in self.st_patterns.items()}
         self.st_patterns = vgf.sort_dct_by_dct(self.st_patterns, dct)
         to_remove = set()
-        for k,v in self.st_patterns.items():
-            if len(v)==1:
+        for k, v in self.st_patterns.items():
+            if len(v) == 1:
                 to_remove.add(k)
                 for z in v:
                     remainder.append(z)
@@ -1408,7 +1527,6 @@ class stem_patterns(memorize_cl):
             del self.st_patterns[x]
 
         return
-
 
     def get_no_stem_change(self, stem_change_mispelled):
         self.no_stem_change = {}
@@ -1703,6 +1821,19 @@ class third_decl(stem_patterns):
         missing = self.lthird - set(self.word2mod.keys())
         return
 
+    def wrong_co_lemma(self):
+        lst = []
+        for mod, v in self.mod2word2.items():
+            mod1 = self.best_repr.get(mod)
+            mod1 = cut_num(mod1)
+            for z in v:
+                c = self.llem2clem2.get(z)
+                if c:
+                    lst.append([c, mod1])
+
+        file = f'{fold}wrong_model3'
+        self.output(1, lst, file)
+
     def export2modeles4(self):
         del self.mod2word2[0]
         lst2 = []
@@ -1723,12 +1854,14 @@ class third_decl(stem_patterns):
             c = 'R:1:0,0'
             h = f'des:413:1:ī'
             nm = f'modele:{self.best_repr[k]}'
+            if nm.endswith('mare'):
+                nm += '1'
             if "x" not in k:
-                s = "des:3-12:2:"
+                s = "des:3-12:1:"
                 u = f'{lst[0]};is;ī;{lst[1]};{pn};{pa};{lst[4]};ibus;ibus'
                 f = 'des:1,2:0:-;-'
             else:
-                s = "des:4-12:2:"
+                s = "des:4-12:1:"
                 f = 'des:1-3:0:-;-'
                 u = f'is;ī;{lst[1]};{pn};{pa};{lst[4]};ibus;ibus'
             g = f'{s}{u}'
@@ -1736,9 +1869,9 @@ class third_decl(stem_patterns):
             lst3 = [nm, b, c, f, g, h, i, code, members, '']
             for r in lst3:
                 lst2.append(r)
-        # lst6 = to.from_txt2lst(f'{fold}modeles4')
-        # lst6.append('')
-        # lst6 += lst2
+        lst6 = to.from_txt2lst(f'{fold}modeles4')
+        lst6.append('')
+        lst6 += lst2
         file = f'{fold}modeles5'
         to.from_lst2txt(lst2, file)
 
@@ -1784,6 +1917,7 @@ class bottom_most(third_decl):
         third_decl.__init__(self)
 
     def begin(self, kind='ending', kind2=''):
+        p('now building lists of data to memorize')
         self.get_atts(kind2)
         kind3 = 1
         if kind3:
@@ -1798,11 +1932,12 @@ class bottom_most(third_decl):
             self.combine_proper2()
             # self.build_lasla_dct()
         self.get_declensions_dct()
-        if kind in ['ending', 'all']:
+        if kind in ['ending']:
             self.a_end()
             self.a_end_research()
         if kind in ['reg_decl', 'all']:
             self.get_ddct()
+            self.del_models()
             self.main_loop_fd()
             self.anom_by_percent()
             self.get_model_popularity()
@@ -1815,6 +1950,7 @@ class bottom_most(third_decl):
             self.infer_empty_prop()
             self.elim_anomalies2()
             self.get_best_repr()
+            self.wrong_co_lemma()
             self.export2modeles4()
             self.use_more_nom_stems()
             self.use_review()
@@ -1843,8 +1979,8 @@ if eval(not_execute_on_import):
         args = [0, 'tel', 'start', 'IX', '', 0, 0]
         args = [0, 'tes', 'start', 'IX', '', 0, 0]
         args = [0, 'tej', 'start', 'IX', '', 0, 0]
-        args = [0, 'all', 'start', 'IX', '', 0, 0]
         args = [0, 'third', 'start', 'IX', '', 0, 0]
+        args = [0, 'all', 'start', 'IX', '', 0, 0]
 
     else:
         args = vgf.get_arguments()
@@ -1861,4 +1997,3 @@ if eval(not_execute_on_import):
     else:
         ins = bottom_most()
         ins.begin(args[1], args[2])
-

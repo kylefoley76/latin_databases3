@@ -7,13 +7,6 @@ from lglobals import *
 # authors = ['LS', 'GG', 'GJ', 'Ge', 'FG', 'Lw', 'YO', 'PO', 'WW']
 
 
-
-
-
-
-
-
-
 class colatinus():
     def __init__(self):
         '''

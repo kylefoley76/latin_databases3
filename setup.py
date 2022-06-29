@@ -7,7 +7,7 @@ long_description = ( this_directory/ "README.md").read_text()
 
 setup(
     name='latin_databases',
-    version='0.1.0',
+    version='0.1.2',
     description='none',
     long_description=long_description,
     long_description_content_type='text/markdown',
@@ -16,7 +16,7 @@ setup(
     author_email='kylefoley202@gmail.com',
     license='BSD',
     zip_safe=False,
-    packages=['latin'],
+    packages=['latin','latin/general_la'],
     install_requires=['Levenshtein',
                       'striprtf==0.0.12',
                       ],

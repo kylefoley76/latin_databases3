@@ -32,26 +32,21 @@ def elim_useless_files():
 
     return
 
-
-
-
 def begin():
-    ins = a_colat1.get_co_lemmas1()
-    ins.begin()
-    ins = a_colat2.bottom_most()
-    ins.begin()
-    ins.kind = 'p'
-    ins.begin(1)
-    ins = a_colat3.colatinus()
-    ins.begin()
-    ins = a_colat4.bottom_most_a4()
-    ins.begin_fc()
-    ins = e_pedocerto.long_by_pos()
-    ins.begin3()
-    ins = e_pedocerto.check_vowels()
-    ins.begin()
-    ins = e_pedocerto.check_vowels()
-    ins.begin_e()
+    # ins = a_colat1.get_co_lemmas1()
+    # ins.begin()
+    # ins = a_colat2.bottom_most()
+    # ins.begin()
+    # ins.kind = 'p'
+    # ins.begin(1)
+    # ins = a_colat3.colatinus()
+    # ins.begin()
+    # ins = a_colat4.bottom_most_a4()
+    # ins.begin_fc()
+    # ins = e_pedocerto.long_by_pos()
+    # ins.begin3()
+    # ins = e_pedocerto.check_vowels()
+    # ins.begin_e()
     if not public:
         ins = i_scrape_old.bottom_most()
         ins.begin()

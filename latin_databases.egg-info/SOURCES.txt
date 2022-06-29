@@ -8,6 +8,7 @@ latin/a_colat3.py
 latin/a_colat4.py
 latin/add_path.py
 latin/e_pedocerto.py
+latin/gglobal.py
 latin/j_lasla.py
 latin/j_lasla2.py
 latin/lglobals.py
@@ -15,6 +16,11 @@ latin/m_stems.py
 latin/o_memorize.py
 latin/w_convert_mod.py
 latin/z_begin.py
+latin/general_la/__init__.py
+latin/general_la/abbreviations.py
+latin/general_la/pickling.py
+latin/general_la/trans_obj.py
+latin/general_la/very_general_functions.py
 latin_databases.egg-info/PKG-INFO
 latin_databases.egg-info/SOURCES.txt
 latin_databases.egg-info/dependency_links.txt

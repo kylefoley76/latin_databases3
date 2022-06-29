@@ -253,7 +253,7 @@ class use_prefixes(top):
                 pre = v[0]
                 stem = self.cut_off_suffix(stem, end)
                 self.double2prefix[k] = (pre, stem, end)
-                p(pre, stem, end)
+                # p(pre, stem, end)
 
         for x in to_de:
             del self.double2prefix[x]
@@ -1097,6 +1097,7 @@ class bottom(stems):
         stems.__init__(self)
 
     def begin_st(self):
+        p ('now dividing words into morphemes')
         '''
         the methods get_endings, ana_homop and permutations might
             still be useful

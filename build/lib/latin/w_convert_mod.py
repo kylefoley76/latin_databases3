@@ -124,19 +124,24 @@ def parse_range(des_number):
             ids += [int(des_group)]
     return ids
 
+def get_model(pos):
+    model = {
+        "R": {},
+        "abs": [],  # Unused desinence if inherits
+        "des": {},  # Dict of desinences
+        "suf": [],  # Dict of Suffixes
+        "sufd": [],  # Possible endings
+        "pos": pos  # Possible endings
+    }
+    return model
+
 
 def convert_models(lines, tst=0):
 
     old2new = {}
 
     models = {}
-    __model = {
-        "R": {},
-        "abs": [],  # Unused desinence if inherits
-        "des": {},  # Dict of desinences
-        "suf": [],  # Dict of Suffixes
-        "sufd": []  # Possible endings
-    }
+
     __R = re.compile("^R:(?P<root>\d+):(?P<remove>-|\w+)[,:]?(?P<add>\w+)?", flags=re.UNICODE)
     if not tst:
         __des = re.compile("^des[\+]?:(?P<range>[\d\-,]+):(?P<root>\d+):(?P<des>[\w"+cobr+"[\-,;]+)?$")
@@ -144,7 +149,9 @@ def convert_models(lines, tst=0):
         __des = re.compile("^des[\+]?:(?P<range>[\d\-,]+):(?P<root>\d+):(?P<des>[\w\-,;]+)?$", flags=re.UNICODE)
     last_model = None
     variable_replacement = {}
-
+    current_pos = 'n'
+    lpos = 'n'
+    real_last_model = ''
     for lineno, line in enumerate(lines):
         line = line.strip()
         if "des:189-200:2:$lupus" in line:
@@ -152,6 +159,9 @@ def convert_models(lines, tst=0):
 
         if line.startswith('!;'):
             old2new[line[2:]] = last_model
+        if line.startswith('pos:'):
+            current_pos = line[4]
+            models[last_model]['pos'] = current_pos
 
         # If we get a variable
         if line.startswith("$"):
@@ -161,8 +171,9 @@ def convert_models(lines, tst=0):
             variable_replacement[var] = rep
         elif len(line) > 0 and not line.startswith("!"):
             if line.startswith("modele:"):
+
                 last_model = line[7:]
-                models[last_model] = deepcopy(__model)
+                models[last_model] = get_model(current_pos)
             elif line.startswith("pere:"):
                 # Inherits from parent
                 models[last_model].update(
@@ -248,6 +259,7 @@ def convert_models(lines, tst=0):
                 if line.startswith("pos"):
                     continue
                 print(line.split(":")[0], lineno)
+
     pi.save_pickle(old2new,f'{fold}old2new_mods',1)
     return models
 
@@ -293,6 +305,7 @@ def get_norm_mod(file, tst=0):
             lines = normalize_unicode(f.read()).split("\n")
         else:
             lines = f.read().split("\n")
+        lines += to.from_txt2lst(f'{fold}modeles5')
         norm_models = convert_models(lines,tst)
     return norm_models
 

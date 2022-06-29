@@ -7,6 +7,9 @@ exclude latin/h_fact_organizer.py
 exclude latin/k_macr_txt.py
 exclude latin/v_reading.py
 exclude latin/large_files/
+exclude latin/files/
+exclude latin/lasla/
+exclude latin/lasla2/
 exclude lwe/
 exclude .DS_Store
 exclude latin/.DS_Store
