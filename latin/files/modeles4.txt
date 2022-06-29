@@ -809,6 +809,7 @@ pere:pulcher
 R:0:4,ūtr
 des:16,17,28,29,40,41:0:īus;ī;īus;ī;īus;ī
 abs:49-120
+pos:a
 
 modele:uterque
 pere:uter

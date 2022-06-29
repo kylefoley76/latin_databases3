@@ -131,6 +131,7 @@ class pedecerto:
         else:
             self.macronizer_pc = pi.open_pickle(f'{fold}macronizer_pc', 1)
             self.pros_stats = pi.open_pickle(f'{fold}pros_stats', 1)
+        return
 
     def output_p(self):
         pi.save_pickle(self.prosodic_stats, f'{fold}prosodic_stats_new', 1)
@@ -233,6 +234,8 @@ class long_by_pos:
         self.output()
         return
 
+
+
     def get_atts(self, pede=0):
         self.ucons_dct = {}
         if not pede:
@@ -244,11 +247,23 @@ class long_by_pos:
             self.prosodic = to.from_txt2lst(f'{fold}prosodic')
             self.macronizer = pi.open_pickle(f'{fold}macronizer_new', 1)
             self.prosodic_stats = {}
+        return
 
     def output(self):
         st = set(v[0].iu for k, v in self.still_wrong.items())
         to.from_lst2txt(st, f'{fold}col_ped_diff')
 
+
+    def research_ui(self):
+        dct1 = {}
+        dct2 = {}
+        for x,y in self.prosodic_stats.items():
+            if 'ui' in x:
+                if reg(r'u\+i[^\+\-]', y.raw) or reg(r'u\+i$', y.raw):
+
+                    dct1[x] = y.raw
+                else:
+                    dct2[x] = y
 
 
     def special_prefixes(self):
@@ -316,6 +331,7 @@ class long_by_pos:
         singles += [x + 'r' for x in 'bcdgpt']
         self.singles = singles
         self.special_prefixes()
+        self.wrong = []
 
     def step2(self):
         self.wrong = []  # should be 58
@@ -348,7 +364,7 @@ class long_by_pos:
 
     def is_heavy(self, x, kind=""):
         xo = x
-
+        self.syllables = []
         for s in self.singles:
             x = x.replace(s, s[0] + '_')
         y = unidecode(x)
@@ -415,6 +431,10 @@ class long_by_pos:
                             self.add2wrong(x, xl)
                             break
 
+
+                    bb=8
+
+
             elif xlu in 'aeiouy':
                 if combo2 in ['fl', 'fr']:
                     if not self.single:
@@ -455,7 +475,7 @@ class long_by_pos:
         the second is an _
         '''
         found = 0
-        if kind == 'c':
+        if kind in ['c','a']:
             if not self.quantified(combo[0]) and not self.quantified(combo[1]):
                 x = self.make_long(x, i)
                 found = 1
@@ -467,6 +487,9 @@ class long_by_pos:
         return x, i
 
     def underscore(self, x, i):
+        # if self.kind == 'a':
+        #     return replace_at_i(i, x, '+')
+        # else:
         return replace_at_i(i, x, '_')
 
     def add2wrong(self, x, xl):
@@ -528,8 +551,19 @@ class check_vowels(long_by_pos):
         self.get_atts2()
         self.unambig_words()
         self.mark_long(1)
-        self.by_author()
+        #self.by_author() currently has bugs
         return
+
+
+
+
+    def begin_ac(self):
+        self.get_atts2()
+        self.kind = 'a'
+        self.single = 1
+        self.lem2forms_jv = pi.open_pickle(f'{fold}lem2forms')
+        # self.test_ac()
+        self.get_accent()
 
 
     def get_atts(self):
@@ -599,7 +633,9 @@ class check_vowels(long_by_pos):
         for auth, dct in self.macronizer_each.items():
             b = 0
             p (f"""
-            now evaluating the following author: {auth}
+            now evaluating the extent to which the following author: 
+            {auth}
+            agrees with the others in terms of syllable length
             """)
             self.unambig2 = {}
             for k, v in dct.items():
@@ -610,9 +646,10 @@ class check_vowels(long_by_pos):
                     marked, orig = self.is_heavy(x, kind)
                     vgf.print_intervals(b, 1000,None,len(dct))
                     v = vow_marked(k, x, marked)
-                    code = self.get_code(marked, kind)
+                    code, locs = self.get_code(marked, kind)
                     v.nature = code
                     self.unambig2[k] = v
+
             auth2wrong[auth], perc = self.evaluate()
             a2perc[auth] = perc
             p (f'{auth} has a success ratio of {perc}')
@@ -621,49 +658,98 @@ class check_vowels(long_by_pos):
 
 
 
-    def mark_long(self, only_pro=0):
+    def mark_long(self, only_pro=0, lst2=[]):
         self.single = 1
-        lst = [self.prosodic_stats, self.unambig]
+        self.single = 0 # usually 1
+        if lst2:
+            lst = [self.prosodic_stats, self.unambig]
+        else:
+            lst = lst2
+
         self.unambig2 = {}
         p(f"""
         now seeing if we correctly understand how
         pedecerto determines a long syllable 
-""")
+        """)
 
         for e, dct in en(lst):
             b = 0
-            if only_pro and e:
-                break
-            for k, v in dct.items():
-                if e == 0:
-                    x = v.wmac
-                    kind = 'p'
-                else:
-                    x = v # v is the first half of a split
-                    kind = 'c'
-                marked, orig = self.is_heavy(x, kind) # marked has only the short and long vowels, string
-                b += 1
-                vgf.print_intervals(b, 1000, None, len(dct))
-                if e == 0:
-                    v.marked = marked
-                else:
-                    v = vow_marked(k, v, marked) # k is an unmacronized full word string
-                code = self.get_code(marked, kind)
-                v.nature = code
-                if e:
-                    self.unambig2[k] = v
+            if e> 0:
+                if only_pro and e:
+                    break
+                for k, v in dct.items():
+                    if e == 0:
+                        x = v.wmac
+                        kind = 'p'
+                    else:
+                        x = v # v is the first half of a split
+                        kind = 'c'
+                    marked, orig = self.is_heavy(x, kind) # marked has only the short and long vowels, string
+                    if marked != orig:
+                        bb=8
+                    b += 1
+                    vgf.print_intervals(b, 1000, None, len(dct))
+                    if e == 0:
+                        v.marked = marked
+                    else:
+                        v = vow_marked(k, v, marked) # k is an unmacronized full word string
+                    code, locs = self.get_code(marked, kind)
+                    v.nature = code
+                    if e:
+                        self.unambig2[k] = v
         return
+
+    def test_ac(self):
+        self.get_accent2( 'achaeīssimum')
+
+
+    def get_accent(self):
+        for k,v in self.lem2forms_jv.items():
+            for pos,y in v.items():
+
+                lst = []
+                for z in y[0]:
+                    word = self.get_accent2(z)
+                    lst.append(word)
+                y[0] = lst
+                done = 1
+                v[pos] = y
+        return
+
+
+    def get_accent2(self, x):
+        marked, orig = self.is_heavy(x,'a')  # marked has only the short and long vowels, string
+        code, locs = self.get_code(marked,'a')
+        if len(code)>2:
+            if code[-2] == '+':
+                sloc = locs[-2]+1
+            else:
+                sloc = locs[-3]+1
+            x = add_at_i(sloc,x,ac)
+
+        return x
+
+
+
 
     def get_code(self, x, kind):
         code = ""
-        for y in x:
-            if self.isshort(y) and kind == 'p':
+        locs = []
+        for e,y in en(x):
+            if y == '+':
+                code += '+'
+                locs.append(e)
+            elif self.isshort(y) and kind == 'p':
                 code += '-'
-            elif kind == 'c' and y in 'aeiouy':
+                locs.append(e)
+            elif kind in ['c','a'] and y in 'aeiouy':
                 code += '-'
+                locs.append(e)
             elif self.islong(y):
                 code += '+'
-        return code
+                locs.append(e)
+
+        return code, locs
 
     def evaluate(self):
         tot = 0
@@ -692,11 +778,12 @@ class check_vowels(long_by_pos):
         return wrong, right / tot
 
     def temp_conu(self, pro, col):
-        if 'u' in pro.marked:
-            idx = pro.marked.index('u')
-            if len(col.marked) >= idx:
-                col.marked = replace_at_i(idx, col.marked, '_')
-                col.nature = self.get_code(col.marked, 'c')
+        if hasattr(pro, 'marked'):
+            if 'u' in pro.marked:
+                idx = pro.marked.index('u')
+                if len(col.marked) >= idx:
+                    col.marked = replace_at_i(idx, col.marked, '_')
+                    col.nature,_ = self.get_code(col.marked, 'c')
         return
 
 
@@ -720,6 +807,10 @@ if eval(not_execute_on_import):
     elif args[1] == 'cve':
         ins = check_vowels()
         ins.begin_e()
+    elif args[1] == 'acc':
+        ins = check_vowels()
+        ins.begin_ac()
+
     elif args[1] == 'all':
         ins = long_by_pos()
         ins.begin3()

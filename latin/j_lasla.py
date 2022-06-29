@@ -578,6 +578,7 @@ class convert2txt(parse_words):
         self.adjacent = set()
         self.ninfo = ''
         self.lword = ''
+        self.enclits = set()
         self.adjacent3 = 1
         self.paren2loc = {}
         self.delay_sum = 0
@@ -689,8 +690,8 @@ class convert2txt(parse_words):
                 self.toword = self.tword
                 self.parse_words_pre()
                 self.tlemma = self.tlemma + self.lem_num
-                if self.word == 'quam ob rem':
-                    bb = 8
+
+
 
             if self.tword and self.tword[0] == '$':
                 self.cpos = 'gr'
@@ -914,7 +915,7 @@ class convert2txt(parse_words):
             _4 = list does not have 5 elements (fix)
             _nsp = pos in #, 0 but not space in the word
             _y sum word were one line = next line
-            _r has space and word = next word (no longer anomalous)
+            _rf, _rp has space and word = next word (no longer anomalous)
             _w space in word and lemma is _sum2
             _n hash_words
             _sp seperable but ill formed

@@ -1,8 +1,6 @@
  %%%             the following words are roots of lemmas for which not %%%             enough info has been given regarding their vowel quantity %%%             
 ['applicit', 'applico']
 ['optum', 'bene']
-['optum', 'bonus']
-['optim', 'bonus']
 ['calefact', 'calefacio']
 ['calefact', 'calefio']
 ['complicit', 'complico']

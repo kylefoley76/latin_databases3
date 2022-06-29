@@ -2,7 +2,7 @@ modele:homo
 R:0:0,0
 R:1:0,0
 des:1,2:0:-;-
-des:3-12:2:em;is;ī;e;ēs;ēs;um;ibus;ibus
+des:3-12:1:em;is;ī;e;ēs;ēs;um;ibus;ibus
 des:413:1:ī
 pos:n
 code:em;e;es;es;um
@@ -12,7 +12,7 @@ modele:uirtus
 R:0:0,0
 R:1:0,0
 des:1,2:0:-;-
-des:3-12:2:em;is;ī;e;ēs;ēs;ium,um;ibus;ibus
+des:3-12:1:em;is;ī;e;ēs;ēs;ium,um;ibus;ibus
 des:413:1:ī
 pos:n
 code:em;e;es;es;ium,um
@@ -22,7 +22,7 @@ modele:hostis
 R:0:0,0
 R:1:0,0
 des:1,2:0:-;-
-des:3-12:2:em;is;ī;e;ēs;ēs,īs;ium;ibus;ibus
+des:3-12:1:em;is;ī;e;ēs;ēs,īs;ium;ibus;ibus
 des:413:1:ī
 pos:n
 code:em;e;es;es,is;ium
@@ -32,17 +32,17 @@ modele:tempus1
 R:0:0,0
 R:1:0,0
 des:1-3:0:-;-
-des:4-12:2:is;ī;e;a;a;um;ibus;ibus
+des:4-12:1:is;ī;e;a;a;um;ibus;ibus
 des:413:1:ī
 pos:n
 code:x;e;a;a;um
 members: 141
 
-modele:mare
+modele:mare1
 R:0:0,0
 R:1:0,0
 des:1-3:0:-;-
-des:4-12:2:is;ī;e,i;ia;ia;ium;ibus;ibus
+des:4-12:1:is;ī;e,i;ia;ia;ium;ibus;ibus
 des:413:1:ī
 pos:n
 code:x;e,i;ia;ia;ium
@@ -52,7 +52,7 @@ modele:uis
 R:0:0,0
 R:1:0,0
 des:1,2:0:-;-
-des:3-12:2:im;is;ī;e,i;ēs;ēs,īs;ium;ibus;ibus
+des:3-12:1:im;is;ī;e,i;ēs;ēs,īs;ium;ibus;ibus
 des:413:1:ī
 pos:n
 code:im;e,i;es;es,is;ium
@@ -62,7 +62,7 @@ modele:pars
 R:0:0,0
 R:1:0,0
 des:1,2:0:-;-
-des:3-12:2:em;is;ī;e,i;ēs;ēs,īs;ium;ibus;ibus
+des:3-12:1:em;is;ī;e,i;ēs;ēs,īs;ium;ibus;ibus
 des:413:1:ī
 pos:n
 code:em;e,i;es;es,is;ium
@@ -72,7 +72,7 @@ modele:ciuitas
 R:0:0,0
 R:1:0,0
 des:1,2:0:-;-
-des:3-12:2:em;is;ī;e;ēs;ēs,īs;ium,um;ibus;ibus
+des:3-12:1:em;is;ī;e;ēs;ēs,īs;ium,um;ibus;ibus
 des:413:1:ī
 pos:n
 code:em;e;es;es,is;ium,um
@@ -82,7 +82,7 @@ modele:nauis
 R:0:0,0
 R:1:0,0
 des:1,2:0:-;-
-des:3-12:2:im,em;is;ī;e,i;ēs;ēs,īs;ium;ibus;ibus
+des:3-12:1:im,em;is;ī;e,i;ēs;ēs,īs;ium;ibus;ibus
 des:413:1:ī
 pos:n
 code:im,em;e,i;es;es,is;ium
@@ -92,7 +92,7 @@ modele:lux
 R:0:0,0
 R:1:0,0
 des:1,2:0:-;-
-des:3-12:2:em;is;ī;e,i;ēs;ēs;um;ibus;ibus
+des:3-12:1:em;is;ī;e,i;ēs;ēs;um;ibus;ibus
 des:413:1:ī
 pos:n
 code:em;e,i;es;es;um
@@ -102,7 +102,7 @@ modele:animans1
 R:0:0,0
 R:1:0,0
 des:1,2:0:-;-
-des:3-12:2:em;is;ī;e;ēs,ia;ēs,īs,ia;ium;ibus;ibus
+des:3-12:1:em;is;ī;e;ēs,ia;ēs,īs,ia;ium;ibus;ibus
 des:413:1:ī
 pos:n
 code:em;e;es,ia;es,is,ia;ium
@@ -112,7 +112,7 @@ modele:guttur
 R:0:0,0
 R:1:0,0
 des:1,2:0:-;-
-des:3-12:2:em;is;ī;e;a;a;um;ibus;ibus
+des:3-12:1:em;is;ī;e;a;a;um;ibus;ibus
 des:413:1:ī
 pos:n
 code:em;e;a;a;um

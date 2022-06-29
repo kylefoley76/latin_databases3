@@ -3,10 +3,10 @@ import add_path
 if not public:
     from general import *
     fold = f'{vol}documents/pcode/latin/latin/files/'
-    lfold = f'{vol}documents/latin/latin/'
+    lfold = f'{vol}documents/pcode/latin/latin/'
 
 else:
-    from latin.general import *
+    from general_la import *
     fold = 'files/'
     lfold = ''
 
@@ -19,18 +19,26 @@ from collections import defaultdict
 bfold = f'old/old_files/'
 lafold = f'{lfold}lasla/'
 lafold2 = 'latin/lasla/'
+phi_fold = f'{vol}documents/latin/phi/'
+lat_fold=f'{vol}documents/latin/'
 
 cobr = chr(774)  # both hat and lemma
 conu = chr(7909)
 tie = chr(865)
-diph = ['ae', 'au', 'ei', 'eu', 'oe', 'ui']
+ac = chr(769) # accent mark
+el = chr(8255)
+circle = "\u25e6"
+
+diph = ['ae', 'au', 'ei', 'eu', 'oe']
+## only words with the cui, cuius or huic huius
+## have the ui diphthong
 authors = ['LS', 'GG', 'GJ', 'Ge', 'FG', 'Lw', 'YO', 'PO', 'WW']
 authors2 = ['LS', 'GG', 'GJ', 'Ge', 'Lw', 'YO', 'PO']
 authors3 = ['PO', 'GG', 'Ge', 'LS', 'LW', 'GJ', 'YO']
 encs = {'que', 'ue', 'ne', 'st','cum','dum','nam'}
 def_order = ['co', 'ls', 'lw', 'gj', 'gg', 'ge']
 def_order_long = ['lw', 'co', 'ls', 'gj', 'gg', 'ge']
-
+false_diph = set()
 
 class JVReplacer(object):  # pylint: disable=R0903
     """Replace J/V with I/U."""
@@ -493,13 +501,20 @@ class decline:
 
         model, mstem, tdct = self.long(lemma, ui)
         self.get_stem_dct(model, mstem, tdct)
+        make_short = {
+            'a':'ă',
+            'e':'ĕ',
+            'i':'ĭ',
+            'o':'ŏ',
+            'u':'ŭ',
+        }
 
         fdct = {}
         sdct = defaultdict(list)
         sufd = model['sufd']
         for posn, v in model['des'].items():
             if posn not in model['abs']:
-                if posn in [413]:
+                if posn in [37]:
                     bb=8
                 suf = self.suf.get(posn, [])
                 if not sufd and suf:
@@ -523,15 +538,19 @@ class decline:
                                     sdct[pos1].append((root, sub, mid + ending + s))
                                     if not model['sufd']:
                                         sdct[pos1].append((root, sub, mid + ending))
-
                             else:
                                 sdct[pos1].append((root, sub, mid + ending))
-
 
                     else:
                         rlst = self.stems[root]
                         for beg in rlst:
                             for ending in endings:
+                                found = 0
+                                if not ui and ending and beg:
+                                    new_dip = f'{beg[-1]}{ending[0]}'
+                                    if new_dip in diph:
+                                        found = 1
+                                        beg = f'{beg[:-1]}{make_short[beg[-1]]}'
                                 if sufd:
                                     for s in sufd:
                                         word = f'{beg}{ending}{s}'
@@ -546,9 +565,12 @@ class decline:
 
                                 else:
                                     word = f'{beg}{ending}'
+                                    if found:
+                                        if word not in false_diph:
+                                            false_diph.add(word)
+                                            # p (f'false diphthong {word}')
                                     if word not in lst:
                                         lst.append(word)
-
 
                 sufd = model['sufd']
                 fdct[posn] = [lst, pos1]

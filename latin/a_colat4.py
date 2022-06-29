@@ -1,6 +1,6 @@
 
 from lglobals import *
-
+from e_pedocerto import check_vowels
 
 
 
@@ -35,6 +35,10 @@ class top_most:
         self.lem2forms_ui = {}
         self.macronizer_new = {}
         self.fake_enclitics = {}
+        if kind == 'rs':
+            self.word2stress = {}
+        else:
+            self.word2stress = pi.open_pickle(f'{fold}word2stress')
 
     def shortcut(self):
         self.lem2forms_ui = pi.open_pickle(f'{fold}lem2forms_ui')
@@ -51,8 +55,9 @@ class top_most:
             pi.save_pickle(self.co_lemmas3, f'{fold}co_lemmas4')
             pi.save_pickle(self.ui_models, f'{fold}ui_models')
         if kind in [0,4]:
-            pi.save_pickle(self.lem2forms, f'{fold}lem2forms')
+            pi.save_pickle(self.lem2forms, f'{fold}lem2forms_jv')
             pi.save_pickle(self.lem2forms_ui, f'{fold}lem2forms_ui')
+            pi.save_pickle(self.word2stress, f'{fold}word2stress')
             pi.save_pickle(self.lem2forms_pos, f'{fold}lem2forms_pos')
         if kind == 1:
             pi.save_pickle(self.fake_enclitics, f'{fold}fake_enclitics')
@@ -718,13 +723,12 @@ class colat(top_most):
             if dct4:
                 dct3[mod] = dct4
 
-
-
-
+        # self.ins_pedecerto()
         # lalems = pi.open_pickle(f'{sfold}lalems2forms')
         #tuite in geneitive, 2 tu in nominative
         # lst1 = self.mdec.dec('lupus')
-        lst6 = self.mdec.dec('sum')
+        lst6 = self.mdec.dec('fortis')
+        self.add_accent2(lst6)
         lst7 = self.mdec_ui.dec('deus')
         lst  = self.mdec.dec('ego')
         lst3 = self.mdec.dec('nos')
@@ -804,14 +808,24 @@ class colat(top_most):
             self.co_lemmas3['bonus']['model'] = 'magnus'
             self.co_lemmas3['malus']['model'] = 'magnus'
 
+    def ins_pedecerto(self):
+        self.pdc = check_vowels()
+        self.pdc.kind = 'a'
+        self.pdc.single = 1
+        self.pdc.get_atts2()
+
+
+
     def get_lem2forms(self):
+        self.ins_pedecerto()
         p('now declining all words')
         self.lem2forms = {}
+        self.word2stress = {}
         b = 0
         for word, obj in self.co_lemmas3.items():
             lst = self.mdec.dec(word)
             lst1 = self.mdec_ui.dec(word, 1)
-            self.lem2forms[word] = lst
+            self.lem2forms[word] = self.add_accent2(lst)
             self.lem2forms_ui[word] = lst1
             pos = obj['pos']
             ku, num = cut_num(word, 1)
@@ -821,8 +835,23 @@ class colat(top_most):
                 self.lem2forms_pos[ku][pos] = defaultdict(list)
             self.lem2forms_pos[ku][pos][num].append(lst1)
             b += 1
-            vgf.print_intervals(b, 1000, None, len(self.co_lemmas3))
+            vgf.print_intervals(b, 100, None, len(self.co_lemmas3))
         return
+
+    def add_accent2(self, dct):
+        for k,v in dct.items():
+            lst1 = []
+            for z in v[0]:
+                obj = self.word2stress.get(z)
+                if obj:
+                    lst1.append(obj)
+                else:
+                    obj = self.pdc.get_accent2(z)
+                    self.word2stress[z] = obj
+                    lst1.append(obj)
+            dct[k][0] = lst1
+        return dct
+
 
     def get_fake_enclitics(self):
         p('now getting fake enclitics')
@@ -856,7 +885,7 @@ class bottom_most_a4(colat):
 
         colat.__init__(self)
 
-    def begin_fc(self, kind=0):
+    def begin_fc(self, kind=0, kind2=0):
         if kind == 4:
             self.get_atts(4)
             self.build_ui_models()
@@ -864,16 +893,16 @@ class bottom_most_a4(colat):
             self.get_lem2forms()
             self.output(4)
         elif kind > -1 and kind < 2:
-            self.get_atts()
+            self.get_atts(kind2)
             # self.expand_pos()
             self.use_fix_collat_lemmas()
             self.build_ui_models()
             self.start_decl()
             #self.test_new_mods2()
             self.simplify_decline()
-            # self.output(6)
+            self.output(6)
             # self.test_simplify()
-            # self.test_new_mods()
+            self.test_new_mods()
             self.irreg()
             self.use_del_lemmas()
             self.more_adhoc()
@@ -912,7 +941,6 @@ punctuate lasla
 convert to text
 poetry scanner
 build databases
-
 """
 
 
@@ -921,13 +949,17 @@ build databases
 
 if eval(not_execute_on_import):
     if vgf.pycharm():
-        args = [0, 'fc', '', 'IX', '', 0, 0]
+        args = [0, 'rs', '', 'IX', '', 0, 0]
     else:
         args = vgf.get_arguments()
 
-    ins = bottom_most_a4()
-    num = int(args[2]) if args[2] else 0
-    ins.begin_fc(num)
+    if args[1] == 'rs': # redo stress
+        ins = bottom_most_a4()
+        ins.begin_fc(0,'rs')
+    else:
+        ins = bottom_most_a4()
+        num = int(args[2]) if args[2] else 0
+        ins.begin_fc(num)
 
 
 

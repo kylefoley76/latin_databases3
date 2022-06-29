@@ -1,0 +1,357 @@
+!!! do not change anything for authors which have no dates
+!!! do that on the phi_auth2 sheet
+!! po = poet only, not seneca because he does both, same with petronius
+!! place a * for the part of the name that you want to use
+Velius Longus	150
+Cornelius Severus	0	po
+Lucius Annaeus Seneca* iunior	-4	65
+Marcus Caelius Rufus	-82	-48
+Rabirius	_	-150
+Sacra Argeorum
+P. Cornel. Scipio* Aem. Afr.	-185	-129	iunior*
+Gaius Licinius Mucianus	50
+Hyginus Astronomus
+Marcus Antistius Labeo	_	10
+Porcius Licinus
+Gaius Valerius Catullus*	-84	-54	po
+Gaius Aquilius Gallus
+Gaius Scribonius Curio pater	-84	-49
+Bellum Alexandrinum-Anonymous	_	-50
+Iuventius, comoed.
+Gaius Servilius Glaucia	-100
+Pompeius Trogus	-50
+Sempronius Asellio	-158	-91
+Marcus Verrius Flaccus	-55	20
+Scaevus Memor	_
+Marcus Furius Bibaculus	-103	-50
+Laelius Felix
+Dorcatius	_	0
+Anonymi Comici et Tragici
+Didascaliae et Per. in Terentium
+Marcus Tullius Cicero*	-106	-43
+Lucius Cincius	-200
+Servius Sulpicius Rufus	-105	-43
+Publius Rutilius Lupus	-90
+Gracchus, trag.
+Gaius vel Lucius Caepasius
+Aquilius, comoed.
+Publilius* Syrus	-85	-43	po
+Fabius Pictor	-270	-200
+Valerius Antias	-50
+Lucius Orbilius Pupillus	-114	-14
+Publius Aufidius Namusa	-50
+Gaius Fannius	50
+Licinius Imbrex	-250
+Lucius Livius Andronicus*	-284	-204	po
+Quintus Ennius*	-239	-169	po
+C. Iul. Caes. Augustus* Octavianus	-50
+Bellum Africum-Anonymous	-50
+Aemilius Macer	-16
+Laus Pisonis	50	po
+Septimius Serenus
+Scribonius Largus	50
+Publius Clodius Pulcher	-50
+Zeno of Verona	300	371
+Manius Manilius
+Cornificius Longus	-50
+Paulus Quaestor
+Flavius Caper	150
+Parthenius Presbyter
+Publius Saturius
+Favorinus	80	160
+L. Iunius Moderatus Columella*	4	70
+Veranius	-50
+Valerius, comoed.
+Lucius Neratius Priscus	100
+Gaius Laelius Sapiens	-188	-129
+Bruttedius Niger	0
+Marcus Porcius Cato*	-200
+Lucius Herennius Balbus	-50
+Carmen Arvale
+Cornelius Epicadus	-50
+Publius Ovidius* Naso	0	po
+Marcus Duronius	100
+Atilius
+Volumnius
+Gaius, iur.
+Priapea
+Gaius Valgius Rufus	0
+Hyginus Gromaticus
+Publius Terentius* Afer	-185	-159	po
+Caesellius Vindex	-200
+Vita Iuvenalis
+Marcus Manilius*	0
+Luscius Lanuvinus	-200
+Q. Lutatius Catulus iunior	-149	-87
+Marcus Iunius Brutus-tyr.	-50	Brutus*
+Marcus Iunius Gracchanus	-150
+Sentius Augurinus	100
+Lucius Cassius Longinus	-50
+Gaius Aurelius Cotta
+Sextus Turpilius
+Cloatius Verus
+Annianus
+Aulus Postumius Albinus
+Marcus Porcius Cato M.f.M.n.
+Manilius, poet.	0	manilius* alter*	
+Lucius Verginius Rufus
+Aemilius Asper
+Numitorius
+Gaius Erucius
+Hyginus, myth.
+Gnaeus Marcius vates
+C. Plinius* Caecilius Secundus*	61	113
+Gavius Bassus
+Sextus Propertius*	-50	-15	po
+Commentarii Consulares
+Marianus
+Quintus Curtius Rufus
+Siculus Flaccus
+Gaius Iulius Caesar Strabo
+Lucius Quinctius
+Marcus Valerius Probus
+Gaius Oppius
+Marcus Calidius
+Titus Quinctius Atta
+Gnaeus Matius
+Quintus Remmius Palaemon
+Clodius Tuscus
+Cn. Cornel. Lentulus Gaetulicus
+Ticidas
+Iulius Atherianus
+Quintus Claudius Quadrigarius
+Lucius Arruntius
+Pomponius Porphyrio*	150
+Gaius Suetonius* Tranquillus	69	122
+Sextus Iulius Frontinus
+Gaius Licinius Macer Calvus
+Q. Pompeius Q.f.Q.n. Rufus
+Carmen Devotionis
+Santra
+Lucius Marcius Philippus
+Precatio Omnium Herbarum
+Lucius Annaeus Cornutus
+Lucius Ampelius
+Precatio Terrae
+Staberius Eros
+Sextus Pompeius Festus
+Gaius Iulius Caesar*	-100	-44
+Aprissius (?)
+Lucius Ateius Praetextatus
+Aufidius Bassus
+Publius Cominius
+Gaius Helvius Cinna
+Lucius Iulius Caesar
+Quintus Serenus-Sammonicus
+Iustinianus
+Granius Flaccus
+P. Terentius Varro Atacinus
+Didascaliae et Argum. in Plautum
+Pseudo-Varro
+Sextus Pomponius
+Titinius
+Imperator Nero
+Maurus Servius Honoratus
+Iulius Montanus
+Gaius Titius
+Gaius Memmius L. f.
+Cn. Arulenus Caelius Sabinus
+Sevius Nicanor
+Volcacius Sedigitus
+Publius Mucius Scaevola
+Gaius Licinius Macer
+Titus Calpurnius Siculus
+Carmen Evocationis
+Pompilius
+Q. Aurelius Symmachus*	345	402	po
+Hostius
+Gaius Scribonius Curio avus
+Lucius Cornelius Sulla
+Alfius Avitus
+Gaius Cilnius Maecenas
+Pupius-?
+Marcus Iunius Brutus-iur.
+Tarquitius Priscus
+Gaius Ateius Capito
+Servius Clodius
+Pomponius Mela
+Silius Italicus	26	101	po
+Lucius Novius
+Gaius Plinius Secundus	
+Quintus Cornificius
+Sextus -vel Spurius- Ennius
+Commentarius Anquisit. Sergii
+Gnaeus Gellius
+Balbus, grom.
+Q. Fabius Maximus Servilianus
+Albius Tibullus*	-55	-19	po
+Domitius Marsus
+Ninnius Crassus
+Publius Vergilius* Maro	-70	-19	po
+Anonymi Epici et Lyrici
+Altercatio Hadr. et Epicteti
+Valerius Maximus
+Publius Pomponius Secundus
+Caelius Aurelianus
+Marcus Antonius
+Albinovanus Pedo
+Gaius Papirius Carbo
+Q. Pompeius Q.f.A.n. Rufus
+Q. Caecilius Metellus Maced.
+Sulpicia, Caleni uxor
+Phaedrus	-15	50	po
+Cn. Cornel. Lentulus Marcell.
+Gnaeus Naevius*	-270	-201	po
+Gaius Lucilius
+M. Aemilius Lepidus Porcina
+Publius Nigidius Figulus
+Appendix Vergiliana
+Marcus Cornelius Fronto*	100	160
+P. Cornel. Scipio* Afr. ma.	-236	-183
+Gaius Asinius Pollio
+Sueius
+Egnatius
+Marcus Antonius triumvir
+P. Cornel. Scipio Nasica Ser.
+Calpurnius Flaccus
+Marcus Porcius Cato* Uticensis*	-95	-46
+Marcus Iuventius Laterensis
+Titius, gram.
+Vitruvius
+Cornificius Gallus
+Aurelius Opillus
+Arbonius Silo
+Aurelius Augustinus
+Decimus Iunius Iuvenalis
+Fenestella
+Novius, comoed.
+Quintus Asconius Pedianus
+Aufustius
+Marullus
+Lucius Varius Rufus
+Fabius Dossennus
+Antonius Panurgus
+Marcus Valerius Martialis*	38	102	po
+Bellum Hispaniense-Anonymous	-50
+Commentarii Augurum
+Quintus Hortensius Hortalus
+Lucius Pomponius Bononiensis
+Marcus Terentius Varro*	-116	-27
+L. Aemilius L.f.M.n. Paulus
+Gaius Valerius Flaccus*	90
+Titus Lucretius Carus
+Anonymi Fragmenta de Iure Fisci
+Grattius
+Aulus Persius Flaccus
+Decimus Laberius
+Aulus Furius Antias
+Terentianus Maurus
+Sextus Paconianus
+Q. Caecilius Metellus Numid.
+Vibius Crispus
+Anonymi de Differentiis-Fronto
+Hilarius Arelatensis
+Velleius Paterculus
+Quintus Terentius Scaurus
+Aulus Cornelius Celsus
+Mimi Poetarum Incertorum
+Saserna
+Aulus Hirtius
+Laevius
+Marcus Aemilius Scaurus
+Gaius Papirius Carbo Arvina
+M. Valerius Messalla Corvinus
+Sabidius
+Tullius Laurea
+Lucius Annaeus Seneca* senior*	-54	39
+Scriptores Historiae Augustae
+Carmen de Bello Aegyptiaco	0
+Marcus Aurelius
+Apuleius Madaurensis	124	170
+Gaius Aelius Gallus
+Lucius Licinius Crassus
+Lucius Calpurnius Piso Frugi
+Chalcidius
+Gaius Sallustius Crispus	50
+Tabulae Censoriae
+Lucilius iunior
+Quintus Lutatius Catulus
+Turnus
+Appius Claudius Caecus
+Granius Licinianus
+Sextilius Ena
+Claudius Caesar Germanicus
+Decimus Iunius Silanus
+Homerus Latinus
+Hadrianus
+Papinius, epigram.
+Gaius Iulius Hyginus
+Aulus Gellius	125	180
+Gaius Calpurnius Piso
+Quintus* Tullius Cicero*	-50
+Lucius Cornelius Sisenna
+Trabea
+Philumenus medicus
+Quintus Valerius Soranus
+Marcus Fabius Quintilianus*	35	100
+Marcus Tullius Tiro	-50
+Gnaeus Tremelius Scrofa
+L. Aelius Praeconinus Stilo
+Fragmenta Bobiensia
+Gannius
+Caecilius Statius	-220	-166	po
+Lucius Coelius Antipater
+Gaius Caesius Bassus
+Publius Rutilius Rufus
+Lentulus, mimus
+Cornelius Tacitus*	56	120
+Gaius Trebatius Testa
+Anonymi Grammatici
+Quintus Horatius* Flaccus	-65	-8	po
+Titus Annius Luscus
+Gaius Sempronius Gracchus
+Titus Livius*	-59	17
+Imp. Marcus Ulpius Traianus
+Titus Labienus
+Q. Mucius Scaevola-pontifex
+Gaius Clodius Licinus
+M. Valerius Messalla Rufus
+Quintus Servilius Caepio
+Lucius Volusius Maecianus
+Marcus Pacuvius
+Quintus Mucius Scaevola
+L. Aurel. Avianius Symmachus
+Publilius Optatianus Porfyrius*	350	po				
+Attius Labeo
+Naevius, iunior
+Bucolica Einsidlensia
+Helvius Mancia
+Aulus Cremutius Cordus
+Publius Cornelius Dolabella
+Turranius Niger
+Gaius Cornelius Gallus
+Quintus Aelius Tubero
+Caelius Apicius
+Passienus Crispus
+Cornelia, mater Gracchorum
+Gaius Cassius Hemina
+Caecilius Metellus
+Iulius Modestus
+Titus Maccius Plautus*	-254	-184	po
+Mummius
+Aulus Cascellius
+Lucius Cincius Alimentus
+Gaius Memmius
+Publius Papinius Statius*	45	96	po
+Gallus Antipater
+Gaius Asinius Gallus
+Marcus Annaeus Lucanus
+Vagellius
+Annius Florus	100
+Aulus Caecina
+Publius Cannutius
+Argum. Aen. et Tetrast.
+Cornelius Nepos	-110	-25
+Iulius Valerius
+Petronius	50
+Sinnius Capito

@@ -1,0 +1,80 @@
+0
+iustinianus	550
+maurus servius* honoratus	500
+gaius plinius* secundus		23	79
+scriptores historiae augustae	300
+aulus cornelius celsus*	-25	50
+valerius maximus	50
+quintus curtius* rufus	100
+vitruvius	-80	-15
+gaius, iur.	130	180
+marcus annaeus lucanus*	39	65	po
+10
+titus lucretius* carus	-99	-55	po
+sextus pompeius festus*	200
+sextus iulius frontinus*	40	103
+hyginus, myth.	0	hyginus*
+velleius paterculus	-19	31
+decimus iunius iuvenalis*	100	po
+hyginus astronomus	0
+terentianus* maurus	200
+caelius apicius*	500
+quintus asconius* pedianus	-9	76
+20
+pomponius mela	50
+appendix vergiliana	100?	po
+hyginus gromaticus	100
+gaius lucilius*	-148	103	po
+quintus serenus-sammonicus*	-212
+calpurnius flaccus	100
+philumenus medicus	350
+aulus hirtius	-90	-43
+quintus remmius palaemon	50
+homerus latinus	100	Publius* Baebius* Italicus*	po
+30
+lucius ampelius	200?
+siculus flaccus	550
+claudius caesar germanicus	0	pater* caligulae*	po
+__stop
+gaius caesius bassus
+titus calpurnius siculus
+quintus terentius scaurus
+aulus persius flaccus
+fragmenta bobiensia
+granius licinianus
+priapea
+40
+marcus valerius probus
+grattius
+anonymi epici et lyrici
+anonymi de differentiis-fronto
+marcus pacuvius
+aemilius asper
+anonymi comici et tragici
+balbus, grom.
+lucius volusius maecianus
+lucius cornelius sisenna
+50
+pseudo-varro
+lucius pomponius bononiensis
+quintus claudius quadrigarius
+didascaliae et argum. in plautum
+sextus turpilius
+argum. aen. et tetrast.
+titinius
+gaius sempronius gracchus
+decimus laberius
+novius, comoed.
+60
+publius nigidius figulus
+altercatio hadr. et epicteti
+didascaliae et per. in terentium
+anonymi fragmenta de iure fisci
+lucius licinius crassus
+gaius iulius hyginus
+gaius ateius capito
+bucolica einsidlensia
+lucius coelius antipater
+gaius aelius gallus
+70
+iulius valerius

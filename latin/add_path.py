@@ -1,20 +1,22 @@
 import sys
+from gglobal import *
 vol='/users/kylefoley/'
-public2=1
 
 gen_dir = f'{vol}documents/pcode/'
-gen_dir4 = f'{vol}documents/pcode/latin/latin/general/'
+gen_dir2 = f'{vol}documents/pcode/latin/latin/general_la/'
 gen_dir3 = f'{vol}documents/pcode/other/'
 sys.path.append(gen_dir)
 sys.path.append(gen_dir3)
-sys.path.append(gen_dir4)
+sys.path.append(gen_dir2)
 
 
-if public2:
-    import latin.general.very_general_functions as vgf
-    import latin.general.trans_obj as to
-    import latin.general.pickling as pi
-    from latin.general.abbreviations import *
+if public:
+    import general_la.very_general_functions as vgf
+    import general_la.trans_obj as to
+    import general_la.pickling as pi
+    from general_la.abbreviations import *
+    # import general_la.excel_functions as ef
+
 else:
     gen_dir2 = f'{vol}documents/pcode/general/'
     sys.path.append(gen_dir2)

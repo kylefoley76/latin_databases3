@@ -1,0 +1,18 @@
+Naturales Quaestiones.txt
+Apocolocyntosis.txt
+Thyestes.txt	1
+Dialogi.txt
+Agamemnon.txt	1
+Epistulae Morales ad Lucilium.txt
+Medea.txt	1
+Troades.txt	1
+Octavia [sp.].txt	2
+e Cleanthe versus.txt
+Phoenissae.txt	1
+Hercules Oetaeus.txt	2
+Oedipus.txt	1
+Hercules Furens.txt	1
+Phaedra.txt	1
+De Beneficiis.txt
+De Clementia.txt
+De Vita Patris.txt

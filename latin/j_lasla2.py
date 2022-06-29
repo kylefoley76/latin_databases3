@@ -1,5 +1,4 @@
 import add_path
-import very_general_functions
 from lglobals import *
 from i_scrape_old import old_entry
 from collections import ChainMap
@@ -170,8 +169,7 @@ class topmost:
         self.wrong_pos = {}
         self.ui_models = pi.open_pickle(f'{fold}ui_models')
 
-
-    def get_atts_fm(self):
+    def get_atts_sm(self):
         self.forms = defaultdict(dict)
         self.lem2forms_pos = pi.open_pickle(f'{fold}lem2forms_pos', 1)
         self.old_wonum = pi.open_pickle(f'{fold}old_wonum', 1)
@@ -180,18 +178,16 @@ class topmost:
         self.old_variants = pi.open_pickle(f'{fold}old_var2parent', 1)
         self.missing_old_lemmas = pi.open_pickle(f'{fold}missing_old_lemmas', 1)
         self.all_lalems = pi.open_pickle(f'{fold}all_lalems', 1)
-        self.missing = set(self.all_lalems.keys()) - set(self.lem2forms_pos.keys())
         self.clemmas = pi.open_pickle(f"{fold}clemmas", 1)
         self.alt_spellings = pi.open_pickle(f"{fold}alternative_spellings", 1)
         self.found = set()
         self.lem2forms_set = pi.open_pickle(f'{fold}lem2forms_set')
-        self.still_missing = to.from_txt2lst(f'{fold}still_missing')
+        self.missing = to.from_txt2lst(f'{fold}still_missing')
         '''
         for some reason the still_missing were not being included into
         the missing
         
         '''
-        self.missing |= set(self.still_missing)
         return
 
     def get_atts_pm(self):
@@ -233,8 +229,6 @@ class topmost:
         if kind == 7:
             pi.save_pickle(self.llem2clem, f'{fold}llem2clem', 1)
 
-        if kind == 3:
-            pi.save_pickle(self.lem2forms_rev, f'{fold}lem2forms_rev', 1)
         if kind == 6:
             pi.save_pickle(self.las_freq, f'{fold}las_freq2', 1)
 
@@ -245,6 +239,7 @@ class topmost:
             pi.save_pickle(self.llem2clem, f'{fold}llem2clem')
             pi.save_pickle(self.noun2gender, f'{fold}lasla_noun2gen', 1)
             pi.save_pickle(self.lem2forms_rev, f'{fold}lem2forms_rev')
+            pi.save_pickle(self.lem2forms_rev_jv, f'{fold}lem2forms_rev_jv')
             pi.save_pickle(self.las_freq, f'{fold}las_freq2')
             pi.save_pickle(self.las_lem_freq, f'{fold}las_lem_freq')
             pi.save_pickle(self.miss_col_pos, f'{fold}miss_col_pos')
@@ -264,7 +259,7 @@ class get_all_variants(topmost):
 
     def get_variants_fu(self):
         self.lem2alt = {}
-        for k,v in self.lalems_pos_rev.items():
+        for k, v in self.lalems_pos_rev.items():
             for pos, dct in v.items():
                 for num, pdct in dct.items():
                     clem = self.llem2clem[l][num]
@@ -280,12 +275,10 @@ class get_all_variants(topmost):
                             for end in endings:
                                 if word.endswith(end):
                                     beg = word[:-len(end)]
-                                    root2freq[(root, beg)]+=freq
+                                    root2freq[(root, beg)] += freq
 
 
-
-
-class fix_mistakes(get_all_variants):
+class handle_still_missing(get_all_variants):
     def __init__(self):
         get_all_variants.__init__(self)
 
@@ -296,7 +289,7 @@ class fix_mistakes(get_all_variants):
         will be calculated
         '''
 
-        self.get_atts_fm()
+        self.get_atts_sm()
         self.get_ass()
         self.use_wonum()
         self.use_old_variants()
@@ -663,9 +656,9 @@ class fix_mistakes(get_all_variants):
         # for x in
 
 
-class prelim_match(fix_mistakes):
+class prelim_match(handle_still_missing):
     def __init__(self):
-        fix_mistakes.__init__(self)
+        handle_still_missing.__init__(self)
 
     def begin_pm(self, kind=0):
         self.kind = kind
@@ -780,17 +773,15 @@ class prelim_match(fix_mistakes):
         '''
         feb 17 - 53%
         feb 18 - 77%  
-        feb 19 - 77%  
         april 30 - 80%
-        may 1 - 88%
         may 2 - 90%
         bad lemmas: 0.04
         unmatched: 0.03
         bad_word: 0.03
         bad_pos: 0.00
-        found: 0.90
         code_error: 0.000
         unprocessed: 0.0106
+        found: 0.90
         total: 1739218      
         '''
 
@@ -907,10 +898,6 @@ class prelim_match(fix_mistakes):
             to.from_lst2txt(bad_lemmas, f'{fold}bad_lemmas')
             vgf.open_txt_file(f'{fold}bad_lemmas')
         return
-
-
-
-
 
 
 class word2model(prelim_match):
@@ -1367,6 +1354,8 @@ class match_colwlas(word2model):
         self.lem2forms_pos = {x: y for x, y in self.lem2forms_pos.items() if x in self.all_lalems}
         return
 
+
+
     def get_lalems_pos(self):
         '''
         here we assign lemma indexes to parts of speech
@@ -1702,7 +1691,7 @@ class match_colwlas(word2model):
         lst = to.from_txt2lst_tab_delim(f'{fold}wrong_lasla_lemma')
         self.wrong_lemma = {}
         for l in lst:
-            tpl = (l[0],l[1],l[2])
+            tpl = (l[0], l[1], l[2])
             word = l[3]
             self.wrong_lemma[tpl] = word
 
@@ -1710,10 +1699,9 @@ class match_colwlas(word2model):
         lst = to.from_txt2lst_tab_delim(f'{fold}lasla_typos3')
         self.wrong_word = {}
         for l in lst:
-            tpl = (l[0],l[1],l[2])
+            tpl = (l[0], l[1], l[2])
             word = l[3]
             self.wrong_word[tpl] = word
-
 
     def fix_las_freq(self):
         ###  genus, generest sb
@@ -1746,7 +1734,7 @@ class match_colwlas(word2model):
             if lem == 'genus' and word == 'generest' \
                     and pos == 'sb':
                 bb = 8
-            if word in ['prodest','bene','exter']:
+            if word in ['prodest', 'bene', 'exter']:
                 bb = 8
 
             itm = self.wrong_word.get((lem, word, pos))
@@ -1762,8 +1750,6 @@ class match_colwlas(word2model):
             itm = self.wrong_pos.get((lem, word, pos))
             if itm:
                 pos = itm[2]
-
-
 
             if '.' in word or "'" in word or '_' in lem or lem in self.fake_lems or \
                     not lem:
@@ -1790,30 +1776,6 @@ class match_colwlas(word2model):
 
                 dct[(lem, word, pos)] += y
         self.las_freq = dct
-
-        return
-
-    def del_decl_anom(self):
-        '''
-        the following is soley for linking lasla lemmas to collatinus
-        there very well may be legit forms which appear less than
-        1% of the time but we will research these later.
-        '''
-
-        self.illegit_forms = set()
-        for k, v in self.lalems_pos_rev.items():
-            for lpos, dct in v.items():
-                for num, dct1 in dct.items():
-                    for spos, lst in dct1.items():
-                        if len(lst) > 1:
-                            tot = 0
-                            for z in lst:
-                                tot += z[1]
-                            for z in lst:
-                                word = z[0]
-                                rat = z[1] / tot
-                                if rat < .95:
-                                    self.illegit_forms.add((k + num, spos, word))
 
         return
 
@@ -2264,24 +2226,31 @@ class match_colwlas(word2model):
         return int((b / len(lforms)) * 100), wrong
 
     def got_everything(self):
-        have = set(k + n for k, v in self.llem2clem.items() for n in v.keys())
-        not_have = set(k[0] for k in self.missing_proper2)
+        missing = {}
+        missingp = {}
+        for x,y in self.las_lem_freq.items():
+            xu, num = cut_num(x,1)
+            try:
+                self.llem2clem[xu][num]
+            except:
+                if num in ['8','9']:
+                    missingp[x]=y
+                else:
+                    missing[x]=y
+        missing = sort_dct_val_rev(missing)
+        missingp = sort_dct_val_rev(missingp)
 
-        for x in self.miss_col_pos:
-            lem = x[0]
-            pos = x[1]
-            obj = self.lalems_pos[lem][pos]
-            for y in obj.keys():
-                not_have.add(lem + y)
 
-        ast = set(x + z for x, y in self.all_lalems.items() for z in y.keys())
-        missing = ast - (have | not_have)
 
         if missing:
             p(f'still missing {len(missing)} lemmas')
-            to.from_lst2txt(missing, f'{fold}missing5')
-            # vgf.open_txt_file(f'{sfold}missing5')
+            to.from_lst2txt(list(missing.keys()), f'{fold}missing5')
+            if not public:
+                vgf.open_txt_file(f'{fold}missing5')
         return
+
+
+
 
     def test(self, word, clem, llem, func):
         odct = self.llem2clem_old.get(word)
@@ -2297,6 +2266,11 @@ class match_colwlas(word2model):
         self.las_lem_freq = sort_dct_key(self.las_lem_freq)
 
     def add_redund_lems(self):
+        '''
+        these are proper nouns which have the exact same
+        declension as their common name counterparts
+        '''
+
         for k, v in self.redund_prop.items():
             for x, y in v.items():
                 try:
@@ -2315,9 +2289,13 @@ class match_colwlas(word2model):
                 clem = obj[vn]
                 self.llem2clem[ku][kn] = clem
             except:
-                p (f'error in rendundant map {k} {v}')
+                p(f'error in rendundant map {k} {v}')
 
         return
+
+
+
+
 
     def add_gender(self):
         dct = {
@@ -2359,19 +2337,30 @@ class match_colwlas(word2model):
             self.llem2clem = pi.open_pickle(f'{fold}llem2clem2')
             self.co_lemmas5 = pi.open_pickle(f'{fold}co_lemmas5')
         self.lem2forms_rev = {}
+        self.lem2forms_rev_jv = {}
+        p('opening pickles')
         lem2forms_ui = pi.open_pickle(f'{fold}lem2forms_ui')
+        lem2forms_jv = pi.open_pickle(f'{fold}lem2forms_jv')
         c = 0
+        # excel_functions.from_lst2book()
         for k, v in self.llem2clem.items():
             c += 1
-            vgf.print_intervals(c, 200,None, len(self.llem2clem))
+            vgf.print_intervals(c, 200, None, len(self.llem2clem))
             for x, y in v.items():
                 clem = k + y
                 obj = lem2forms_ui[clem]
+                obj2 = lem2forms_jv[clem]
                 dct = defaultdict(set)
+                dct2 = defaultdict(set)
                 for b in obj.values():
                     pos = b[1]
                     dct[pos] = b[0]
+                for b in obj2.values():
+                    pos = b[1]
+                    dct2[pos] = b[0]
                 self.lem2forms_rev[clem] = dct
+                self.lem2forms_rev_jv[clem] = dct2
+        return
 
 
 class bottom_most_la(match_colwlas):
@@ -2394,13 +2383,12 @@ class bottom_most_la(match_colwlas):
             self.elim_pos_in_col()
             self.delete_bogus_pos()
             self.get_num_lems()
-            self.output(5) # used in the o_memorize module
+            self.output(5)  # used in the o_memorize module
 
         if kind > 0:
             self.get_lalems_pos()
             self.combine_proper()
             delattr(self, 'lalems_pos_rev2')
-            self.del_decl_anom()
             self.lasla_pos_anomalies()
             self.elim_redundant_lasla()
             delattr(self, 'lalems_pos_rev3')
@@ -2452,7 +2440,7 @@ if eval(not_execute_on_import):
         ins.rough_preliminary()
 
     elif args[1] == 'fm':
-        ins = fix_mistakes()
+        ins = handle_still_missing()
         ins.begin_fm(2)
 
     elif args[1] == 'a2c':
