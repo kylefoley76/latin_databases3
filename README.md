@@ -5,8 +5,8 @@
 
 To use this software, after performing a pip install, you must perform two steps:
 
-from python import x_download
-from python import z_begin
+from python import x_download  
+from python import z_begin  
 
 These will both download files and also create new ones.  As an example of this codes functionality we repunctuate the LASLA database of the Satyricon into a punctuated text with macrons, accents and elision.
 
