@@ -1,6 +1,5 @@
-import add_path
-from lglobals import *
 import os
+from bglobals import *
 
 
 
@@ -400,7 +399,7 @@ class convert2txt(parse_words):
         #     auth, work = x[1].split(',')
         #     dct[auth]
         self.auth2work = {}
-        file = f'{pdir}latin/{lafold2}'
+        file = f'{lafold}'
         for l in os.listdir(file):
             if not l[0]=='.':
                 auth = l[:-4]

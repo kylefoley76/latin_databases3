@@ -1,6 +1,6 @@
 import subprocess
-from general_la.abbreviations import *
-import general_la.very_general_functions as vgf
+from abbreviations import *
+import very_general_functions as vgf
 
 
 

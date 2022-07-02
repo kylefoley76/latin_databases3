@@ -1,5 +1,4 @@
-import add_path
-from lglobals import *
+from bglobals import *
 
 
 def help():

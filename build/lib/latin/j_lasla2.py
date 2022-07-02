@@ -1,11 +1,10 @@
-import add_path
-from lglobals import *
-from i_scrape_old import old_entry
 from collections import ChainMap
+from bglobals import *
+if not public:
+    from i_scrape_old import old_entry
 from j_lasla import convert2txt
-from a_colat4 import bottom_most_a4
+from c_colat4 import bottom_most_a4
 
-lafold = f'{lfold}lasla/'
 
 '''
 occido3 = occidoō

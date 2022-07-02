@@ -1,5 +1,5 @@
 import pickle, os
-from general_la.abbreviations import *
+from abbreviations import *
 
 
 
@@ -10,6 +10,7 @@ def save_pickle(obj, name, any_name=True):
         name = mdir + 'hi_pickles/' + name
     elif any_name == 'hit':
         name = mdir + 'pickles/hieroglyphs/tests/' + name
+
 
     if not name.endswith(".pkl"):
         name += ".pkl"
@@ -29,6 +30,8 @@ def open_pickle(name, any_folder=True, warn=True):
         name = mdir + 'pickles/' + name
     elif any_folder == 'hi':
         name = mdir + 'hieroglyphs/hi_pickles/' + name
+        # name = f'{os.getcwd()}/{name}'
+
     files_used.add(name)
     pkl_file = open(name, 'rb')
     obj = pickle.load(pkl_file)

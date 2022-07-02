@@ -1,9 +1,10 @@
 
-from general_la.abbreviations import *
+import os, sys
 
 import Levenshtein as lvn
-import sys, subprocess
+import sys, subprocess, zipfile
 from PIL import ImageFont
+from abbreviations import *
 
 
 ######### timers
@@ -272,5 +273,7 @@ def print_intervals(number, interval, fork=None, total=0):
         return
 
 
-
+def unzip(path_to_zip_file, directory_to_extract_to):
+    with zipfile.ZipFile(path_to_zip_file, 'r') as zip_ref:
+        zip_ref.extractall(directory_to_extract_to)
 

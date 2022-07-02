@@ -1,7 +1,6 @@
-import add_path
-from lglobals import *
 from copy import deepcopy
 import unicodedata
+from bglobals import *
 
 
 
@@ -221,7 +220,7 @@ def convert_models(lines, tst=0):
                 try:
                     des_number, root, des = __des.match(line).groups()
                 except AttributeError as E:
-                    print(line, lineno)
+                    # print(line, lineno)
                     raise E
                 if not des:
                     # ToDo : "Deal with empty value in desinence ?"
@@ -258,7 +257,7 @@ def convert_models(lines, tst=0):
             else:
                 if line.startswith("pos"):
                     continue
-                print(line.split(":")[0], lineno)
+                # print(line.split(":")[0], lineno)
 
     pi.save_pickle(old2new,f'{fold}old2new_mods',1)
     return models
@@ -287,11 +286,11 @@ def test_diff(new, old, new_lemmas=[]):
                 dctn = {v:k for k,v in dnew}
                 dcto = {v:k for k,v in dold}
 
-                p(k)
+                # p(k)
                 for x, n in dctn.items():
                     o = dcto.get(x)
                     if o and n != o:
-                        p (x,pos2num[x], n,o)
+                        # p (x,pos2num[x], n,o)
                         bb = 8
 
 

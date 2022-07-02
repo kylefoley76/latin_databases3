@@ -1,4 +1,4 @@
-from lglobals import *
+from bglobals import *
 
 lvow = {
     'a': 'ā',
@@ -17,7 +17,22 @@ bvow = {
     'y': 'ў'
 }
 
-
+dctabb = {
+    'a-': 'ă',
+    'e-': 'ĕ',
+    'i-': 'ĭ',
+    'o-': 'ŏ',
+    'u-': 'ŭ',
+    'v-': 'ŭ',
+    'y-': 'ў',
+    'a+': 'ā',
+    'e+': 'ē',
+    'i+': 'ī',
+    'o+': 'ō',
+    'u+': 'ū',
+    'v+': 'ū',
+    'y+': 'ȳ',
+}
 
 
 
@@ -36,23 +51,6 @@ class pros:
             self.macronize(ucons_dct)
 
     def macronize(self, ucons_dct):
-        dctabb = {
-            'a-': 'ă',
-            'e-': 'ĕ',
-            'i-': 'ĭ',
-            'o-': 'ŏ',
-            'u-': 'ŭ',
-            'v-': 'ŭ',
-            'y-': 'ў',
-            'a+': 'ā',
-            'e+': 'ē',
-            'i+': 'ī',
-            'o+': 'ō',
-            'u+': 'ū',
-            'v+': 'ū',
-            'y+': 'ȳ',
-        }
-
         s = self.wmac
         for x, y in dctabb.items():
             s = s.replace(x, y)
@@ -113,7 +111,7 @@ class pedecerto:
     def begin(self):
         self.get_atts()
         self.make_class()
-        self.researchj()
+        # self.researchj()
         self.output_p()
         # self.weed_out()
 
@@ -122,7 +120,7 @@ class pedecerto:
 
     def get_atts(self, second=0):
         if not second:
-            self.macronizer = pi.open_pickle(f'{fold}macronizer', 1)
+            self.macronizer = pi.open_pickle(f'{fold}macronizer_new', 1)
             self.prosodic = to.from_txt2lst(f'{fold}prosodic')
             self.word2stats = {}
             self.prosodic_stats = defaultdict(list)
@@ -226,7 +224,7 @@ class long_by_pos:
         pass
 
     def begin3(self):
-        self.get_atts(2)
+        self.get_atts4(2)
         self.get_atts2()
         self.step2()
         self.test()
@@ -236,13 +234,13 @@ class long_by_pos:
 
 
 
-    def get_atts(self, pede=0):
+    def get_atts4(self, pede=0):
         self.ucons_dct = {}
         if not pede:
             self.lemmes = to.from_txt2lst(f'{fold}lemmes', 1)
         elif pede == 2:
             self.macronizer = pi.open_pickle(f'{fold}macronizer_new', 1)
-            self.prosodic_stats = pi.open_pickle(f'{fold}prosodic_stats', 1)
+            self.prosodic_stats = pi.open_pickle(f'{fold}prosodic_stats_new', 1)
         else:
             self.prosodic = to.from_txt2lst(f'{fold}prosodic')
             self.macronizer = pi.open_pickle(f'{fold}macronizer_new', 1)
@@ -252,6 +250,7 @@ class long_by_pos:
     def output(self):
         st = set(v[0].iu for k, v in self.still_wrong.items())
         to.from_lst2txt(st, f'{fold}col_ped_diff')
+
 
 
     def research_ui(self):
@@ -279,17 +278,18 @@ class long_by_pos:
 
     def test(self):
         error = {}
-        for x, y in self.prosodic_stats.items():
-            coll = self.macronizer.get(y.iu)
-            if coll:
-                wmacu = unidecode(y.wmac)
-                st = set()
-                for k, v in coll.items():
-                    k1 = unidecode(k)
-                    st.add(k1)
-                col2 = vgf.dct_idx(coll)
-                if wmacu not in st:
-                    error[(y.wmac, col2)] = [y, coll]
+        for x, z in self.prosodic_stats.items():
+            for y in z:
+                coll = self.macronizer.get(y.iu)
+                if coll:
+                    wmacu = unidecode(y.wmac)
+                    st = set()
+                    for k, v in coll.items():
+                        k1 = unidecode(k)
+                        st.add(k1)
+                    col2 = vgf.dct_idx(coll)
+                    if wmacu not in st:
+                        error[(y.wmac, col2)] = [y, coll]
         self.error = error
         return
 
@@ -350,15 +350,17 @@ class long_by_pos:
         long by position and those that are not
 """)
 
-        for k, self.ins in self.prosodic_stats.items():
+        for k, lst in self.prosodic_stats.items():
             b += 1
             # if b > 10_000:
             #     break
+
             vgf.print_intervals(b, 500,None,len(self.prosodic_stats))
-            x = self.ins.wmac
-            self.is_heavy(x)
-            if len(self.wrong) > 100:
-                bb = 8
+            for self.ins in lst:
+                x = self.ins.wmac
+                self.is_heavy(x)
+                if len(self.wrong) > 100:
+                    bb = 8
 
         return
 
@@ -549,10 +551,33 @@ class check_vowels(long_by_pos):
     def begin_e(self):
         self.get_atts()
         self.get_atts2()
+
+
         self.unambig_words()
         self.mark_long(1)
         #self.by_author() currently has bugs
         return
+
+
+
+    def begin_f(self):
+        '''
+        for reasons that utterly escape i cannot get the obj
+        self.prosodic_stats to open a second time.  for this
+        reasons i've had to combine long_by_pos.begin3 with
+        check_vowels.begin_f
+
+        '''
+
+        self.get_atts4(2)
+        self.get_atts2()
+        self.get_atts()
+        self.step2()
+        self.test()
+        self.mf_diph()
+        self.output()
+        self.unambig_words()
+        self.mark_long(1)
 
 
 
@@ -567,10 +592,10 @@ class check_vowels(long_by_pos):
 
 
     def get_atts(self):
-        self.macronizer = pi.open_pickle(f'{fold}macronizer_new', 1)
+        # self.macronizer = pi.open_pickle(f'{fold}macronizer_new', 1)
         self.splits = pi.open_pickle(f'{fold}splits', 1)
-        self.prosodic_stats = pi.open_pickle(f'{fold}prosodic_stats', 1)
-        self.col_ed_diff = set(to.from_txt2lst(f'{fold}col_ped_diff'))
+        # self.prosodic_stats = pi.open_pickle(f'{fold}prosodic_stats', 1)
+        # self.col_ed_diff = set(to.from_txt2lst(f'{fold}col_ped_diff'))
 
     def unambig_words(self):
         '''
@@ -807,6 +832,10 @@ if eval(not_execute_on_import):
     elif args[1] == 'cve':
         ins = check_vowels()
         ins.begin_e()
+    elif args[1] == 'pc':
+        ins = pedecerto()
+        ins.begin()
+
     elif args[1] == 'acc':
         ins = check_vowels()
         ins.begin_ac()

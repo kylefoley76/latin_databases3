@@ -1,9 +1,9 @@
-import add_path
-from lglobals import *
 import copy
-from i_scrape_old import old_entry
+from bglobals import *
+if not public:
+    from i_scrape_old import old_entry
 from j_lasla2 import match_colwlas, bottom_most_la
-from a_colat4 import bottom_most_a4
+from c_colat4 import bottom_most_a4
 
 
 class forms:

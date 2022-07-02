@@ -12,15 +12,15 @@ conditional = chr(8594)
 ds = ".DS_Store"
 ds1 = '._.DS_Store'
 
-vol = '/users/kylefoley/'
-
-fdir = vol + 'documents/'
-fdir2 = vol + 'documents/'
-mdir = vol + 'documents/codes/'
+# vol = '/users/kylefoley/'
+#
+# fdir = vol + 'documents/'
+# fdir2 = vol + 'documents/'
+# mdir = vol + 'documents/codes/'
 files_used = set()
-pdir = fdir + 'pcode/'
-base_dir = '/Users/kylefoley/documents/pcode/'
-dwn_dir = '/users/kylefoley/downloads/'
+# pdir = fdir + 'pcode/'
+# base_dir = '/Users/kylefoley/documents/pcode/'
+# dwn_dir = '/users/kylefoley/downloads/'
 
 dia = 'àáäâèéêëìíïîòóöôùúûüçßñ'
 diau = 'ÀÁÄÂÈÉÊËÌÍÏÎÒÓÖÔÙÚÛÜÇÑ' + dia
