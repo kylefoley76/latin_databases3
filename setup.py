@@ -49,7 +49,7 @@ class PostInstallCommand(install):
 
 setup(
     name='latin_databases',
-    version='0.1.13',
+    version='0.1.14',
     description='none',
     long_description=long_description,
     long_description_content_type='text/markdown',
@@ -60,7 +60,7 @@ setup(
     zip_safe=False,
     packages=['latin','latin/general_la','latin/unidecode2'],
     install_requires=['Levenshtein',
-                      'striprtf==0.0.12',
+                      'striprtf==0.0.14',
                       ],
     cmdclass={
             'develop': PostDevelopCommand,

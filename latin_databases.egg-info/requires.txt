@@ -1,2 +1,2 @@
 Levenshtein
-striprtf==0.0.12
+striprtf==0.0.14
