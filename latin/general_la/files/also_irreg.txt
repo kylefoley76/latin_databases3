@@ -1,9 +1,0 @@
-! if there is nothing in column 2 then skip this word 
-circulus	forms:	accusative circulus
-Bona Dea
-Megalopolis	forms:	accusative Megalēnpolin
-nunciam
-passiolus
-sapsa	forms:	accusative sumpse
-Agrippa
-animaduerto
